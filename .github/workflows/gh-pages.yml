@@ -1,0 +1,35 @@
+name: github-pages
+
+on:
+  # enable manual trigger
+  workflow_dispatch:
+  # alternative "on pr merged" not working
+  # https://github.community/t/trigger-workflow-only-on-pull-request-merge/17359/8
+  workflow_run:
+    types:
+      - completed
+    workflows:
+      - 'my-awesome-telegram'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.83.1'
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.ref == 'refs/heads/main' }}
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public

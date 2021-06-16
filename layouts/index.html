@@ -1,0 +1,8 @@
+{{ define "main" }}
+    {{ range .Site.Data.telegram }}
+        <div>{{ .timestamp }}</div>
+        <div><a href="{{ .url }}" target="_blank">{{ .description }}</a></div>
+        <ul>{{ range .tags }}<li>{{ .name }}</li>{{ end }}</ul>
+        <br>
+    {{ end }}
+{{ end }}
