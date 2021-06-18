@@ -18,9 +18,17 @@
   line-height: 1.6em;
 } */
 
+$h1-color: red;
+$a-color: yellow;
+
 body {
   color: #232333;
   font-family: 'Roboto Mono', monospace;
   font-size: 15px;
   line-height: 1.6em;
+  background-color: aqua;
+
+  div {
+    color: $h1-color !important;
+  }
 }

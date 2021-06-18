@@ -16,4 +16,5 @@ http://localhost:1313
 
 <!--
 https://blog.bitsrc.io/13-css-ui-grid-systems-and-libraries-for-2018-5918104cb591
+https://github.com/spech66/hugo-best-practices
 -->
