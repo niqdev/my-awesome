@@ -12,6 +12,7 @@
 <div class="row start-xs">
   <div class="col-xs-12">
     <div class="box">
+      <h1 class="my-title">{{ .Title }}</h1>
       <ul>
         {{ range $tags }}
         {{ $tags_path := (printf "/tags/%s" (urlize .name)) }}

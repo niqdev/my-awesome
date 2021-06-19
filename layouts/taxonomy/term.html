@@ -1,3 +1,28 @@
 {{ define "main" }}
-TAG-single
+
+{{ $items := slice }}
+{{ range .Site.Data.telegram }}
+  {{ $item := . }}
+
+  {{ range where .tags "name" $.Params.title }}
+    {{ $items = $items | append $item }}
+  {{ end }}
+{{ end }}
+
+<!-- {{ printf "%#v" $.Params.title }} -->
+<!-- {{ printf "%#v" $items }} -->
+
+<div class="row start-xs">
+  <div class="col-xs-12">
+    <div class="box">
+      <h1 class="my-title">{{ .Title | title }}</h1>
+      <ul>
+        {{ range $items }}
+        <li><a href="{{ .url }}" target="_blank">{{ .description }}</a></li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</div>
+
 {{ end }}
