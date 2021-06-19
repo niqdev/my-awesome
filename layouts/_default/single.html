@@ -1,8 +1,12 @@
 {{ define "main" }}
-  <h1 class="my-title">{{ .Title }}</h1>
-  <div>
-    {{ if .Date }}Posted on {{ dateFormat "Jan 2, 2006" .Date }}{{ end }}
-    {{ if .Draft }}<span class="my-draft">DRAFT</span>{{ end }}
+<div class="row">
+  <div class="col-xs-12 start-xs">
+    <h1 class="my-title">{{ .Title }}</h1>
+    <div>
+      <time>{{ if .Date }}Posted on {{ dateFormat "Jan 2, 2006" .Date }}{{ end }}</time>
+      {{ if .Draft }}<span class="my-draft">DRAFT</span>{{ end }}
+    </div>
+    {{ .Content }}
   </div>
-  {{ .Content }}
+</div>
 {{ end }}

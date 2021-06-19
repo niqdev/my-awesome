@@ -1,11 +1,15 @@
 <footer>
-  <hr>
-  <a class="my-social" href="https://github.com/niqdev/my-awesome" title="github">
-    <i data-feather="github"></i>
-  </a>|
-  {{ dateFormat "2006" now }}
+  <div class="row">
+    <div class="col-xs-12">
+      <div class="box">
+        <hr>
+        <a class="my-social" href="https://github.com/niqdev/my-awesome" title="github"><i data-feather="github"></i></a>|
+        <time>{{ dateFormat "2006" now }}</time>
+      </div>
+    </div>
+  </div>
 </footer>
 <script>
   feather.replace()
 </script>
-{{ printf "%#v" $.Site }}
+<!-- {{ printf "%#v" $.Site }} -->

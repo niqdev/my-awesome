@@ -40,7 +40,7 @@ func getCookie(name string, r interface{}) (*http.Cookie, error) {
 }
 
 func setCookie(cookie *http.Cookie, w interface{}) error {
-	// Get write interface registered using `Acquire` method in handlers.
+	// comment
 	wr := w.(http.ResponseWriter)
 	http.SetCookie(wr, cookie)
 	return nil

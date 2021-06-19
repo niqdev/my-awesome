@@ -16,6 +16,7 @@
   {{ end }}
   {{ $style = slice $style | resources.Concat "all.css" | toCSS | minify | fingerprint "sha512" }}
   <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
-  
-  <script src="https://unpkg.com/feather-icons"></script>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.min.css" type="text/css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/feather-icons/4.28.0/feather.min.js"></script>
 </head>

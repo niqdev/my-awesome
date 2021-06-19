@@ -20,6 +20,24 @@ html {
   color: #232333;
   font-family: 'Roboto Mono', monospace;
   font-size: 15px;
+  line-height: 1.6em;
+}
+
+body{
+  display: block;
+  margin: 8px;
+}
+.my-container {
+  margin-bottom: 4em;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px;
+  padding: 0 1ch;
+  word-wrap: break-word;
+}
+
+* {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
 ::selection {
@@ -36,10 +54,6 @@ hr {
   border: 0;
   border-top: 3px dotted $seconday-color;
   margin: 1em 0;
-}
-
-time {
-  color: grey;
 }
 
 blockquote {
@@ -73,10 +87,22 @@ ul > li::before {
   font-weight: bold;
 }
 
-// heading
+// header
+header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 1em 0;
+}
+header .my-header {
+  font-size: 1.5rem;
+}
 h1, h2, h3, h4, h5, h6 {
   font-size: 1.2rem;
   margin-top: 2em;
+}
+h1 .my-title {
+  margin-bottom: 0;
 }
 h1::before { color: $primary-color; content: '# '; }
 h2::before { color: $primary-color; content: '## '; }
@@ -85,34 +111,17 @@ h4::before { color: $primary-color; content: '#### '; }
 h5::before { color: $primary-color; content: '##### '; }
 h6::before { color: $primary-color; content: '###### '; }
 
-header {
-  margin: 1em 0;
-}
-
-.my-header {
-  font-size: 1.5rem;
-}
-
 footer {
-  margin: 1em 0 5em;
+  margin-top: 1em;
 
   // icon
   svg {
     max-height: 20px;
   }
-  .my-social {
-    padding: 10px 5px 0 5px;
-  }
 }
 
-// draft badge
-.my-draft { 
-  color: $badge-color;
-  text-decoration: none;
-  padding: 2px 4px;
-  border-radius: 4px;
-  margin-left: 6px;
-  background-color: #f9f2f4;
+time {
+  color: grey;
 }
 
 // code blocks
@@ -161,4 +170,14 @@ pre code {
   content: 'Go';
   background: cyan;
   color: royalblue ;
+}
+
+// draft badge
+.my-draft { 
+  color: $badge-color;
+  text-decoration: none;
+  padding: 2px 4px;
+  border-radius: 4px;
+  margin-left: 6px;
+  background-color: #f9f2f4;
 }

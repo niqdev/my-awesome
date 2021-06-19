@@ -1,10 +1,16 @@
 <header>
-	<div class="my-header">
-		<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+	<div class="row">
+		<div class="col-xs-2 start-xs">
+			<div class="box">
+				<a class="my-header" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+			</div>
+		</div>
+		<div class="col-xs-10 end-xs">
+			<div class="box">
+				{{ range .Pages }}
+			<a href="{{ .Permalink }}">{{ .Title }}</a>
+			{{ end }}
+			</div>
+		</div>
 	</div>
-	<nav>
-		{{ range .Pages }}
-		<a href="{{ .Permalink }}">{{ .Title }}</a>
-		{{ end }}
-	</nav>
 </header>
