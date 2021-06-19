@@ -1,5 +1,5 @@
 ---
-title: "Typography"
+title: Typography
 date: 2021-06-01T20:30:42Z
 tags: [ example, todo ]
 draft: true

@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+<!-- find all unique telegram tags -->
+{{ $tags := slice }}
+{{ range .Site.Data.telegram }}
+  {{ $tags = $tags | append .tags }}
+{{ end }}
+{{ $tags = uniq $tags }}
+
+<!-- {{ printf "%#v" $tags }} -->
+
+<div class="row start-xs">
+  <div class="col-xs-12">
+    <div class="box">
+      <ul>{{ range $tags }}<li>{{ .name }}</li>{{ end }}</ul>
+    </div>
+  </div>
+</div>
+
+{{ end }}

@@ -6,10 +6,16 @@
 			</div>
 		</div>
 		<div class="col-xs-12 col-sm-10 start-xs end-sm">
+			<!-- list draft pages -->
+			<!-- <div class="box">
+				{{ range .RegularPages }}
+				<a href="{{ .Permalink }}">{{ .Title }}</a>
+				{{ end }}
+			</div> -->
 			<div class="box">
-				{{ range .Pages }}
-			<a href="{{ .Permalink }}">{{ .Title }}</a>
-			{{ end }}
+				{{ range .Site.Menus.main }}
+				<a href="{{ .URL }}">{{ .Title }}</a>
+				{{ end }}
 			</div>
 		</div>
 	</div>

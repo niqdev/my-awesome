@@ -1,3 +1,22 @@
 baseURL: "https://myawesome.dev/"
 languageCode: "en-us"
 title: "MyAwesome"
+
+# disable categories
+taxonomies:
+  tag: tags
+
+menu:
+  main:
+  # - identifier: typography
+  #   title: Typography
+  #   url: /typography/
+  #   weight: 1
+  - identifier: tags
+    title: Tags
+    url: /tags/
+    weight: 2
+  - identifier: about
+    title: About
+    url: /about/
+    weight: 3

@@ -13,8 +13,8 @@
 }
 
 $primary-color: dodgerblue;
-$seconday-color: rebeccapurple;
-$badge-color: navy;
+$secondary-color: rebeccapurple;
+$dark-color: navy;
 
 html {
   color: #232333;
@@ -34,7 +34,7 @@ p {
  
 hr {
   border: 0;
-  border-top: 3px dotted $seconday-color;
+  border-top: 3px dotted $secondary-color;
   margin: 1em 0;
 }
 
@@ -43,7 +43,7 @@ time {
 }
 
 blockquote {
-  border-left: 3px solid $seconday-color;
+  border-left: 3px solid $secondary-color;
   color: #737373;
   margin: 0;
   padding-left: 1em;
@@ -56,7 +56,7 @@ a {
   text-decoration: none;
 }
 a:hover {
-  background-color: $seconday-color;
+  background-color: $secondary-color;
   color: #fff;
 }
 
@@ -183,7 +183,7 @@ figure h4::before {
 
 // draft badge
 .my-draft { 
-  color: $badge-color;
+  color: $dark-color;
   text-decoration: none;
   padding: 2px 4px;
   border-radius: 4px;
@@ -210,6 +210,7 @@ figure h4::before {
   background-color: #00d1b2;
   font-family: 'Fira Sans', sans-serif;
   font-size: 0.9em;
+  font-weight: 550;
   margin: 0.1em;
   padding: 0.2em 0.4em;
 }
