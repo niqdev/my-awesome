@@ -1,0 +1,10 @@
+<header>
+	<div class="my-header">
+		<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+	</div>
+	<nav>
+		{{ range .Pages }}
+		<a href="{{ .Permalink }}">{{ .Title }}</a>
+		{{ end }}
+	</nav>
+</header>

@@ -5,9 +5,8 @@
   <title>{{ .Site.Title }}</title>
 
   <link rel="icon" type="image/png" href="{{ "images/favicon.ico"  | absURL }}">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css">
   
-  <!-- load main style and combine all scss files to one minified file -->
+  <!-- loads main style and combines all scss files to one minified file -->
   {{ $style := resources.Get "scss/main.scss" }}
   <!-- order of "@import" matter: see "resources.Match" alternative -->
   {{ $stylePaths := readDir "assets/scss" }}
@@ -17,6 +16,6 @@
   {{ end }}
   {{ $style = slice $style | resources.Concat "all.css" | toCSS | minify | fingerprint "sha512" }}
   <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
-
-  <!-- <script src=""></script> -->
+  
+  <script src="https://unpkg.com/feather-icons"></script>
 </head>

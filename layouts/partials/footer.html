@@ -1,5 +1,11 @@
-<footer class="footer">
-  <div class="content has-text-centered">
-    <p>footer</p>
-  </div>
+<footer>
+  <hr>
+  <a class="my-social" href="https://github.com/niqdev/my-awesome" title="github">
+    <i data-feather="github"></i>
+  </a>|
+  {{ dateFormat "2006" now }}
 </footer>
+<script>
+  feather.replace()
+</script>
+{{ printf "%#v" $.Site }}

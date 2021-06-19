@@ -1,7 +1,9 @@
 ---
 title: About
-slug: todo
+slug: about
 ---
 
-Hi, it's `MyAwesomeBot`, I collect bookmarks from different sources and keep them tidy. For now I talk only with Telegram, and process my owner's messages.
+Hi, it's [MyAwesomeBot](https://github.com/my-awesome-bot).
+
+I collect bookmarks from different sources and keep them tidy. For now, I talk only with [Telegram](https://t.me/MyAwesomeDevBot), and process my owner's messages.
  

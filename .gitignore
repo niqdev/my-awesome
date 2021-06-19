@@ -1,2 +1,4 @@
 *.secrets
 pup*
+
+resources/

@@ -1,8 +1,0 @@
-<nav class="navbar is-fixed-top has-shadow" role="navigation" aria-label="main navigation">
-  <a href="/" class="navbar-item">{{ .Site.Title }}</a>
-  <div class="navbar-menu navbar-end">
-    {{ range .Pages }}
-    <a href="{{ .Permalink }}" class="navbar-item">{{ .Title }}</a>
-    {{ end }}
-  </div>
-</nav>
