@@ -6,7 +6,7 @@ Git-based bookmarking tool powered by GitHub actions, integrated with Telegram, 
 
 * [Hugo](https://gohugo.io/documentation)
 * [Flexbox Grid](http://flexboxgrid.com)
-* Inspired by [Archie - Hugo theme](https://github.com/athul/archie)
+* Theme inspired by [Archie](https://github.com/athul/archie) and [Cactus](https://github.com/monkeyWzr/hugo-theme-cactus)
 
 ```bash
 # run locally

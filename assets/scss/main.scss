@@ -105,16 +105,6 @@ footer {
   }
 }
 
-// draft badge
-.my-draft { 
-  color: $badge-color;
-  text-decoration: none;
-  padding: 2px 4px;
-  border-radius: 4px;
-  margin-left: 6px;
-  background-color: #f9f2f4;
-}
-
 // code blocks
 code {
   background-color: #f1f1f1;
@@ -161,4 +151,65 @@ pre code {
   content: 'Go';
   background: cyan;
   color: royalblue ;
+}
+
+// images
+img {
+  border: 3px solid #ececec;
+  max-width: 100%;
+}
+figure {
+  box-sizing: border-box;
+  display: inline-block;
+  margin: 0;
+  max-width: 100%;
+}
+figure img {
+  max-height: 500px;
+}
+@media screen and (min-width: 600px) {
+  figure {
+    padding: 0 40px;
+  }
+}
+figure h4 {
+  font-size: 1rem;
+  margin: 0;
+  margin-bottom: 1em;
+}
+figure h4::before {
+  content: '↳ ';
+}
+
+// draft badge
+.my-draft { 
+  color: $badge-color;
+  text-decoration: none;
+  padding: 2px 4px;
+  border-radius: 4px;
+  margin-left: 6px;
+  background-color: #f9f2f4;
+}
+
+// bookmarks
+.my-bookmark-timestamp {
+  font-size: 0.9em;
+}
+.my-bookmark-link {
+  font-size: 0.9em;
+}
+.row.my-bookmark-tags {
+  margin: 0.5em 0 1em;
+}
+.col-xs-1.my-bookmark-tag {
+  // override flexbox
+  flex-basis: auto;
+  max-width: fit-content;
+  
+  border-radius: 0.375em;
+  background-color: #00d1b2;
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 0.9em;
+  margin: 0.1em;
+  padding: 0.2em 0.4em;
 }
