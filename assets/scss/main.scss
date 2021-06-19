@@ -20,6 +20,7 @@ html {
   color: #232333;
   font-family: 'Roboto Mono', monospace;
   font-size: 15px;
+  line-height: 1.6em;
 }
 
 ::selection {
@@ -212,5 +213,13 @@ figure h4::before {
   font-size: 0.9em;
   font-weight: 550;
   margin: 0.1em;
-  padding: 0.2em 0.4em;
+
+  // clean style
+  a {
+    border-bottom: none;
+  }  
+}
+.col-xs-1.my-bookmark-tag:hover {
+  background-color: $secondary-color;
+  color: #fff;
 }

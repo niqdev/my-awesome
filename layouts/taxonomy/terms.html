@@ -12,7 +12,12 @@
 <div class="row start-xs">
   <div class="col-xs-12">
     <div class="box">
-      <ul>{{ range $tags }}<li>{{ .name }}</li>{{ end }}</ul>
+      <ul>
+        {{ range $tags }}
+        {{ $tags_path := (printf "/tags/%s" (urlize .name)) }}
+        <li><a href="{{ $tags_path }}">{{ .name }}</a></li>
+        {{ end }}
+      </ul>
     </div>
   </div>
 </div>

@@ -19,7 +19,10 @@
       <div class="col-xs-12">
         <div class="box">
           <div class="row my-bookmark-tags">
-            {{ range .tags }}<div class="col-xs-1 my-bookmark-tag">{{ .name }}</div>{{ end }}
+            {{ range .tags }}
+            {{ $tags_path := (printf "/tags/%s" (urlize .name)) }}
+            <div class="col-xs-1 my-bookmark-tag"><a href="{{ $tags_path }}">{{ .name }}</a></div>
+            {{ end }}
           </div>
         </div>
       </div>
