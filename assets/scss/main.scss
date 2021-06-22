@@ -193,14 +193,15 @@ figure h4::before {
 }
 
 // bookmarks
+.row.my-bookmark {
+  margin-top: 0.5em;
+}
 .my-bookmark-timestamp {
+  font-family: 'Fira Sans', sans-serif;
   font-size: 0.9em;
 }
 .my-bookmark-link {
   font-size: 0.9em;
-}
-.row.my-bookmark-tags {
-  margin: 0.5em 0 1em;
 }
 .col-xs-1.my-bookmark-tag {
   // override flexbox
