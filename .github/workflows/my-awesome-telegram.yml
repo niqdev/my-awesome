@@ -12,13 +12,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Set variables
+        # ISO 8601 format (UTC)
         run: |
-          echo "TIMESTAMP=$(date +%Y%m%d-%H%M%S)" >> $GITHUB_ENV
+          echo "TIMESTAMP=$(date -u +%Y-%m-%dT%H:%M:%SZ)" >> $GITHUB_ENV
 
       - name: Checkout repository
         uses: actions/checkout@v2
       
-      - name: Fetch latest Telegram messages
+      - name: Sync Telegram
         run: ${{ github.workspace }}/.github/scripts/telegram.sh
         env:
           DATA_PATH: "./data/telegram.json"

@@ -7,13 +7,14 @@
 <div class="row start-xs">
   <div class="col-xs-12">
     {{ range .Site.Data.telegram }}
-    <div class="row my-bookmark">
+    <div class="row bottom-xs my-bookmark">
       <div class="col-xs-12 col-sm-3">
-        <div class="box my-bookmark-timestamp"><time>{{ .timestamp }}</time></div>
+        <!-- RFC1123 "Mon, 02 Jan 2006 15:04:05 MST" -->
+        <div class="box my-bookmark-timestamp"><time>{{ dateFormat "Mon, 02 Jan 2006 15:04" .timestamp }}</time></div>
       </div>
       <div class="col-xs-12 col-sm-9">
         <div class="box">
-          <div class="row end-sm">
+          <div class="row end-sm my-bookmark-tags">
             {{ range .tags }}
             {{ $tags_path := (printf "/tags/%s" (urlize .name)) }}
             <div class="col-xs-1 my-bookmark-tag"><a href="{{ $tags_path }}">{{ .name }}</a></div>
@@ -24,9 +25,7 @@
     </div>
     <div class="row">
       <div class="col-xs-12">
-        <div class="box my-bookmark-link">
-          <a href="{{ .url }}" target="_blank">{{ .description }}</a>
-        </div>
+        <div class="box my-bookmark-link"><a href="{{ .url }}" target="_blank">{{ .description }}</a></div>
       </div>
     </div>
     {{ end }}

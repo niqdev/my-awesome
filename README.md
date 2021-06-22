@@ -18,7 +18,6 @@ http://localhost:1313
 <!--
 
 TODO:
-* timestamp iso utc
 * sanitize tags [a-zA-Z0-0_-/]
 * path vs tag
 * tag: name/type:auto/custom/path-folder ???

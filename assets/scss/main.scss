@@ -203,7 +203,10 @@ figure h4::before {
 .my-bookmark-link {
   font-size: 0.9em;
 }
-.col-xs-1.my-bookmark-tag {
+.row.my-bookmark-tags {
+  margin: 0.1em;
+}
+div[class^='col-'].my-bookmark-tag {
   // override flexbox
   flex-basis: auto;
   max-width: fit-content;
@@ -220,7 +223,7 @@ figure h4::before {
     border-bottom: none;
   }  
 }
-.col-xs-1.my-bookmark-tag:hover {
+div[class^='col-'].my-bookmark-tag:hover {
   background-color: $secondary-color;
   color: #fff;
 }
