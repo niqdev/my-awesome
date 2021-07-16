@@ -3,7 +3,7 @@ name: my-awesome-telegram
 on:
   # enable manual trigger
   workflow_dispatch:
-  # schedule:
+  schedule:
     # every 12 hours
     - cron: '0 0,12 * * *'
 
