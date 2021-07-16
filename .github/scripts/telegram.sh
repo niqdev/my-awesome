@@ -163,6 +163,23 @@ function append_messages {
     > ${DATA_PATH}
 }
 
+function update_tags {
+  local INDEX_PATH="content/_index.md"
+  # extract yaml between "---" (hugo front matter)
+  local YAML_BEFORE=$(cat ${INDEX_PATH} | cut -d'-' -f 1)
+  # all unique sorted tags
+  local TAGS="$(cat ${DATA_PATH} | jq '[.[] .tags[] .name] | unique')"
+  
+  echo "#---" > ${INDEX_PATH}
+
+  # override tags
+  echo "${YAML_BEFORE}" | yq -y \
+    --argjson TAGS "${TAGS}" \
+    '{"title": .title, "tags": $TAGS}' >> ${INDEX_PATH}
+  
+  echo "---" >> ${INDEX_PATH}
+}
+
 ##############################
 
 function main {
@@ -174,6 +191,7 @@ function main {
   echo -e "[*] new messages:\n${MESSAGES}"
 
   append_messages "${MESSAGES}"
+  update_tags
 
   echo "[*] latest offset: $(get_latest_offset)"
   echo "[*] latest count: $(count_messages)"
@@ -183,6 +201,7 @@ echo "[+] telegram"
 
 curl --version
 jq --version
+yq --version
 install_pup
 
 # TODO interactive bot e.g. suggest latest tags, edit description
