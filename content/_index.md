@@ -1,6 +1,4 @@
 ---
 title: Bookmarks
-tags:
-  - telegram
-  - test
+tags: []
 ---
