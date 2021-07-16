@@ -91,8 +91,8 @@ function validate_messages {
   # - converts whitespaces in new lines
   # - converts string to array splitting by new line
   echo ${RESPONSE} | jq -c \
-    --arg TELEGRAM_FROM_ID ${TELEGRAM_FROM_ID} \
-    --arg TIMESTAMP ${TIMESTAMP} \
+    --arg TELEGRAM_FROM_ID "${TELEGRAM_FROM_ID}" \
+    --arg TIMESTAMP "${TIMESTAMP}" \
     '[ .result[] | select(.message.from.id==($TELEGRAM_FROM_ID | tonumber)) ] |
       map({
         "update_id": .update_id,
@@ -170,7 +170,7 @@ function update_tags {
   # all unique sorted tags
   local TAGS="$(cat ${DATA_PATH} | jq '[.[] .tags[] .name] | unique')"
   
-  echo "#---" > ${INDEX_PATH}
+  echo "---" > ${INDEX_PATH}
 
   # override tags
   echo "${YAML_BEFORE}" | yq -y \
@@ -184,6 +184,7 @@ function update_tags {
 
 function main {
   echo "[*] DATA_PATH=${DATA_PATH}"
+  echo "[*] TIMESTAMP=${TIMESTAMP}"
   echo "[*] current offset: $(get_latest_offset)"
   echo "[*] current count: $(count_messages)"
 
