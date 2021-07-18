@@ -66,5 +66,37 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598311,
+    "timestamp": "2021-07-18T15:56:38Z",
+    "url": "https://www.toptal.com/scala/writing-an-interpreter",
+    "description": "Writing an Interpreter From Scratch | Toptal",
+    "path": "/scala",
+    "source": "telegram",
+    "tags": [
+      {
+        "name": "interpreter",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598312,
+    "timestamp": "2021-07-18T15:56:38Z",
+    "url": "https://github.com/nektos/act",
+    "description": "GitHub - nektos/act: Run your GitHub Actions locally 🚀",
+    "path": "/",
+    "source": "telegram",
+    "tags": [
+      {
+        "name": "github",
+        "auto": false
+      },
+      {
+        "name": "development",
+        "auto": false
+      }
+    ]
   }
 ]
