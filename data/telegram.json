@@ -48,5 +48,23 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598310,
+    "timestamp": "2021-07-18T15:17:14Z",
+    "url": "https://github.com/barrracud4/image-upload-exploits",
+    "description": "This repository contains various media files for known attacks on web applications processing media files. Useful for penetration tests and bug bounty.",
+    "path": "/security",
+    "source": "telegram",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "pentest",
+        "auto": false
+      }
+    ]
   }
 ]

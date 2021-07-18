@@ -5,5 +5,5 @@ tags:
   - ctf
   - fuzzer
   - github
-  - telegram
+  - pentest
 ---
