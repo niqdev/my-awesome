@@ -119,10 +119,8 @@ function parse_messages {
         "url": .message_text[] | select(. | startswith("http")),
         "description": .message_text[] | select(. | startswith("http")),
         "path": ((.message_text | map(select(. | startswith("_")) | gsub("_";"/") | ascii_downcase) | first ) // "/"),
-        "tags": (
-          [{ "name": "telegram", "auto": true }] +
-          (.message_text | map(select(. | startswith("#"))) | map({ "name": . | gsub("#";"") | ascii_downcase, "auto": false }))
-        )
+        "source": "telegram",
+        "tags": (.message_text | map(select(. | startswith("#"))) | map({ "name": . | gsub("#";"") | ascii_downcase, "auto": false }))
       })'
 }
 

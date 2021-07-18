@@ -4,12 +4,9 @@
     "timestamp": "2021-07-18T12:14:29Z",
     "url": "http://ffuf.me",
     "description": "FFUF.me",
-    "path": "/",
+    "path": "/security",
+    "source": "telegram",
     "tags": [
-      {
-        "name": "telegram",
-        "auto": true
-      },
       {
         "name": "fuzzer",
         "auto": false
@@ -20,19 +17,16 @@
     "update_id": 60598308,
     "timestamp": "2021-07-18T12:14:29Z",
     "url": "https://github.com/orangetw/My-CTF-Web-Challenges",
-    "description": "GitHub - orangetw/My-CTF-Web-Challenges: Collection of CTF Web challenges I made",
-    "path": "/",
+    "description": "Collection of CTF Web challenges I made",
+    "path": "/security",
+    "source": "telegram",
     "tags": [
       {
-        "name": "telegram",
+        "name": "github",
         "auto": true
       },
       {
         "name": "ctf",
-        "auto": false
-      },
-      {
-        "name": "github",
         "auto": false
       }
     ]
@@ -41,11 +35,12 @@
     "update_id": 60598309,
     "timestamp": "2021-07-18T12:14:29Z",
     "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
-    "description": "GitHub - trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-    "path": "/",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "path": "/security",
+    "source": "telegram",
     "tags": [
       {
-        "name": "telegram",
+        "name": "github",
         "auto": true
       },
       {
