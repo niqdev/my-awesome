@@ -1,4 +1,9 @@
 ---
 title: Bookmarks
-tags: []
+tags:
+  - awesome
+  - ctf
+  - fuzzer
+  - github
+  - telegram
 ---
