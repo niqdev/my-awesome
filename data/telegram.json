@@ -98,5 +98,37 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598313,
+    "timestamp": "2021-07-19T12:19:20Z",
+    "url": "https://github.com/erikgrinaker/toydb",
+    "description": "GitHub - erikgrinaker/toydb: Distributed SQL database in Rust, written as a learning project",
+    "path": "/rust",
+    "source": "telegram",
+    "tags": [
+      {
+        "name": "github",
+        "auto": false
+      },
+      {
+        "name": "database",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598314,
+    "timestamp": "2021-07-19T12:19:20Z",
+    "url": "https://github.com/diekmann/wasm-fizzbuzz",
+    "description": "GitHub - diekmann/wasm-fizzbuzz: WebAssembly from Scratch: From FizzBuzz to DooM.",
+    "path": "/",
+    "source": "telegram",
+    "tags": [
+      {
+        "name": "webassembly",
+        "auto": false
+      }
+    ]
   }
 ]
