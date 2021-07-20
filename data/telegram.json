@@ -130,5 +130,23 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598315,
+    "timestamp": "2021-07-20T12:15:38Z",
+    "url": "https://guyinatuxedo.github.io",
+    "description": "Nightmare - Nightmare",
+    "path": "/security",
+    "source": "telegram",
+    "tags": [
+      {
+        "name": "exploit",
+        "auto": false
+      },
+      {
+        "name": "reverse",
+        "auto": false
+      }
+    ]
   }
 ]
