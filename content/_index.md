@@ -5,9 +5,11 @@ tags:
   - ctf
   - database
   - development
+  - exploit
   - fuzzer
   - github
   - interpreter
   - pentest
+  - reverse
   - webassembly
 ---
