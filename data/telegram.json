@@ -71,7 +71,7 @@
     "update_id": 60598311,
     "timestamp": "2021-07-18T15:56:38Z",
     "url": "https://www.toptal.com/scala/writing-an-interpreter",
-    "description": "Writing an Interpreter From Scratch | Toptal",
+    "description": "Writing an Interpreter From Scratch",
     "path": "/scala",
     "source": "telegram",
     "tags": [
@@ -85,13 +85,13 @@
     "update_id": 60598312,
     "timestamp": "2021-07-18T15:56:38Z",
     "url": "https://github.com/nektos/act",
-    "description": "GitHub - nektos/act: Run your GitHub Actions locally 🚀",
+    "description": "Run your GitHub Actions locally",
     "path": "/",
     "source": "telegram",
     "tags": [
       {
         "name": "github",
-        "auto": false
+        "auto": true
       },
       {
         "name": "development",
@@ -103,13 +103,13 @@
     "update_id": 60598313,
     "timestamp": "2021-07-19T12:19:20Z",
     "url": "https://github.com/erikgrinaker/toydb",
-    "description": "GitHub - erikgrinaker/toydb: Distributed SQL database in Rust, written as a learning project",
+    "description": "Distributed SQL database in Rust, written as a learning project",
     "path": "/rust",
     "source": "telegram",
     "tags": [
       {
         "name": "github",
-        "auto": false
+        "auto": true
       },
       {
         "name": "database",
@@ -121,10 +121,14 @@
     "update_id": 60598314,
     "timestamp": "2021-07-19T12:19:20Z",
     "url": "https://github.com/diekmann/wasm-fizzbuzz",
-    "description": "GitHub - diekmann/wasm-fizzbuzz: WebAssembly from Scratch: From FizzBuzz to DooM.",
-    "path": "/",
+    "description": "WebAssembly from Scratch: From FizzBuzz to DooM.",
+    "path": "/rust",
     "source": "telegram",
     "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
       {
         "name": "webassembly",
         "auto": false
@@ -135,7 +139,7 @@
     "update_id": 60598315,
     "timestamp": "2021-07-20T12:15:38Z",
     "url": "https://guyinatuxedo.github.io",
-    "description": "Nightmare - Nightmare",
+    "description": "Nightmare",
     "path": "/security",
     "source": "telegram",
     "tags": [
