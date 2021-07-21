@@ -1,5 +1,6 @@
 {{ define "main" }}
 
+<!-- find all items with this tag -->
 {{ $items := slice }}
 {{ range .Site.Data.telegram }}
   {{ $item := . }}
@@ -15,7 +16,7 @@
 <div class="row start-xs">
   <div class="col-xs-12">
     <div class="box">
-      <h1 class="my-title">{{ .Title | title }}</h1>
+      <h1>{{ .Title | title }}</h1>
       <ul>
         {{ range $items }}
         <li><a href="{{ .url }}" target="_blank">{{ .description }}</a></li>

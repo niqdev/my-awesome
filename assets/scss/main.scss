@@ -88,10 +88,10 @@ h6::before { color: $primary-color; content: '###### '; }
 
 header {
   margin: 1em 0;
-}
 
-.my-header {
-  font-size: 1.5rem;
+  .my-header {
+    font-size: 1.5rem;
+  }
 }
 
 footer {
@@ -210,6 +210,7 @@ div[class^='col-'].my-bookmark-tag {
   // override flexbox
   flex-basis: auto;
   max-width: fit-content;
+  max-width: -moz-max-content;
   
   border-radius: 0.375em;
   background-color: #00d1b2;
