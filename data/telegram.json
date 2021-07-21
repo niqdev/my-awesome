@@ -152,5 +152,69 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598316,
+    "timestamp": "2021-07-21T21:49:04Z",
+    "url": "https://shipilev.net/jvm/anatomy-quarks",
+    "description": "301 Moved Permanently",
+    "source": "telegram",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "jvm",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598317,
+    "timestamp": "2021-07-21T21:49:04Z",
+    "url": "https://www.talhoffman.com/2021/07/18/firecracker-internals",
+    "description": "301 Moved Permanently",
+    "source": "telegram",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "aws",
+        "auto": false
+      },
+      {
+        "name": "firecracker",
+        "auto": false
+      },
+      {
+        "name": "lambda",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598318,
+    "timestamp": "2021-07-21T21:49:04Z",
+    "url": "https://healeycodes.com/creating-the-golfcart-programming-language",
+    "description": "Creating the Golfcart Programming Language — Andrew Healey",
+    "source": "telegram",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "interpreter",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598319,
+    "timestamp": "2021-07-21T21:49:04Z",
+    "url": "https://securityunfiltered.buzzsprout.com",
+    "description": "Security Unfiltered",
+    "source": "telegram",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "podcast",
+        "auto": false
+      }
+    ]
   }
 ]
