@@ -34,3 +34,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          # without CNAME file in the publish directory it's dropped on every deploy
+          cname: myawesome.dev
