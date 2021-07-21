@@ -1,4 +1,5 @@
 *.secrets
 pup*
 
+public/
 resources/
