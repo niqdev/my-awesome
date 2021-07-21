@@ -18,7 +18,6 @@ hugo server -D
 
 ***TODO***
 
-* update homepage order + timestamp
 * homepage pagination vs only latest N (configurable)
 * add pagination to `/tags` page
 * sanitize tags `[a-zA-Z0-0_\-]` and paths
