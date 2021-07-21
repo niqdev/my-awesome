@@ -1,11 +1,10 @@
 {{ define "main" }}
 
-<!-- find all unique tags -->
+<!-- find all tags -->
 {{ $tags := slice }}
 {{ range .Site.Data.telegram }}
   {{ $tags = $tags | append .tags }}
 {{ end }}
-{{ $tags = uniq $tags }}
 
 <!-- {{ printf "%#v" $tags }} -->
 
@@ -14,9 +13,16 @@
     <div class="box">
       <h1>{{ .Title }}</h1>
       <ul>
-        {{ range sort $tags "name" "asc" }}
-        {{ $tags_path := (printf "/tags/%s" (urlize .name)) }}
-        <li><a href="{{ $tags_path }}">{{ .name }}</a></li>
+        <!-- sort unique tags -->
+        {{ range sort (uniq $tags) "name" "asc" }}
+          <!-- url -->
+          {{ $tags_url := (printf "/tags/%s" (urlize .name)) }}
+          <!-- count -->
+          {{ $counts := newScratch }}
+          {{ range where $tags "name" .name }}
+            {{ $counts.Add "count" 1 }}
+          {{ end }}
+          <li><a href="{{ $tags_url }}">{{ .name }}</a><span>&nbsp;({{ $counts.Get "count" }})</span></li>
         {{ end }}
       </ul>
     </div>
