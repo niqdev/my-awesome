@@ -4,6 +4,7 @@ title: "MyAwesome"
 
 # disable categories
 taxonomies:
+  folder: folders
   tag: tags
 
 menu:
@@ -12,14 +13,18 @@ menu:
   #   title: Typography
   #   url: /typography/
   #   weight: 1
+  - identifier: folders
+    title: Folders
+    url: /folders/
+    weight: 2
   - identifier: tags
     title: Tags
     url: /tags/
-    weight: 2
+    weight: 3
   - identifier: about
     title: About
     url: /about/
-    weight: 3
+    weight: 4
 
 params:
-  maxPage: 10
+  maxPage: 25

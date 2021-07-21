@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+<!-- find all unique paths -->
+{{ $paths := slice }}
+{{ range .Site.Data.telegram }}
+  {{ $paths = $paths | append .path }}
+{{ end }}
+{{ $paths = uniq $paths }}
+
+<div class="row start-xs">
+  <div class="col-xs-12">
+    <div class="box">
+      <h1>{{ .Title }}</h1>
+      {{ range sort $paths }}
+        {{ $path := . }}
+        {{ $path }}
+        <ul>
+          {{ range where $.Site.Data.telegram "path" $path }}
+          <li><a href="{{ .url }}" target="_blank">{{ .description }}</a></li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+{{ end }}

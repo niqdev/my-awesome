@@ -228,3 +228,7 @@ div[class^='col-'].my-bookmark-tag:hover {
   background-color: $secondary-color;
   color: #fff;
 }
+div[class^='col-'].my-bookmark-path {
+   @extend .my-bookmark-tag;
+   background-color: greenyellow;
+}
