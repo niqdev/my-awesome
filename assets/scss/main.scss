@@ -228,7 +228,11 @@ div[class^='col-'].my-bookmark-tag:hover {
   background-color: $secondary-color;
   color: #fff;
 }
-div[class^='col-'].my-bookmark-path {
+div[class^='col-'].my-bookmark-tag-auto {
+  @extend .my-bookmark-tag;
+  background-color: #00B8D4;
+}
+div[class^='col-'].my-bookmark-folder {
    @extend .my-bookmark-tag;
    background-color: greenyellow;
 }

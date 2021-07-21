@@ -15,10 +15,25 @@
       <div class="col-xs-12 col-sm-9">
         <div class="box">
           <div class="row end-sm my-bookmark-tags">
-            <div class="col-xs-1 my-bookmark-path">{{ .path }}</div>
-            {{ range sort .tags "name" "asc" }}
-            {{ $tags_path := (printf "/tags/%s" (urlize .name)) }}
-            <div class="col-xs-1 my-bookmark-tag"><a href="{{ $tags_path }}">{{ .name }}</a></div>
+            <!--
+            FOLDER
+            (1) /folder/subfolder/nested/ -> remove suffix and prefix "/"
+            (2) folder/subfolder/nested -> replace "/" with "-"
+            (3) folder-subfolder-nested -> urlize
+            (4) /folders/folder-subfolder-nested
+            -->
+            {{ $folder_slug := replace (strings.TrimSuffix "/" (strings.TrimPrefix "/" .path)) "/" "-" }}
+            {{ $folder_url := (printf "/folders/%s" (urlize $folder_slug)) }}
+            <div class="col-xs-1 my-bookmark-folder"><a href="{{ $folder_url }}">{{ .path }}</a></div>
+            <!-- auto TAGS -->
+            {{ range where (sort .tags "name" "asc") "auto" true }}
+            {{ $tags_url := (printf "/tags/%s" (urlize .name)) }}
+            <div class="col-xs-1 my-bookmark-tag-auto"><a href="{{ $tags_url }}">{{ .name }}</a></div>
+            {{ end }}
+            <!-- other TAGS -->
+            {{ range where (sort .tags "name" "asc") "auto" false }}
+            {{ $tags_url := (printf "/tags/%s" (urlize .name)) }}
+            <div class="col-xs-1 my-bookmark-tag"><a href="{{ $tags_url }}">{{ .name }}</a></div>
             {{ end }}
           </div>
         </div>
