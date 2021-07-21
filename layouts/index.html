@@ -6,7 +6,7 @@
 </div>
 <div class="row start-xs">
   <div class="col-xs-12">
-    {{ range sort .Site.Data.telegram "timestamp" "desc" }}
+    {{ range first .Site.Params.maxPage (sort .Site.Data.telegram "timestamp" "desc") }}
     <div class="row bottom-xs my-bookmark">
       <div class="col-xs-12 col-sm-3">
         <!-- RFC1123 "Mon, 02 Jan 2006 15:04:05 MST" -->

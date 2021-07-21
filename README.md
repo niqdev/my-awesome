@@ -18,8 +18,6 @@ hugo server -D
 
 ***TODO***
 
-* homepage pagination vs only latest N (configurable)
-* add pagination to `/tags` page
 * sanitize tags `[a-zA-Z0-0_\-]` and paths
 * group `/tags` by path vs `/path` page with tags
 * add tag count/badge in `/tags` page: order by count/name
@@ -27,6 +25,10 @@ hugo server -D
 * add path next to tags (different color)
 * add `/path|folder|directory` page: list all items in that path with pagination (no subfolders)
 * gh-action: auto-update workflows to keep in sync with template
+* pagination
+    - https://discourse.gohugo.io/t/data-files-and-pagination/2334/5
+    - add pagination to `/tags` page
+    - homepage pagination vs only latest N (configurable)
 
 <!--
 

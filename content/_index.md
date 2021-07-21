@@ -1,5 +1,5 @@
 ---
-title: Bookmarks
+title: Latest Bookmarks
 tags:
   - awesome
   - ctf

@@ -20,3 +20,6 @@ menu:
     title: About
     url: /about/
     weight: 3
+
+params:
+  maxPage: 10
