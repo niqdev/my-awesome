@@ -14,7 +14,7 @@
     <div class="box">
       <h1>{{ .Title }}</h1>
       <ul>
-        {{ range $tags }}
+        {{ range sort $tags "name" "asc" }}
         {{ $tags_path := (printf "/tags/%s" (urlize .name)) }}
         <li><a href="{{ $tags_path }}">{{ .name }}</a></li>
         {{ end }}
