@@ -18,7 +18,6 @@ hugo server -D
 
 ***TODO***
 
-* generate paths/folders in _index.md
 * add tag list to each element in `term.html`
 * split tag list in 2 groups: auto and manual
 * sanitize tags and paths e.g. `[a-zA-Z0-0_\-]`

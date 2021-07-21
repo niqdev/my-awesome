@@ -109,8 +109,10 @@ function parse_messages {
 
   # - expected format: [{"update_id":123,"message_text":["hello","world"]}]
   # - discard messages without text e.g. images: [{"update_id":123,"message_text":[""]}]
-  # - set as "url" the first item that starts with "http" and convert everything else to a tag
+  # - set as "url" only the first item that starts with "http"
   # - "description" value (url) is just a placeholder, it's replaced with the <title> of the page afterwards with "pup"
+  # - set as "path" only the first item that starts with "_", default is "/random"
+  # - set as "tags" all the items that starts with "#"
   echo $MESSAGES | jq \
     '. | map(select(.message_text[0] != "")) |
       map({
@@ -118,8 +120,8 @@ function parse_messages {
         "timestamp": .timestamp,
         "url": .message_text[] | select(. | startswith("http")),
         "description": .message_text[] | select(. | startswith("http")),
-        "path": ((.message_text | map(select(. | startswith("_")) | gsub("_";"/") | ascii_downcase) | first ) // "/"),
         "source": "telegram",
+        "path": ((.message_text | map(select(. | startswith("_")) | gsub("_";"/") | ascii_downcase) | first ) // "/random"),
         "tags": (.message_text | map(select(. | startswith("#"))) | map({ "name": . | gsub("#";"") | ascii_downcase, "auto": false }))
       })'
 }
@@ -161,19 +163,22 @@ function append_messages {
     > ${DATA_PATH}
 }
 
-function update_tags {
+function update_front_matter {
   local INDEX_PATH="content/_index.md"
   # extract yaml between "---" (hugo front matter)
   local YAML_BEFORE=$(cat ${INDEX_PATH} | cut -d'-' -f 1)
   # all unique sorted tags
   local TAGS="$(cat ${DATA_PATH} | jq '[.[] .tags[] .name] | unique')"
+  # convert path to slug
+  local FOLDERS="$(cat ${DATA_PATH} | jq '[.[] .path | ltrimstr("/") | rtrimstr("/") | gsub("/";"-")] | unique')"
   
   echo "---" > ${INDEX_PATH}
 
   # override tags
   echo "${YAML_BEFORE}" | yq -y \
     --argjson TAGS "${TAGS}" \
-    '{"title": .title, "tags": $TAGS}' >> ${INDEX_PATH}
+    --argjson FOLDERS "${FOLDERS}" \
+    '{"title": .title, "tags": $TAGS, "folders": $FOLDERS}' >> ${INDEX_PATH}
   
   echo "---" >> ${INDEX_PATH}
 }
@@ -190,7 +195,7 @@ function main {
   echo -e "[*] new messages:\n${MESSAGES}"
 
   append_messages "${MESSAGES}"
-  update_tags
+  update_front_matter
 
   echo "[*] latest offset: $(get_latest_offset)"
   echo "[*] latest count: $(count_messages)"

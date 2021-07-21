@@ -12,4 +12,9 @@ tags:
   - pentest
   - reverse
   - webassembly
+folders:
+  - random
+  - rust
+  - scala
+  - security
 ---
