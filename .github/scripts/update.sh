@@ -8,7 +8,7 @@ GIT_USER_EMAIL="my-awesome-bot@users.noreply.github.com"
 GIT_USER_NAME="my-awesome-bot"
 GIT_BRANCH="telegram-${TIMESTAMP//:/-}"
 PR_TITLE="[telegram-bot] $TIMESTAMP"
-PR_MESSAGE="Updates telegram messages"
+PR_MESSAGE="Updates telegram: $TIMESTAMP"
 
 ##############################
 
