@@ -1,6 +1,7 @@
 ---
 title: Latest Bookmarks
 tags:
+  - addon
   - awesome
   - aws
   - ctf
@@ -8,12 +9,14 @@ tags:
   - development
   - exploit
   - firecracker
+  - firefox
   - fuzzer
   - github
   - interpreter
   - jvm
   - lambda
   - pentest
+  - piracy
   - podcast
   - reverse
   - webassembly
