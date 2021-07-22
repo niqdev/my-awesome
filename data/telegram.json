@@ -157,7 +157,7 @@
     "update_id": 60598316,
     "timestamp": "2021-07-21T21:49:04Z",
     "url": "https://shipilev.net/jvm/anatomy-quarks",
-    "description": "301 Moved Permanently",
+    "description": "JVM Anatomy Quarks",
     "source": "telegram",
     "path": "/random",
     "tags": [
@@ -171,7 +171,7 @@
     "update_id": 60598317,
     "timestamp": "2021-07-21T21:49:04Z",
     "url": "https://www.talhoffman.com/2021/07/18/firecracker-internals",
-    "description": "301 Moved Permanently",
+    "description": "Firecracker internals: a deep dive inside the technology powering AWS Lambda",
     "source": "telegram",
     "path": "/random",
     "tags": [
