@@ -4,24 +4,38 @@ tags:
   - addon
   - awesome
   - aws
+  - course
+  - cryptography
   - ctf
   - database
   - development
+  - editor
   - exploit
   - firecracker
   - firefox
+  - freebsd
   - fuzzer
   - github
   - interpreter
+  - ipfs
   - jvm
   - lambda
+  - mail
+  - markdown
   - osint
   - pentest
   - piracy
   - podcast
+  - postgresql
+  - rainbow
   - reverse
+  - smtp
+  - tool
   - webassembly
 folders:
+  - database
+  - development
+  - distributed-systems
   - random
   - rust
   - scala

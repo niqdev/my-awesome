@@ -298,5 +298,173 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598325,
+    "timestamp": "2021-07-25T12:15:07Z",
+    "url": "https://security.googleblog.com/2021/03/fuzzing-java-in-oss-fuzz.html",
+    "description": "Google Online Security Blog: Fuzzing Java in OSS-Fuzz",
+    "source": "telegram",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "fuzzer",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598326,
+    "timestamp": "2021-07-25T12:15:07Z",
+    "url": "https://maddy.email",
+    "description": "Home - maddy",
+    "source": "telegram",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "mail",
+        "auto": false
+      },
+      {
+        "name": "smtp",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598327,
+    "timestamp": "2021-07-25T12:15:07Z",
+    "url": "https://postgrest.org/en/stable",
+    "description": "",
+    "source": "telegram",
+    "path": "/database",
+    "tags": [
+      {
+        "name": "postgresql",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598328,
+    "timestamp": "2021-07-25T12:15:07Z",
+    "url": "https://dbeaver.io",
+    "description": "DBeaver Community | Free Universal Database Tool",
+    "source": "telegram",
+    "path": "/database",
+    "tags": [
+      {
+        "name": "tool",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598329,
+    "timestamp": "2021-07-25T12:15:07Z",
+    "url": "https://typora.io",
+    "description": "Typora — a markdown editor, markdown reader.",
+    "source": "telegram",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "editor",
+        "auto": false
+      },
+      {
+        "name": "markdown",
+        "auto": false
+      },
+      {
+        "name": "tool",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598330,
+    "timestamp": "2021-07-25T12:15:07Z",
+    "url": "https://notable.app",
+    "description": "https://notable.app",
+    "source": "telegram",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "editor",
+        "auto": false
+      },
+      {
+        "name": "markdown",
+        "auto": false
+      },
+      {
+        "name": "tool",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598331,
+    "timestamp": "2021-07-25T12:15:07Z",
+    "url": "https://github.com/mytechnotalent/Reverse-Engineering",
+    "description": "https://github.com/mytechnotalent/Reverse-Engineering",
+    "source": "telegram",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "reverse",
+        "auto": false
+      },
+      {
+        "name": "course",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598332,
+    "timestamp": "2021-07-25T12:15:07Z",
+    "url": "https://kestas.kuliukas.com/RainbowTables",
+    "description": "301 Moved Permanently",
+    "source": "telegram",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "cryptography",
+        "auto": false
+      },
+      {
+        "name": "rainbow",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598333,
+    "timestamp": "2021-07-25T12:15:07Z",
+    "url": "https://github.com/sbz/freebsd-commands",
+    "description": "GitHub - sbz/freebsd-commands",
+    "source": "telegram",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "freebsd",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598334,
+    "timestamp": "2021-07-25T12:15:07Z",
+    "url": "https://freeread.org/ipfs",
+    "description": "IPFS Free Library - freeread.org",
+    "source": "telegram",
+    "path": "/distributed-systems",
+    "tags": [
+      {
+        "name": "ipfs",
+        "auto": false
+      }
+    ]
   }
 ]
