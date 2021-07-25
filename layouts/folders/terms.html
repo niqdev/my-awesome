@@ -7,16 +7,18 @@
 {{ end }}
 {{ $paths = uniq $paths }}
 
-<!-- list grouped by path -->
+<!-- list grouped by path, sorted and limited to max N -->
 <div class="row start-xs">
   <div class="col-xs-12">
     <div class="box">
-      <h1>{{ .Title }}</h1>
+      <h1>Latest by {{ .Title }}</h1>
       {{ range sort $paths }}
         {{ $path := . }}
-        {{ $path }}
+        {{ $folder_slug := replace (strings.TrimSuffix "/" (strings.TrimPrefix "/" $path)) "/" "-" }}
+        {{ $folder_url := (printf "/folders/%s" (urlize $folder_slug)) }}
+        <a class="my-folder-title" href="{{ $folder_url }}">{{ $path }}</a>
         <ul>
-          {{ range where $.Site.Data.telegram "path" $path }}
+          {{ range first $.Site.Params.maxFolders (where (sort $.Site.Data.telegram "timestamp" "desc") "path" $path) }}
           <li><a href="{{ .url }}" target="_blank">{{ .description }}</a></li>
           {{ end }}
         </ul>

@@ -6,6 +6,7 @@
 </div>
 <div class="row start-xs">
   <div class="col-xs-12">
+    <!-- latest bookmarks sorted -->
     {{ range first .Site.Params.maxBookmarks (sort .Site.Data.telegram "timestamp" "desc") }}
     <div class="row bottom-xs my-bookmark">
       <div class="col-xs-12 col-sm-3">

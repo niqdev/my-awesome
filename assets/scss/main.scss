@@ -16,6 +16,8 @@ $primary-color: dodgerblue;
 $secondary-color: rebeccapurple;
 $dark-color: navy;
 
+$folder-color: greenyellow;
+
 html {
   color: #232333;
   font-family: 'Roboto Mono', monospace;
@@ -233,6 +235,9 @@ div[class^='col-'].my-bookmark-tag-auto {
   background-color: #00B8D4;
 }
 div[class^='col-'].my-bookmark-folder {
-   @extend .my-bookmark-tag;
-   background-color: greenyellow;
+  @extend .my-bookmark-tag;
+  background-color: $folder-color;
+}
+a.my-folder-title {
+  border-bottom: 5px solid $folder-color;
 }

@@ -28,3 +28,4 @@ menu:
 
 params:
   maxBookmarks: 25
+  maxFolders: 5
