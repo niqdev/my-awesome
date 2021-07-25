@@ -27,4 +27,4 @@ menu:
     weight: 4
 
 params:
-  maxPage: 25
+  maxBookmarks: 25
