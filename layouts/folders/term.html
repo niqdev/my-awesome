@@ -1,5 +1,16 @@
 {{ define "main" }}
 
-<div>TODO _index.md "folders"</div>
+<!-- find all items in this path -->
+{{ $items := slice }}
+{{ range .Site.Data.telegram }}
+  {{ $folder_slug := replace (strings.TrimSuffix "/" (strings.TrimPrefix "/" .path)) "/" "-" }}
+  {{ if eq $.Params.title $folder_slug }}
+    {{ $items = $items | append . }}
+  {{ end }}
+{{ end }}
+
+<!-- {{ printf "%#v" $.Params.Title }} -->
+
+{{- partial "items.html" (dict "title" $.Params.title "items" $items) -}}
 
 {{ end }}

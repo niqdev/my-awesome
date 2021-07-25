@@ -1,0 +1,14 @@
+<!-- {{ printf "%#v" .items }} -->
+
+<div class="row start-xs">
+  <div class="col-xs-12">
+    <div class="box">
+      <h1>{{ .title | title }}</h1>
+      <ul>
+        {{ range sort .items "timestamp" "desc" }}
+        <li><a href="{{ .url }}" target="_blank">{{ .description }}</a></li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</div>

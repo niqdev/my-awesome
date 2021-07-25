@@ -10,20 +10,8 @@
   {{ end }}
 {{ end }}
 
-<!-- {{ printf "%#v" $.Params.title }} -->
-<!-- {{ printf "%#v" $items }} -->
+<!-- {{ printf "%#v" $.Params.Title }} -->
 
-<div class="row start-xs">
-  <div class="col-xs-12">
-    <div class="box">
-      <h1>{{ .Title | title }}</h1>
-      <ul>
-        {{ range $items }}
-        <li><a href="{{ .url }}" target="_blank">{{ .description }}</a></li>
-        {{ end }}
-      </ul>
-    </div>
-  </div>
-</div>
+{{- partial "items.html" (dict "title" $.Params.title "items" $items) -}}
 
 {{ end }}
