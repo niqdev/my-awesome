@@ -11,7 +11,7 @@
 <div class="row start-xs">
   <div class="col-xs-12">
     <div class="box">
-      <h1>Latest by {{ .Title }}</h1>
+      <h1>Latest by Folder</h1>
       {{ range sort $paths }}
         {{ $path := . }}
         {{ $folder_slug := replace (strings.TrimSuffix "/" (strings.TrimPrefix "/" $path)) "/" "-" }}

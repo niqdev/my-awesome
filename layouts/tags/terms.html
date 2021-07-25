@@ -22,7 +22,7 @@
           {{ range where $tags "name" .name }}
             {{ $counts.Add "count" 1 }}
           {{ end }}
-          <li><a href="{{ $tags_url }}">{{ .name }}</a><span>&nbsp;({{ $counts.Get "count" }})</span></li>
+          <li><a class="my-tag-title" href="{{ $tags_url }}">{{ .name }}</a><span>&nbsp;({{ $counts.Get "count" }})</span></li>
         {{ end }}
       </ul>
     </div>

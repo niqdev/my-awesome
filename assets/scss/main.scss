@@ -17,6 +17,7 @@ $secondary-color: rebeccapurple;
 $dark-color: navy;
 
 $folder-color: greenyellow;
+$tag-color: #00d1b2;
 
 html {
   color: #232333;
@@ -215,7 +216,7 @@ div[class^='col-'].my-bookmark-tag {
   max-width: -moz-max-content;
   
   border-radius: 0.375em;
-  background-color: #00d1b2;
+  background-color: $tag-color;
   font-family: 'Fira Sans', sans-serif;
   font-size: 0.9em;
   font-weight: 550;
@@ -239,5 +240,8 @@ div[class^='col-'].my-bookmark-folder {
   background-color: $folder-color;
 }
 a.my-folder-title {
-  border-bottom: 5px solid $folder-color;
+  border-bottom: 4px solid $folder-color;
+}
+a.my-tag-title {
+  border-bottom: 4px solid $tag-color;
 }
