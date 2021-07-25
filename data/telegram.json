@@ -35,7 +35,7 @@
     "update_id": 60598309,
     "timestamp": "2021-07-18T12:14:29Z",
     "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
-    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more",
     "source": "telegram",
     "path": "/security",
     "tags": [
@@ -53,7 +53,7 @@
     "update_id": 60598310,
     "timestamp": "2021-07-18T15:17:14Z",
     "url": "https://github.com/barrracud4/image-upload-exploits",
-    "description": "This repository contains various media files for known attacks on web applications processing media files. Useful for penetration tests and bug bounty.",
+    "description": "This repository contains various media files for known attacks on web applications processing media files. Useful for penetration tests and bug bounty",
     "source": "telegram",
     "path": "/security",
     "tags": [
@@ -121,7 +121,7 @@
     "update_id": 60598314,
     "timestamp": "2021-07-19T12:19:20Z",
     "url": "https://github.com/diekmann/wasm-fizzbuzz",
-    "description": "WebAssembly from Scratch: From FizzBuzz to DooM.",
+    "description": "WebAssembly from Scratch: From FizzBuzz to DooM",
     "source": "telegram",
     "path": "/rust",
     "tags": [
@@ -193,7 +193,7 @@
     "update_id": 60598318,
     "timestamp": "2021-07-21T21:49:04Z",
     "url": "https://healeycodes.com/creating-the-golfcart-programming-language",
-    "description": "Creating the Golfcart Programming Language — Andrew Healey",
+    "description": "Creating the Golfcart Programming Language",
     "source": "telegram",
     "path": "/random",
     "tags": [
@@ -221,7 +221,7 @@
     "update_id": 60598320,
     "timestamp": "2021-07-22T12:15:19Z",
     "url": "https://official-awesome-piracy.vercel.app",
-    "description": "AwesomePiracy",
+    "description": "Awesome Piracy",
     "source": "telegram",
     "path": "/random",
     "tags": [
@@ -239,7 +239,7 @@
     "update_id": 60598321,
     "timestamp": "2021-07-22T12:15:19Z",
     "url": "https://addons.mozilla.org/en-US/android/addon/ublock-origin",
-    "description": "null",
+    "description": "uBlock Origin",
     "source": "telegram",
     "path": "/random",
     "tags": [
@@ -257,7 +257,7 @@
     "update_id": 60598322,
     "timestamp": "2021-07-22T12:15:19Z",
     "url": "https://www.tampermonkey.net",
-    "description": "Tampermonkey • Home",
+    "description": "Tampermonkey",
     "source": "telegram",
     "path": "/random",
     "tags": [
@@ -275,7 +275,7 @@
     "update_id": 60598323,
     "timestamp": "2021-07-25T00:33:28Z",
     "url": "https://aflplus.plus",
-    "description": "The AFL++ fuzzing framework | AFLplusplus",
+    "description": "The AFL++ fuzzing framework",
     "source": "telegram",
     "path": "/security",
     "tags": [
@@ -289,7 +289,7 @@
     "update_id": 60598324,
     "timestamp": "2021-07-25T00:33:28Z",
     "url": "https://cipher387.github.io/osint_stuff_tool_collection",
-    "description": "301 Moved Permanently",
+    "description": "OSINT tools collection",
     "source": "telegram",
     "path": "/security",
     "tags": [
