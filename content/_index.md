@@ -15,6 +15,7 @@ tags:
   - interpreter
   - jvm
   - lambda
+  - osint
   - pentest
   - piracy
   - podcast
