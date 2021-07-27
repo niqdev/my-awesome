@@ -4,18 +4,25 @@ tags:
   - addon
   - awesome
   - aws
+  - bash
+  - c
   - course
   - cryptography
   - ctf
   - database
   - development
+  - ebpf
   - editor
+  - electronic
   - exploit
   - firecracker
   - firefox
+  - forensic
   - freebsd
   - fuzzer
   - github
+  - gpg
+  - hackthebox
   - interpreter
   - ipfs
   - jvm
@@ -23,12 +30,14 @@ tags:
   - mail
   - markdown
   - osint
+  - password
   - pentest
   - piracy
   - podcast
   - postgresql
   - rainbow
   - reverse
+  - rust
   - smtp
   - tool
   - webassembly
@@ -36,6 +45,7 @@ folders:
   - database
   - development
   - distributed-systems
+  - linux
   - random
   - rust
   - scala
