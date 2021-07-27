@@ -317,7 +317,7 @@
     "update_id": 60598326,
     "timestamp": "2021-07-25T12:15:07Z",
     "url": "https://maddy.email",
-    "description": "Home - maddy",
+    "description": "Maddy Mail Server",
     "source": "telegram",
     "path": "/development",
     "tags": [
@@ -335,7 +335,7 @@
     "update_id": 60598327,
     "timestamp": "2021-07-25T12:15:07Z",
     "url": "https://postgrest.org/en/stable",
-    "description": "",
+    "description": "PostgREST",
     "source": "telegram",
     "path": "/database",
     "tags": [
@@ -349,7 +349,7 @@
     "update_id": 60598328,
     "timestamp": "2021-07-25T12:15:07Z",
     "url": "https://dbeaver.io",
-    "description": "DBeaver Community | Free Universal Database Tool",
+    "description": "Universal Database Tool",
     "source": "telegram",
     "path": "/database",
     "tags": [
@@ -363,7 +363,7 @@
     "update_id": 60598329,
     "timestamp": "2021-07-25T12:15:07Z",
     "url": "https://typora.io",
-    "description": "Typora — a markdown editor, markdown reader.",
+    "description": "Typora — a markdown editor, markdown reader",
     "source": "telegram",
     "path": "/development",
     "tags": [
@@ -385,7 +385,7 @@
     "update_id": 60598330,
     "timestamp": "2021-07-25T12:15:07Z",
     "url": "https://notable.app",
-    "description": "https://notable.app",
+    "description": "Notable",
     "source": "telegram",
     "path": "/development",
     "tags": [
@@ -407,7 +407,7 @@
     "update_id": 60598331,
     "timestamp": "2021-07-25T12:15:07Z",
     "url": "https://github.com/mytechnotalent/Reverse-Engineering",
-    "description": "https://github.com/mytechnotalent/Reverse-Engineering",
+    "description": "Reverse Engineering For Everyone!",
     "source": "telegram",
     "path": "/security",
     "tags": [
@@ -425,7 +425,7 @@
     "update_id": 60598332,
     "timestamp": "2021-07-25T12:15:07Z",
     "url": "https://kestas.kuliukas.com/RainbowTables",
-    "description": "301 Moved Permanently",
+    "description": "How Rainbow Tables work",
     "source": "telegram",
     "path": "/security",
     "tags": [
@@ -443,7 +443,7 @@
     "update_id": 60598333,
     "timestamp": "2021-07-25T12:15:07Z",
     "url": "https://github.com/sbz/freebsd-commands",
-    "description": "GitHub - sbz/freebsd-commands",
+    "description": "freebsd-commands",
     "source": "telegram",
     "path": "/random",
     "tags": [
@@ -457,7 +457,7 @@
     "update_id": 60598334,
     "timestamp": "2021-07-25T12:15:07Z",
     "url": "https://freeread.org/ipfs",
-    "description": "IPFS Free Library - freeread.org",
+    "description": "IPFS Free Library",
     "source": "telegram",
     "path": "/distributed-systems",
     "tags": [
@@ -471,7 +471,7 @@
     "update_id": 60598335,
     "timestamp": "2021-07-27T00:34:44Z",
     "url": "https://behind.pretix.eu/2020/11/28/undelete-flv-file",
-    "description": "301 Moved Permanently",
+    "description": "Undeleting a file overwritten with mv",
     "source": "telegram",
     "path": "/random",
     "tags": [
@@ -485,7 +485,7 @@
     "update_id": 60598336,
     "timestamp": "2021-07-27T00:34:44Z",
     "url": "https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux",
-    "description": "301 Moved Permanently",
+    "description": "How io_uring and eBPF Will Revolutionize Programming in Linux",
     "source": "telegram",
     "path": "/linux",
     "tags": [
@@ -517,7 +517,7 @@
     "update_id": 60598338,
     "timestamp": "2021-07-27T00:34:44Z",
     "url": "https://tylerlmz1.github.io/tools/2020/05/15/Password-management.html",
-    "description": "Simple password management with GPG | Tyler Lee",
+    "description": "Simple password management with GPG",
     "source": "telegram",
     "path": "/random",
     "tags": [
@@ -535,7 +535,7 @@
     "update_id": 60598339,
     "timestamp": "2021-07-27T00:34:44Z",
     "url": "https://dev.to/artis3n/series/4758",
-    "description": "https://dev.to/artis3n/series/4758",
+    "description": "HackTheBox Series Articles",
     "source": "telegram",
     "path": "/security",
     "tags": [
@@ -548,8 +548,8 @@
   {
     "update_id": 60598340,
     "timestamp": "2021-07-27T00:34:44Z",
-    "url": "https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg/",
-    "description": "https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg/",
+    "url": "https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg",
+    "description": "rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.",
     "source": "telegram",
     "path": "/development",
     "tags": [
@@ -581,7 +581,7 @@
     "update_id": 60598342,
     "timestamp": "2021-07-27T00:34:44Z",
     "url": "https://who23.github.io/2020/12/03/sockets-in-your-shell.html",
-    "description": "null",
+    "description": "Sockets In Your Shell",
     "source": "telegram",
     "path": "/development",
     "tags": [
@@ -595,7 +595,7 @@
     "update_id": 60598343,
     "timestamp": "2021-07-27T00:34:44Z",
     "url": "https://www.devever.net/~hl",
-    "description": "301 Moved Permanently",
+    "description": "An online dustbin where you leave your collected written thoughts",
     "source": "telegram",
     "path": "/random",
     "tags": [
@@ -609,7 +609,7 @@
     "update_id": 60598344,
     "timestamp": "2021-07-27T00:34:44Z",
     "url": "https://rizin.re",
-    "description": "Rizin",
+    "description": "Free and Open Source Reverse Engineering Framework",
     "source": "telegram",
     "path": "/security",
     "tags": [

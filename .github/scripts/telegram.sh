@@ -208,6 +208,7 @@ jq --version
 yq --version
 install_pup
 
+# TODO url used for description: make sure it ends with "/" to avoid "301 Moved Permanently" as fallback
 # TODO interactive bot e.g. suggest latest tags, edit description
 # TODO notify success/failure on telegram 
 # TODO read DATA_PATH from .awesome.yaml (e.g. version, path, format, template)
