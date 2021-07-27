@@ -466,5 +466,161 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598335,
+    "timestamp": "2021-07-27T00:34:44Z",
+    "url": "https://behind.pretix.eu/2020/11/28/undelete-flv-file",
+    "description": "301 Moved Permanently",
+    "source": "telegram",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "forensic",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598336,
+    "timestamp": "2021-07-27T00:34:44Z",
+    "url": "https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux",
+    "description": "301 Moved Permanently",
+    "source": "telegram",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "ebpf",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598337,
+    "timestamp": "2021-07-27T00:34:44Z",
+    "url": "http://www.righto.com/2020/11/reverse-engineering-ram-storage-in.html",
+    "description": "Reverse engineering RAM storage in early Texas Instruments calculator chips",
+    "source": "telegram",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "electronic",
+        "auto": false
+      },
+      {
+        "name": "reverse",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598338,
+    "timestamp": "2021-07-27T00:34:44Z",
+    "url": "https://tylerlmz1.github.io/tools/2020/05/15/Password-management.html",
+    "description": "Simple password management with GPG | Tyler Lee",
+    "source": "telegram",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "password",
+        "auto": false
+      },
+      {
+        "name": "gpg",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598339,
+    "timestamp": "2021-07-27T00:34:44Z",
+    "url": "https://dev.to/artis3n/series/4758",
+    "description": "https://dev.to/artis3n/series/4758",
+    "source": "telegram",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "hackthebox",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598340,
+    "timestamp": "2021-07-27T00:34:44Z",
+    "url": "https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg/",
+    "description": "https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg/",
+    "source": "telegram",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "tool",
+        "auto": false
+      },
+      {
+        "name": "rust",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598341,
+    "timestamp": "2021-07-27T00:34:44Z",
+    "url": "https://graphics.stanford.edu/~seander/bithacks.html",
+    "description": "Bit Twiddling Hacks",
+    "source": "telegram",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "c",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598342,
+    "timestamp": "2021-07-27T00:34:44Z",
+    "url": "https://who23.github.io/2020/12/03/sockets-in-your-shell.html",
+    "description": "null",
+    "source": "telegram",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "bash",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598343,
+    "timestamp": "2021-07-27T00:34:44Z",
+    "url": "https://www.devever.net/~hl",
+    "description": "301 Moved Permanently",
+    "source": "telegram",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "awesome",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598344,
+    "timestamp": "2021-07-27T00:34:44Z",
+    "url": "https://rizin.re",
+    "description": "Rizin",
+    "source": "telegram",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "reverse",
+        "auto": false
+      },
+      {
+        "name": "tool",
+        "auto": false
+      }
+    ]
   }
 ]
