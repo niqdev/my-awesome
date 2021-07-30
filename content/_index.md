@@ -6,11 +6,13 @@ tags:
   - aws
   - bash
   - c
+  - challenge
   - course
   - cryptography
   - ctf
   - database
   - development
+  - docker
   - ebpf
   - editor
   - electronic
@@ -42,6 +44,7 @@ tags:
   - tool
   - webassembly
 folders:
+  - android
   - database
   - development
   - distributed-systems
