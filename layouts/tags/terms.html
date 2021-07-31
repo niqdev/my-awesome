@@ -1,30 +1,46 @@
 {{ define "main" }}
 
-<!-- find all tags -->
-{{ $tags := slice }}
+<!-- find all unique paths -->
+{{ $paths := slice }}
 {{ range .Site.Data.telegram }}
-  {{ $tags = $tags | append .tags }}
+  {{ $paths = $paths | append .path }}
 {{ end }}
+{{ $paths = uniq $paths }}
 
-<!-- {{ printf "%#v" $tags }} -->
+<!-- {{ printf "%#v" $paths }} -->
 
+<!-- list sorted tags with counts, grouped by path -->
 <div class="row start-xs">
   <div class="col-xs-12">
-    <div class="box">
+    <div class="box my-tag-page">
       <h1>{{ .Title }}</h1>
-      <ul>
-        <!-- sort unique tags -->
-        {{ range sort (uniq $tags) "name" "asc" }}
-          <!-- url -->
-          {{ $tags_url := (printf "/tags/%s" (urlize .name)) }}
-          <!-- count -->
-          {{ $counts := newScratch }}
-          {{ range where $tags "name" .name }}
-            {{ $counts.Add "count" 1 }}
-          {{ end }}
-          <li><a class="my-tag-title" href="{{ $tags_url }}">{{ .name }}</a><span>&nbsp;({{ $counts.Get "count" }})</span></li>
+      {{ range sort $paths }}
+        <!-- folder url -->
+        {{ $path := . }}
+        {{ $folder_slug := replace (strings.TrimSuffix "/" (strings.TrimPrefix "/" $path)) "/" "-" }}
+        {{ $folder_url := (printf "/folders/%s" (urlize $folder_slug)) }}
+
+        <!-- find all tags in this path -->
+        {{ $tags := slice }}
+        {{ range where $.Site.Data.telegram "path" $path }}
+          {{ $tags = $tags | append .tags }}
         {{ end }}
-      </ul>
+
+        <div class="row my-bookmark-tags">
+          <div class="col-xs-1 my-bookmark-folder"><a href="{{ $folder_url }}">{{ $path }}</a></div>
+          <!-- sort unique tags -->
+          {{ range sort (uniq $tags) "name" "asc" }}
+            <!-- url -->
+            {{ $tags_url := (printf "/tags/%s" (urlize .name)) }}
+            <!-- count -->
+            {{ $counts := newScratch }}
+            {{ range where $tags "name" .name }}
+              {{ $counts.Add "count" 1 }}
+            {{ end }}
+            <div class="col-xs-1 my-bookmark-tag"><a href="{{ $tags_url }}">{{ .name }}</a><span>&nbsp;({{ $counts.Get "count" }})</span></div>
+          {{ end }}
+        </div>
+      {{ end }}
     </div>
   </div>
 </div>

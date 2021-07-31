@@ -27,4 +27,35 @@
   </div>
 </div>
 
+<hr/>
+
+<!-- find all tags -->
+{{ $tags := slice }}
+{{ range .Site.Data.telegram }}
+  {{ $tags = $tags | append .tags }}
+{{ end }}
+
+<!-- {{ printf "%#v" $tags }} -->
+
+<div class="row start-xs">
+  <div class="col-xs-12">
+    <div class="box">
+      <h1>All Tags</h1>
+      <ul>
+        <!-- sort unique tags -->
+        {{ range sort (uniq $tags) "name" "asc" }}
+          <!-- url -->
+          {{ $tags_url := (printf "/tags/%s" (urlize .name)) }}
+          <!-- count -->
+          {{ $counts := newScratch }}
+          {{ range where $tags "name" .name }}
+            {{ $counts.Add "count" 1 }}
+          {{ end }}
+          <li><a class="my-tag-title" href="{{ $tags_url }}">{{ .name }}</a><span>&nbsp;({{ $counts.Get "count" }})</span></li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</div>
+
 {{ end }}

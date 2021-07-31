@@ -225,7 +225,7 @@ div[class^='col-'].my-bookmark-tag {
   // clean style
   a {
     border-bottom: none;
-  }  
+  }
 }
 div[class^='col-'].my-bookmark-tag:hover {
   background-color: $secondary-color;
@@ -244,4 +244,16 @@ a.my-folder-title {
 }
 a.my-tag-title {
   border-bottom: 4px solid $tag-color;
+}
+// override tag page style
+.my-tag-page {
+  .row.my-bookmark-tags {
+    margin-top: 1em;
+  }
+  div[class^='col-'].my-bookmark-tag {
+    font-family: 'Roboto Mono', monospace;
+    span {
+      font-size: 0.8em;
+    }
+  }
 }
