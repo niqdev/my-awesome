@@ -4,11 +4,16 @@
   <div class="col-xs-12">
     <div class="box">
       <h1>{{ .title | title }}</h1>
+      <!--
       <ul>
         {{ range sort .items "timestamp" "desc" }}
         <li><a href="{{ .url }}" target="_blank">{{ .description }}</a></li>
         {{ end }}
       </ul>
+      -->
+      {{ range sort .items "timestamp" "desc" }}
+        {{- partial "item.html" . -}}
+      {{ end }}
     </div>
   </div>
 </div>
