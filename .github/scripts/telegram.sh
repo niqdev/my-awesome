@@ -109,9 +109,9 @@ function parse_messages {
 
   # - expected format: [{"update_id":123,"message_text":["hello","world"]}]
   # - discard messages without text e.g. images: [{"update_id":123,"message_text":[""]}]
-  # - set as "url" only the first item that starts with "http"
+  # - set as "url" only the first item that starts with "http", remove ending "/" to avoid "301 Moved Permanently"
   # - "description" value (url) is just a placeholder, it's replaced with the <title> of the page afterwards with "pup"
-  # - set as "source" only the first item that starts with "+", default is "unknown"
+  # - set as "source" only the first item that starts with "&", default is "unknown"
   # - set as "path" only the first item that starts with "_", default is "/random"
   # - set as "tags" all the items that starts with "#"
   echo $MESSAGES | jq \
@@ -119,10 +119,10 @@ function parse_messages {
       map({
         "update_id": .update_id,
         "timestamp": .timestamp,
-        "url": .message_text[] | select(. | startswith("http")),
+        "url": .message_text[] | select(. | startswith("http")) | rtrimstr("/"),
         "description": .message_text[] | select(. | startswith("http")),
         "client": "telegram",
-        "source": ((.message_text | map(select(. | startswith("+")) | gsub("+";"") | ascii_downcase) | first ) // "unknown"),
+        "source": ((.message_text | map(select(. | startswith("&")) | gsub("&";"") | ascii_downcase) | first ) // "unknown"),
         "path": ((.message_text | map(select(. | startswith("_")) | gsub("_";"/") | ascii_downcase) | first ) // "/random"),
         "tags": (.message_text | map(select(. | startswith("#"))) | map({ "name": . | gsub("#";"") | ascii_downcase, "auto": false }))
       })'
