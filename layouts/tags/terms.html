@@ -37,7 +37,7 @@
             {{ range where $tags "name" .name }}
               {{ $counts.Add "count" 1 }}
             {{ end }}
-            <div class="col-xs-1 my-bookmark-tag"><a href="{{ $tags_url }}">{{ .name }}</a><span>&nbsp;({{ $counts.Get "count" }})</span></div>
+            <div class="col-xs-1 my-bookmark-tag"><a href="{{ $tags_url }}">{{ .name }}<span>&nbsp;({{ $counts.Get "count" }})</span></a></div>
           {{ end }}
         </div>
       {{ end }}

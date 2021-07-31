@@ -239,6 +239,11 @@ div[class^='col-'].my-bookmark-folder {
   @extend .my-bookmark-tag;
   background-color: $folder-color;
 }
+div[class^='col-'].my-bookmark-source {
+  @extend .my-bookmark-tag;
+  background-color: #FF7043;
+  color: white;
+}
 a.my-folder-title {
   border-bottom: 4px solid $folder-color;
 }
