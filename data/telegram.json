@@ -627,10 +627,14 @@
     "update_id": 60598345,
     "timestamp": "2021-07-30T00:34:31Z",
     "url": "https://github.com/sickcodes/dock-droid",
-    "description": "GitHub - sickcodes/dock-droid: Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!",
+    "description": "Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!",
     "source": "telegram",
     "path": "/android",
     "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
       {
         "name": "docker",
         "auto": false
@@ -677,7 +681,7 @@
     "update_id": 60598348,
     "timestamp": "2021-07-30T00:34:31Z",
     "url": "https://www.mysterytwisterc3.org",
-    "description": "Start",
+    "description": "MTC3 — The Cipher Contest",
     "source": "telegram",
     "path": "/security",
     "tags": [
@@ -695,7 +699,7 @@
     "update_id": 60598349,
     "timestamp": "2021-07-30T00:34:31Z",
     "url": "https://indradhanush.github.io/blog/life-of-a-container",
-    "description": "301 Moved Permanently",
+    "description": "Life of a Container | Cracking The Code",
     "source": "telegram",
     "path": "/development",
     "tags": [
@@ -709,7 +713,7 @@
     "update_id": 60598350,
     "timestamp": "2021-07-30T00:34:31Z",
     "url": "https://notes.cx",
-    "description": "",
+    "description": "Notes.cx is a simple public note taking app where every note you create (anonymously) lives for 24 hours",
     "source": "telegram",
     "path": "/random",
     "tags": [
