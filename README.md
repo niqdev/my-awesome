@@ -18,8 +18,6 @@ hugo server -D
 
 ***TODO***
 
-* add tag list and timestamp to each element in `partials/items.html`
-* organize tags: auto/manual or by folder
 * pagination issue: https://discourse.gohugo.io/t/data-files-and-pagination/2334/5
 
 <!--
