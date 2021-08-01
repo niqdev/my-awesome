@@ -785,5 +785,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598352,
+    "timestamp": "2021-08-01T00:39:15Z",
+    "url": "https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages",
+    "description": "https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/",
+    "client": "telegram",
+    "source": "hackernews",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "sqlite",
+        "auto": false
+      },
+      {
+        "name": "database",
+        "auto": false
+      }
+    ]
   }
 ]
