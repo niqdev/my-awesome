@@ -41,6 +41,7 @@ tags:
   - reverse
   - rust
   - smtp
+  - sqlite
   - tool
   - webassembly
 folders:
