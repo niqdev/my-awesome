@@ -819,5 +819,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598354,
+    "timestamp": "2021-08-08T00:34:14Z",
+    "url": "https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story",
+    "description": "Kernel Pwning with eBPF: a Love Story",
+    "client": "telegram",
+    "source": "newsletter",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "ebpf",
+        "auto": false
+      }
+    ]
   }
 ]
