@@ -834,5 +834,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598355,
+    "timestamp": "2021-08-09T00:36:02Z",
+    "url": "https://calyxos.org",
+    "description": "CalyxOS",
+    "client": "telegram",
+    "source": "hackernews",
+    "path": "/android",
+    "tags": [
+      {
+        "name": "os",
+        "auto": false
+      }
+    ]
   }
 ]
