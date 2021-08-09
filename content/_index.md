@@ -31,6 +31,7 @@ tags:
   - lambda
   - mail
   - markdown
+  - os
   - osint
   - password
   - pentest
