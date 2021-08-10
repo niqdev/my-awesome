@@ -849,5 +849,574 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598356,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://github.com/postalserver/postal",
+    "description": "https://github.com/postalserver/postal",
+    "client": "telegram",
+    "source": "newsletter",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "mail",
+        "auto": false
+      },
+      {
+        "name": "github",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598357,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://github.com/kdash-rs/kdash",
+    "description": "GitHub - kdash-rs/kdash: A simple and fast dashboard for Kubernetes",
+    "client": "telegram",
+    "source": "newsletter",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "tool",
+        "auto": false
+      },
+      {
+        "name": "github",
+        "auto": false
+      },
+      {
+        "name": "kubernetes",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598358,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://github.com/ibraheemdev/modern-unix",
+    "description": "GitHub - ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.",
+    "client": "telegram",
+    "source": "newsletter",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": false
+      },
+      {
+        "name": "tool",
+        "auto": false
+      },
+      {
+        "name": "awesome",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598359,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://www.datagubbe.se/bestofbash",
+    "description": "Best of .bashrc | datagubbe.se",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "bash",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598360,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html",
+    "description": "https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "reverse",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598361,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://dancres.github.io/Pages",
+    "description": "Distributed Systems Reading List",
+    "client": "telegram",
+    "source": "hackernews",
+    "path": "/distributed-systems",
+    "tags": [
+      {
+        "name": "awesome",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598362,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided",
+    "description": "CS 6120: The Self-Guided Course",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "compiler",
+        "auto": false
+      },
+      {
+        "name": "course",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598363,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://ciechanow.ski",
+    "description": "Bartosz Ciechanowski",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "physics",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598364,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://m.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x",
+    "description": "",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/rust",
+    "tags": [
+      {
+        "name": "course",
+        "auto": false
+      },
+      {
+        "name": "youtube",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598365,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://github.com/ruslashev/elfcat",
+    "description": "GitHub - ruslashev/elfcat: An in-development ELF visualizer. Generates HTML files from ELF binaries.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": false
+      },
+      {
+        "name": "elf",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598366,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://github.com/antoniomika/sish",
+    "description": "GitHub - antoniomika/sish: HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "tool",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598367,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://ibraheem.ca/writings/go-in-twenty",
+    "description": "Learn Go in Twenty Minutes",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "go",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598368,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://m.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4",
+    "description": "",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "youtube",
+        "auto": false
+      },
+      {
+        "name": "podcast",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598369,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://bakkenbaeck.github.io/a-random-walk-through-git",
+    "description": "A Random Walk Through Git",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "git",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598370,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://github.com/susam/texme",
+    "description": "GitHub - susam/texme: Self-rendering Markdown + LaTeX documents",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "markdown",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598371,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://gist.github.com/muff-in/ff678b1fda17e6188aa0462a99626121",
+    "description": "A curated list of Assembly Language / Reversing / Malware Analysis / Game Hacking-resources · GitHub",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "reverse",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598372,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://m.youtube.com/c/AGDCServices/videos",
+    "description": "",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "reverse",
+        "auto": false
+      },
+      {
+        "name": "youtube",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598373,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://hakluke.com/cybersecurity-subreddits",
+    "description": "List of Cybersecurity Subreddits - HΔKLUKΞ",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "awesome",
+        "auto": false
+      },
+      {
+        "name": "reddit",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598374,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://github.com/microg/GmsCore",
+    "description": "GitHub - microg/GmsCore: Free implementation of Play Services",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/android",
+    "tags": []
+  },
+  {
+    "update_id": 60598375,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained",
+    "description": "https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "cryptography",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598376,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://www.infinyon.com/blog/2021/05/ebpf-routing-rust",
+    "description": "Routing traffic in Rust using eBPF",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "ebpf",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598377,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://kean.blog/post/lets-build-regex",
+    "description": "Let’s Build a Regex Engine | kean.blog",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "regex",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598378,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://github.com/guyinatuxedo/nightmare",
+    "description": "GitHub - guyinatuxedo/nightmare",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "reverse",
+        "auto": false
+      },
+      {
+        "name": "course",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598379,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "http://www.oldlinux.org",
+    "description": "Oldlinux.org -- Linux plinux - Early Linux Kernel Analysis and Comments",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "kernel",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598380,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://scattered-thoughts.net/writing/looking-for-debugger",
+    "description": "Looking for debugger",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "awesome",
+        "auto": false
+      },
+      {
+        "name": "debugger",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598381,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://towardsdatascience.com/networking-tools-every-developer-needs-to-know-e17c9159b180",
+    "description": "null",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "tool",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598382,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://www.redox-os.org",
+    "description": "Redox - Your Next(Gen) OS - Redox - Your Next(Gen) OS",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/rust",
+    "tags": [
+      {
+        "name": "os",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598383,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://github.com/andrew-d/static-binaries",
+    "description": "GitHub - andrew-d/static-binaries: Various *nix tools built as statically-linked binaries",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "tool",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598384,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "description": "GitHub - swisskyrepo/PayloadsAllTheThings: A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "ctf",
+        "auto": false
+      },
+      {
+        "name": "awesome",
+        "auto": false
+      },
+      {
+        "name": "github",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598385,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://portswigger.net/web-security/all-materials",
+    "description": "All learning materials | Web Security Academy",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "course",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598386,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://djharper.dev/post/2020/12/26/executable-pngs",
+    "description": "Executable PNGs - djhworld",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "steganography",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598387,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial",
+    "description": "A Complete Guide to LLVM for Programming Language Creators",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "compiler",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598388,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://csgordon.github.io/books.html",
+    "description": "Colin S. Gordon | Electronic References",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "electronic",
+        "auto": false
+      },
+      {
+        "name": "awesome",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598389,
+    "timestamp": "2021-08-10T12:20:16Z",
+    "url": "https://fasterthanli.me/articles/a-half-hour-to-learn-rust",
+    "description": "A half-hour to learn Rust - fasterthanli.me",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/rust",
+    "tags": [
+      {
+        "name": "course",
+        "auto": false
+      }
+    ]
   }
 ]

@@ -7,27 +7,34 @@ tags:
   - bash
   - c
   - challenge
+  - compiler
   - course
   - cryptography
   - ctf
   - database
+  - debugger
   - development
   - docker
   - ebpf
   - editor
   - electronic
+  - elf
   - exploit
   - firecracker
   - firefox
   - forensic
   - freebsd
   - fuzzer
+  - git
   - github
+  - go
   - gpg
   - hackthebox
   - interpreter
   - ipfs
   - jvm
+  - kernel
+  - kubernetes
   - lambda
   - mail
   - markdown
@@ -35,16 +42,21 @@ tags:
   - osint
   - password
   - pentest
+  - physics
   - piracy
   - podcast
   - postgresql
   - rainbow
+  - reddit
+  - regex
   - reverse
   - rust
   - smtp
   - sqlite
+  - steganography
   - tool
   - webassembly
+  - youtube
 folders:
   - android
   - database
