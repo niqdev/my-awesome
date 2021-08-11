@@ -1418,5 +1418,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598390,
+    "timestamp": "2021-08-11T12:20:21Z",
+    "url": "https://skaffold.dev",
+    "description": "Skaffold",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "kubernetes",
+        "auto": false
+      }
+    ]
   }
 ]
