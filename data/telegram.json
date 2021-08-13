@@ -1433,5 +1433,96 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598391,
+    "timestamp": "2021-08-13T00:35:47Z",
+    "url": "https://gcpgoat.joshuajebaraj.com/about.html",
+    "description": "About GCP Goat - GCP Goat",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "vulnerable",
+        "auto": false
+      },
+      {
+        "name": "gcp",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598392,
+    "timestamp": "2021-08-13T00:35:47Z",
+    "url": "https://www.begin.re",
+    "description": "RE for Beginners | Reverse Engineering",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "reverse",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598393,
+    "timestamp": "2021-08-13T00:35:47Z",
+    "url": "https://malwareunicorn.org/#/workshops",
+    "description": "malwareunicorn.org",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "reverse",
+        "auto": false
+      },
+      {
+        "name": "course",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598394,
+    "timestamp": "2021-08-13T00:35:47Z",
+    "url": "https://www.ragingrock.com/AndroidAppRE/index.html",
+    "description": "Android App Reverse Engineering 101 | Learn to reverse engineer Android applications!",
+    "client": "telegram",
+    "source": "newsletter",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "reverse",
+        "auto": false
+      },
+      {
+        "name": "android",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598395,
+    "timestamp": "2021-08-13T00:35:47Z",
+    "url": "https://www.btw.so/open-source-alternatives",
+    "description": "Open Source Alternatives",
+    "client": "telegram",
+    "source": "newsletter",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "tool",
+        "auto": false
+      },
+      {
+        "name": "awesome",
+        "auto": false
+      }
+    ]
   }
 ]

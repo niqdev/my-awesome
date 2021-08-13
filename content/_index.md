@@ -2,6 +2,7 @@
 title: Latest Bookmarks
 tags:
   - addon
+  - android
   - awesome
   - aws
   - bash
@@ -25,6 +26,7 @@ tags:
   - forensic
   - freebsd
   - fuzzer
+  - gcp
   - git
   - github
   - go
@@ -55,6 +57,7 @@ tags:
   - sqlite
   - steganography
   - tool
+  - vulnerable
   - webassembly
   - youtube
 folders:
