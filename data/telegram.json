@@ -1524,5 +1524,39 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598396,
+    "timestamp": "2021-08-17T00:34:14Z",
+    "url": "https://briancallahan.net/blog/20210814.html",
+    "description": "Brian Robert Callahan",
+    "client": "telegram",
+    "source": "hackernews",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "compiler",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598397,
+    "timestamp": "2021-08-17T00:34:14Z",
+    "url": "https://github.com/lotabout/Let-s-build-a-compiler",
+    "description": "https://github.com/lotabout/Let-s-build-a-compiler",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "compiler",
+        "auto": false
+      },
+      {
+        "name": "github",
+        "auto": false
+      }
+    ]
   }
 ]
