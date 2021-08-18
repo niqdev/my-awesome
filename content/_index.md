@@ -40,6 +40,7 @@ tags:
   - lambda
   - mail
   - markdown
+  - obfuscator
   - os
   - osint
   - password

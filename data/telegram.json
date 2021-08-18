@@ -1558,5 +1558,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598398,
+    "timestamp": "2021-08-18T12:20:18Z",
+    "url": "https://obfuscator.io",
+    "description": "JavaScript Obfuscator Tool",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "obfuscator",
+        "auto": false
+      },
+      {
+        "name": "tool",
+        "auto": false
+      }
+    ]
   }
 ]
