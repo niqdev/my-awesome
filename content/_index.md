@@ -7,6 +7,7 @@ tags:
   - aws
   - bash
   - c
+  - captcha
   - challenge
   - compiler
   - course
