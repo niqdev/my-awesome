@@ -1577,5 +1577,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598399,
+    "timestamp": "2021-08-19T00:29:09Z",
+    "url": "https://boyter.org/decoding-captchas",
+    "description": "Decoding CAPTCHA’s | Ben E. C. Boyter",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "tool",
+        "auto": false
+      },
+      {
+        "name": "captcha",
+        "auto": false
+      }
+    ]
   }
 ]
