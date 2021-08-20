@@ -1596,5 +1596,35 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598400,
+    "timestamp": "2021-08-20T12:17:47Z",
+    "url": "https://kwcsec.gitbook.io/the-red-team-handbook",
+    "description": "The Red Team Vade Mecum - The Red Team Vade Mecum",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "redteam",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598401,
+    "timestamp": "2021-08-20T12:17:47Z",
+    "url": "https://sourcegraph.com",
+    "description": "null",
+    "client": "telegram",
+    "source": "newsletter",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "tool",
+        "auto": false
+      }
+    ]
   }
 ]

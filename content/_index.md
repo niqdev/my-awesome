@@ -52,6 +52,7 @@ tags:
   - postgresql
   - rainbow
   - reddit
+  - redteam
   - regex
   - reverse
   - rust
