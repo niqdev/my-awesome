@@ -1626,5 +1626,39 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598402,
+    "timestamp": "2021-08-24T00:32:32Z",
+    "url": "https://swtch.com/~rsc/regexp/regexp1.html",
+    "description": "Regular Expression Matching Can Be Simple And Fast",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "regex",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598403,
+    "timestamp": "2021-08-24T00:32:32Z",
+    "url": "https://adriann.github.io/rust_parser.html",
+    "description": "Writing a Simple Parser in Rust",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "parser",
+        "auto": false
+      },
+      {
+        "name": "rust",
+        "auto": false
+      }
+    ]
   }
 ]
