@@ -44,6 +44,7 @@ tags:
   - obfuscator
   - os
   - osint
+  - parser
   - password
   - pentest
   - physics
