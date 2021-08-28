@@ -1660,5 +1660,62 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598405,
+    "timestamp": "2021-08-28T12:14:49Z",
+    "url": "https://www.oilshell.org/blog/2021/08/xargs.html",
+    "description": "An Opinionated Guide to xargs",
+    "client": "telegram",
+    "source": "newsletter",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "bash",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598406,
+    "timestamp": "2021-08-28T12:14:49Z",
+    "url": "https://github.com/cs-books/influential-cs-books",
+    "description": "GitHub - cs-books/influential-cs-books: Most influential books on Computer Science/programming",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": false
+      },
+      {
+        "name": "book",
+        "auto": false
+      },
+      {
+        "name": "awesome",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598407,
+    "timestamp": "2021-08-28T12:14:49Z",
+    "url": "https://github.com/jonaslejon/malicious-pdf",
+    "description": "GitHub - jonaslejon/malicious-pdf: Generate a bunch of malicious pdf files with phone-home functionality. Can be used with Burp Collaborator",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "github",
+        "auto": false
+      },
+      {
+        "name": "pdf",
+        "auto": false
+      }
+    ]
   }
 ]
