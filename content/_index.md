@@ -6,6 +6,7 @@ tags:
   - awesome
   - aws
   - bash
+  - book
   - c
   - captcha
   - challenge
@@ -46,6 +47,7 @@ tags:
   - osint
   - parser
   - password
+  - pdf
   - pentest
   - physics
   - piracy
