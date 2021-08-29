@@ -1717,5 +1717,62 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598408,
+    "timestamp": "2021-08-29T12:14:56Z",
+    "url": "https://developer.squareup.com/blog/threat-hunting-with-kubernetes-audit-logs",
+    "description": "Threat Hunting with Kubernetes Audit Logs | Square Corner Blog",
+    "client": "telegram",
+    "source": "newsletter",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "kubernetes",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598409,
+    "timestamp": "2021-08-29T12:14:56Z",
+    "url": "https://kubelist.com/podcast",
+    "description": "Kubelist Podcast",
+    "client": "telegram",
+    "source": "newsletter",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "kubernetes",
+        "auto": false
+      },
+      {
+        "name": "podcast",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598410,
+    "timestamp": "2021-08-29T12:14:56Z",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "description": "GitHub - yt-dlp/yt-dlp: A youtube-dl fork with additional features and fixes",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "tool",
+        "auto": false
+      },
+      {
+        "name": "youtube",
+        "auto": false
+      },
+      {
+        "name": "github",
+        "auto": false
+      }
+    ]
   }
 ]
