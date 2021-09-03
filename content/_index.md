@@ -33,6 +33,7 @@ tags:
   - github
   - go
   - gpg
+  - graphql
   - hackthebox
   - interpreter
   - ipfs

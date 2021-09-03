@@ -1774,5 +1774,54 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598411,
+    "timestamp": "2021-09-03T12:20:27Z",
+    "url": "https://conference.hitb.org/hitbsecconf2021sin/materials",
+    "description": "Index of /files/hitbsecconf2021sin/materials",
+    "client": "telegram",
+    "source": "newsletter",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "hackthebox",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598412,
+    "timestamp": "2021-09-03T12:20:27Z",
+    "url": "https://github.com/assetnote/batchql",
+    "description": "GitHub - assetnote/batchql: GraphQL security auditing script with a focus on performing batch GraphQL queries and mutations",
+    "client": "telegram",
+    "source": "newsletter",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "graphql",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598413,
+    "timestamp": "2021-09-03T12:20:27Z",
+    "url": "https://github.com/EFForg/apkeep",
+    "description": "GitHub - EFForg/apkeep",
+    "client": "telegram",
+    "source": "hackernews",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "github",
+        "auto": false
+      },
+      {
+        "name": "android",
+        "auto": false
+      }
+    ]
   }
 ]
