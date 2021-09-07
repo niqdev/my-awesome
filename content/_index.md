@@ -43,6 +43,7 @@ tags:
   - lambda
   - mail
   - markdown
+  - math
   - obfuscator
   - os
   - osint
