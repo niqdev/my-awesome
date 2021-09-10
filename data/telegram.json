@@ -1848,5 +1848,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598416,
+    "timestamp": "2021-09-10T00:38:46Z",
+    "url": "https://picoctf.org",
+    "description": "picoCTF - CMU Cybersecurity Competition",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "ctf",
+        "auto": false
+      }
+    ]
   }
 ]
