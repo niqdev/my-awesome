@@ -1863,5 +1863,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598417,
+    "timestamp": "2021-09-11T00:34:42Z",
+    "url": "https://github.com/sickcodes/Docker-OSX",
+    "description": "GitHub - sickcodes/Docker-OSX: Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "docker",
+        "auto": false
+      }
+    ]
   }
 ]
