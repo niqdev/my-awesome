@@ -1878,5 +1878,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598418,
+    "timestamp": "2021-09-14T00:35:53Z",
+    "url": "https://principles.design",
+    "description": "Design Principles",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "awesome",
+        "auto": false
+      }
+    ]
   }
 ]
