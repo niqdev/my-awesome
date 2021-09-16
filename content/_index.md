@@ -63,6 +63,7 @@ tags:
   - rust
   - smtp
   - sqlite
+  - ssh
   - steganography
   - tool
   - vulnerable

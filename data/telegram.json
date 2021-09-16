@@ -1893,5 +1893,43 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598419,
+    "timestamp": "2021-09-16T00:36:40Z",
+    "url": "https://github.com/juliocesarfort/public-pentesting-reports",
+    "description": "GitHub - juliocesarfort/public-pentesting-reports: Curated list of public penetration test reports released by several consulting firms and academic security groups",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "pentest",
+        "auto": false
+      },
+      {
+        "name": "awesome",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598420,
+    "timestamp": "2021-09-16T00:36:40Z",
+    "url": "https://gist.github.com/koobs/e01cf8869484a095605404cd0051eb11",
+    "description": "FreeBSD SSH Hardening · GitHub",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "ssh",
+        "auto": false
+      },
+      {
+        "name": "awesome",
+        "auto": false
+      }
+    ]
   }
 ]
