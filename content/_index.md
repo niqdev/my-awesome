@@ -61,7 +61,6 @@ tags:
   - redteam
   - regex
   - reverse
-  - rust
   - smtp
   - sqlite
   - ssh

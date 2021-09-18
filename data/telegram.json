@@ -475,6 +475,10 @@
     "path": "/random",
     "tags": [
       {
+        "name": "github",
+        "auto": true
+      },
+      {
         "name": "freebsd",
         "auto": false
       }
@@ -585,14 +589,10 @@
     "description": "rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/rust",
     "tags": [
       {
         "name": "tool",
-        "auto": false
-      },
-      {
-        "name": "rust",
         "auto": false
       }
     ]
@@ -860,11 +860,11 @@
     "path": "/development",
     "tags": [
       {
-        "name": "mail",
-        "auto": false
+        "name": "github",
+        "auto": true
       },
       {
-        "name": "github",
+        "name": "mail",
         "auto": false
       }
     ]
@@ -879,11 +879,11 @@
     "path": "/development",
     "tags": [
       {
-        "name": "tool",
-        "auto": false
+        "name": "github",
+        "auto": true
       },
       {
-        "name": "github",
+        "name": "tool",
         "auto": false
       },
       {
@@ -903,7 +903,7 @@
     "tags": [
       {
         "name": "github",
-        "auto": false
+        "auto": true
       },
       {
         "name": "tool",
@@ -998,17 +998,17 @@
     "update_id": 60598364,
     "timestamp": "2021-08-10T12:20:16Z",
     "url": "https://m.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x",
-    "description": "",
+    "description": "Beginner's Series to: Rust",
     "client": "telegram",
     "source": "unknown",
     "path": "/rust",
     "tags": [
       {
-        "name": "course",
-        "auto": false
+        "name": "youtube",
+        "auto": true
       },
       {
-        "name": "youtube",
+        "name": "course",
         "auto": false
       }
     ]
@@ -1024,7 +1024,7 @@
     "tags": [
       {
         "name": "github",
-        "auto": false
+        "auto": true
       },
       {
         "name": "elf",
@@ -1041,6 +1041,10 @@
     "source": "unknown",
     "path": "/development",
     "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
       {
         "name": "tool",
         "auto": false
@@ -1066,14 +1070,14 @@
     "update_id": 60598368,
     "timestamp": "2021-08-10T12:20:16Z",
     "url": "https://m.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4",
-    "description": "",
+    "description": "Lex Fridman Podcast",
     "client": "telegram",
     "source": "unknown",
     "path": "/random",
     "tags": [
       {
         "name": "youtube",
-        "auto": false
+        "auto": true
       },
       {
         "name": "podcast",
@@ -1106,6 +1110,10 @@
     "path": "/development",
     "tags": [
       {
+        "name": "github",
+        "auto": true
+      },
+      {
         "name": "markdown",
         "auto": false
       }
@@ -1121,6 +1129,10 @@
     "path": "/security",
     "tags": [
       {
+        "name": "github",
+        "auto": true
+      },
+      {
         "name": "reverse",
         "auto": false
       }
@@ -1130,17 +1142,17 @@
     "update_id": 60598372,
     "timestamp": "2021-08-10T12:20:16Z",
     "url": "https://m.youtube.com/c/AGDCServices/videos",
-    "description": "",
+    "description": "AGDC Services",
     "client": "telegram",
     "source": "unknown",
     "path": "/security",
     "tags": [
       {
-        "name": "reverse",
-        "auto": false
+        "name": "youtube",
+        "auto": true
       },
       {
-        "name": "youtube",
+        "name": "reverse",
         "auto": false
       }
     ]
@@ -1172,7 +1184,12 @@
     "client": "telegram",
     "source": "unknown",
     "path": "/android",
-    "tags": []
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      }
+    ]
   },
   {
     "update_id": 60598375,
@@ -1229,6 +1246,10 @@
     "path": "/security",
     "tags": [
       {
+        "name": "github",
+        "auto": true
+      },
+      {
         "name": "reverse",
         "auto": false
       },
@@ -1276,7 +1297,7 @@
     "update_id": 60598381,
     "timestamp": "2021-08-10T12:20:16Z",
     "url": "https://towardsdatascience.com/networking-tools-every-developer-needs-to-know-e17c9159b180",
-    "description": "null",
+    "description": "Networking Tools Every Developer Needs to Know",
     "client": "telegram",
     "source": "unknown",
     "path": "/linux",
@@ -1312,6 +1333,10 @@
     "path": "/development",
     "tags": [
       {
+        "name": "github",
+        "auto": true
+      },
+      {
         "name": "tool",
         "auto": false
       }
@@ -1327,15 +1352,15 @@
     "path": "/security",
     "tags": [
       {
+        "name": "github",
+        "auto": true
+      },
+      {
         "name": "ctf",
         "auto": false
       },
       {
         "name": "awesome",
-        "auto": false
-      },
-      {
-        "name": "github",
         "auto": false
       }
     ]
@@ -1550,11 +1575,11 @@
     "path": "/development",
     "tags": [
       {
-        "name": "compiler",
-        "auto": false
+        "name": "github",
+        "auto": true
       },
       {
-        "name": "github",
+        "name": "compiler",
         "auto": false
       }
     ]
@@ -1601,7 +1626,7 @@
     "update_id": 60598400,
     "timestamp": "2021-08-20T12:17:47Z",
     "url": "https://kwcsec.gitbook.io/the-red-team-handbook",
-    "description": "The Red Team Vade Mecum - The Red Team Vade Mecum",
+    "description": "The Red Team Vade Mecum",
     "client": "telegram",
     "source": "unknown",
     "path": "/security",
@@ -1616,7 +1641,7 @@
     "update_id": 60598401,
     "timestamp": "2021-08-20T12:17:47Z",
     "url": "https://sourcegraph.com",
-    "description": "null",
+    "description": "Sourcegraph: search your code and 2M+ open source repositories",
     "client": "telegram",
     "source": "newsletter",
     "path": "/development",
@@ -1649,14 +1674,10 @@
     "description": "Writing a Simple Parser in Rust",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/rust",
     "tags": [
       {
         "name": "parser",
-        "auto": false
-      },
-      {
-        "name": "rust",
         "auto": false
       }
     ]
@@ -1710,7 +1731,7 @@
     "tags": [
       {
         "name": "github",
-        "auto": false
+        "auto": true
       },
       {
         "name": "pdf",
@@ -1762,15 +1783,15 @@
     "path": "/development",
     "tags": [
       {
+        "name": "github",
+        "auto": true
+      },
+      {
         "name": "tool",
         "auto": false
       },
       {
         "name": "youtube",
-        "auto": false
-      },
-      {
-        "name": "github",
         "auto": false
       }
     ]
@@ -1800,6 +1821,10 @@
     "path": "/security",
     "tags": [
       {
+        "name": "github",
+        "auto": true
+      },
+      {
         "name": "graphql",
         "auto": false
       }
@@ -1816,7 +1841,7 @@
     "tags": [
       {
         "name": "github",
-        "auto": false
+        "auto": true
       },
       {
         "name": "android",
@@ -1825,20 +1850,10 @@
     ]
   },
   {
-    "update_id": 60598414,
-    "timestamp": "2021-09-07T12:15:53Z",
-    "url": "https://saylordotorg.github.io/text_intermediate-algebra/index.html",
-    "description": "Intermediate Algebra - Table of Contents",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/random",
-    "tags": []
-  },
-  {
     "update_id": 60598415,
     "timestamp": "2021-09-07T12:15:53Z",
     "url": "https://saylordotorg.github.io/text_intermediate-algebra/index.html",
-    "description": "Intermediate Algebra - Table of Contents",
+    "description": "Intermediate Algebra",
     "client": "telegram",
     "source": "unknown",
     "path": "/random",
@@ -1874,6 +1889,10 @@
     "path": "/development",
     "tags": [
       {
+        "name": "github",
+        "auto": true
+      },
+      {
         "name": "docker",
         "auto": false
       }
@@ -1904,6 +1923,10 @@
     "path": "/security",
     "tags": [
       {
+        "name": "github",
+        "auto": true
+      },
+      {
         "name": "pentest",
         "auto": false
       },
@@ -1923,6 +1946,10 @@
     "path": "/security",
     "tags": [
       {
+        "name": "github",
+        "auto": true
+      },
+      {
         "name": "ssh",
         "auto": false
       },
@@ -1936,7 +1963,7 @@
     "update_id": 60598421,
     "timestamp": "2021-09-18T12:15:10Z",
     "url": "https://blog.px.dev/ebpf",
-    "description": "Blog | Pixie Labs Blog",
+    "description": "Pixie Labs Blog",
     "client": "telegram",
     "source": "unknown",
     "path": "/linux",
