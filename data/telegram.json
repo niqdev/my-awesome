@@ -2037,5 +2037,57 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598426,
+    "timestamp": "2021-09-18T16:50:19Z",
+    "url": "https://altair.sirmuel.design",
+    "description": "Altair GraphQL Client",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": []
+  },
+  {
+    "update_id": 60598427,
+    "timestamp": "2021-09-18T16:50:19Z",
+    "url": "https://altair.sirmuel.design",
+    "description": "Altair GraphQL Client",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "graphql",
+        "auto": false
+      },
+      {
+        "name": "tool",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598428,
+    "timestamp": "2021-09-18T16:50:19Z",
+    "url": "https://github.com/hasura/graphqurl",
+    "description": "GitHub - hasura/graphqurl: curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "graphql",
+        "auto": false
+      },
+      {
+        "name": "tool",
+        "auto": false
+      }
+    ]
   }
 ]
