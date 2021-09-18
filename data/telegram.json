@@ -1931,5 +1931,84 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598421,
+    "timestamp": "2021-09-18T12:15:10Z",
+    "url": "https://blog.px.dev/ebpf",
+    "description": "Blog | Pixie Labs Blog",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "ebpf",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598422,
+    "timestamp": "2021-09-18T12:15:10Z",
+    "url": "https://iximiuz.com/en/curated",
+    "description": "Curated Materials by Ivan Velichko",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "awesome",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598423,
+    "timestamp": "2021-09-18T12:15:10Z",
+    "url": "https://mathlets.org/mathlets",
+    "description": "Mathlets : MIT Mathlets",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "math",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598424,
+    "timestamp": "2021-09-18T12:15:10Z",
+    "url": "http://ramp-book.com",
+    "description": "Relativity: A Modern Primer | A short and sweet textbook on Einstein’s theory of relativity",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "physics",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598425,
+    "timestamp": "2021-09-18T12:15:10Z",
+    "url": "https://cobalt.io/blog/ios-pentesting-101",
+    "description": "iOS Pentesting 101 | Cobalt Blog",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "pentest",
+        "auto": false
+      },
+      {
+        "name": "ios",
+        "auto": false
+      }
+    ]
   }
 ]
