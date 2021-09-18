@@ -114,6 +114,7 @@ function parse_messages {
   # - set as "source" only the first item that starts with "&", default is "unknown"
   # - set as "path" only the first item that starts with "_", default is "/random"
   # - set as "tags" all the items that starts with "#"
+  # - set auto tags
   echo $MESSAGES | jq \
     '. | map(select(.message_text[0] != "")) |
       map({
@@ -124,7 +125,11 @@ function parse_messages {
         "client": "telegram",
         "source": ((.message_text | map(select(. | startswith("&")) | gsub("&";"") | ascii_downcase) | first ) // "unknown"),
         "path": ((.message_text | map(select(. | startswith("_")) | gsub("_";"/") | ascii_downcase) | first ) // "/random"),
-        "tags": (.message_text | map(select(. | startswith("#"))) | map({ "name": . | gsub("#";"") | ascii_downcase, "auto": false }))
+        "tags": (
+          (if isempty(.message_text[] | select(. | startswith("https://github.com"))) then [] else [{ "name": "github", "auto": true }] end) +
+          (if isempty(.message_text[] | select(. | contains("youtube.com"))) then [] else [{ "name": "youtube", "auto": true }] end) +
+          (.message_text | map(select(. | startswith("#"))) | map({ "name": . | gsub("#";"") | ascii_downcase, "auto": false }))
+        )
       })'
 }
 
@@ -143,9 +148,9 @@ function add_description {
 
   for URL in $(cat ${TMP_DATA} | jq -r '.[].description'); do
     # get html title: assumes always the first
-    DESCRIPTION=$(curl -s ${URL} | ./pup 'title json{}' | jq -r '.[0].text')
+    DESCRIPTION=$(curl -s ${URL} | ./pup 'title json{}' | jq -r '.[0].text // "INVALID_DESCRIPTION"')
     # replace url with title and ignore failures
-    sed -i -e 's;"description": "'"${URL}"'",;"description": "'"${DESCRIPTION}"'",;g' $TMP_DATA || true
+    sed -i -e 's;"description": "'"${URL}"'",;"description": "'"${DESCRIPTION:=INVALID_DESCRIPTION}"'",;g' $TMP_DATA || true
   done
 
   echo $(cat ${TMP_DATA})
