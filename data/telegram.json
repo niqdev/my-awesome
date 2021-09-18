@@ -1708,7 +1708,7 @@
     "tags": [
       {
         "name": "github",
-        "auto": false
+        "auto": true
       },
       {
         "name": "book",
