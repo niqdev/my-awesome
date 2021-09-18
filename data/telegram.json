@@ -2039,16 +2039,6 @@
     ]
   },
   {
-    "update_id": 60598426,
-    "timestamp": "2021-09-18T16:50:19Z",
-    "url": "https://altair.sirmuel.design",
-    "description": "Altair GraphQL Client",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/random",
-    "tags": []
-  },
-  {
     "update_id": 60598427,
     "timestamp": "2021-09-18T16:50:19Z",
     "url": "https://altair.sirmuel.design",
