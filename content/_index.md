@@ -3,6 +3,7 @@ title: Latest Bookmarks
 tags:
   - addon
   - android
+  - assembly
   - awesome
   - aws
   - bash
@@ -17,17 +18,21 @@ tags:
   - database
   - debugger
   - development
+  - dns
   - docker
   - ebpf
   - editor
   - electronic
   - elf
+  - emulator
   - exploit
+  - file-system
   - firecracker
   - firefox
   - forensic
   - freebsd
   - fuzzer
+  - game
   - gcp
   - git
   - github
@@ -38,6 +43,7 @@ tags:
   - interpreter
   - ios
   - ipfs
+  - json
   - jvm
   - kernel
   - kubernetes
