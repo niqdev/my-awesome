@@ -272,4 +272,7 @@ a.my-tag-title {
       font-size: 0.8em;
     }
   }
+  div[class^='col-'].my-bookmark-tag-auto {
+    background-color: #00B8D4;
+  }
 }
