@@ -72,21 +72,6 @@
     ]
   },
   {
-    "update_id": 60598311,
-    "timestamp": "2021-07-18T15:56:38Z",
-    "url": "https://www.toptal.com/scala/writing-an-interpreter",
-    "description": "Writing an Interpreter From Scratch",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/scala",
-    "tags": [
-      {
-        "name": "interpreter",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598312,
     "timestamp": "2021-07-18T15:56:38Z",
     "url": "https://github.com/nektos/act",
