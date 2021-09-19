@@ -11,6 +11,7 @@ tags:
   - c
   - captcha
   - challenge
+  - chrome
   - compiler
   - course
   - cryptography
@@ -20,13 +21,16 @@ tags:
   - development
   - dns
   - docker
+  - ebook
   - ebpf
   - editor
   - electronic
   - elf
   - emulator
   - exploit
+  - extension
   - file-system
+  - finance
   - firecracker
   - firefox
   - forensic
@@ -40,6 +44,9 @@ tags:
   - gpg
   - graphql
   - hackthebox
+  - hardening
+  - icons
+  - infosec
   - interpreter
   - ios
   - ipfs
@@ -51,9 +58,11 @@ tags:
   - mail
   - markdown
   - math
+  - network
   - obfuscator
   - os
   - osint
+  - paper
   - parser
   - password
   - pdf
@@ -67,6 +76,9 @@ tags:
   - redteam
   - regex
   - reverse
+  - robotics
+  - search
+  - sega
   - smtp
   - sqlite
   - ssh

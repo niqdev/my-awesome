@@ -2310,5 +2310,357 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598442,
+    "timestamp": "2021-09-19T00:36:05Z",
+    "url": "https://links.rsapkf.xyz",
+    "description": "42 :: [rsapkf/42]",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "awesome",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598443,
+    "timestamp": "2021-09-19T00:36:05Z",
+    "url": "https://github.com/microsoft/ethr",
+    "description": "https://github.com/microsoft/ethr",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "network",
+        "auto": false
+      },
+      {
+        "name": "tool",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598444,
+    "timestamp": "2021-09-19T00:36:05Z",
+    "url": "https://segaretro.org/Main_Page",
+    "description": "Sega Retro",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "sega",
+        "auto": false
+      },
+      {
+        "name": "game",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598445,
+    "timestamp": "2021-09-19T00:36:05Z",
+    "url": "https://github.com/osnr/horrifying-pdf-experiments",
+    "description": "GitHub - osnr/horrifying-pdf-experiments: Stuff which works in Chrome and maybe Acrobat and Foxit.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "pdf",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598446,
+    "timestamp": "2021-09-19T00:36:05Z",
+    "url": "https://allshire.org/getting-started-robotics",
+    "description": "Getting started in Robotics | Arthur Allshire",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "awesome",
+        "auto": false
+      },
+      {
+        "name": "robotics",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598447,
+    "timestamp": "2021-09-19T00:36:05Z",
+    "url": "https://jeffhuang.com/best_paper_awards",
+    "description": "https://jeffhuang.com/best_paper_awards/",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "awesome",
+        "auto": false
+      },
+      {
+        "name": "paper",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598448,
+    "timestamp": "2021-09-19T00:36:05Z",
+    "url": "https://saylordotorg.github.io/text_personal-finance/index.html",
+    "description": "Personal Finance - Table of Contents",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "awesome",
+        "auto": false
+      },
+      {
+        "name": "finance",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598449,
+    "timestamp": "2021-09-19T00:36:05Z",
+    "url": "https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510",
+    "description": "Learn Go in ~5mins · GitHub",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "go",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598450,
+    "timestamp": "2021-09-19T00:36:05Z",
+    "url": "https://tamper.dev",
+    "description": "Tamper Dev",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "extension",
+        "auto": false
+      },
+      {
+        "name": "chrome",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598451,
+    "timestamp": "2021-09-19T00:36:05Z",
+    "url": "https://madaidans-insecurities.github.io/guides/linux-hardening.html",
+    "description": "https://madaidans-insecurities.github.io/guides/linux-hardening.html",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "hardening",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598452,
+    "timestamp": "2021-09-19T00:36:05Z",
+    "url": "https://electronupdate.blogspot.com",
+    "description": "electronupdate",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "electronic",
+        "auto": false
+      },
+      {
+        "name": "reverse",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598453,
+    "timestamp": "2021-09-19T00:36:05Z",
+    "url": "https://iconduck.com",
+    "description": "Free open source icons, illustrations, emojis and graphics - Iconduck",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "awesome",
+        "auto": false
+      },
+      {
+        "name": "icons",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598454,
+    "timestamp": "2021-09-19T00:36:05Z",
+    "url": "https://www.netmeister.org/blog/infosec-competencies.html",
+    "description": "(Technical) Infosec Core Competencies",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "infosec",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598455,
+    "timestamp": "2021-09-19T00:36:05Z",
+    "url": "https://millionshort.com",
+    "description": "https://millionshort.com/",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "search",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598456,
+    "timestamp": "2021-09-19T00:36:05Z",
+    "url": "https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i",
+    "description": "Anatomy of a Linux DNS Lookup – Part I – zwischenzugs",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "dns",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598457,
+    "timestamp": "2021-09-19T00:36:05Z",
+    "url": "https://jvns.ca/blog/2021/01/23/firecracker--start-a-vm-in-less-than-a-second",
+    "description": "Firecracker: start a VM in less than a second",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "firecracker",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598458,
+    "timestamp": "2021-09-19T00:36:05Z",
+    "url": "https://www.loudreader.com",
+    "description": "Ebook Reader for web",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "tool",
+        "auto": false
+      },
+      {
+        "name": "ebook",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598459,
+    "timestamp": "2021-09-19T00:36:05Z",
+    "url": "https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list",
+    "description": "The Definitive C Book Guide and List - Stack Overflow",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "awesome",
+        "auto": false
+      },
+      {
+        "name": "c",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598460,
+    "timestamp": "2021-09-19T00:36:05Z",
+    "url": "https://rust-lang-nursery.github.io/rust-cookbook/intro.html",
+    "description": "Table of Contents - Rust Cookbook",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/rust",
+    "tags": [
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598461,
+    "timestamp": "2021-09-19T00:36:05Z",
+    "url": "https://www.reddit.com/r/computerforensics/wiki/resources",
+    "description": "resources - computerforensics",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "awesome",
+        "auto": false
+      },
+      {
+        "name": "forensic",
+        "auto": false
+      }
+    ]
   }
 ]
