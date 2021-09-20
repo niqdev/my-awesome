@@ -81,6 +81,7 @@ tags:
   - sega
   - smtp
   - sqlite
+  - sre
   - ssh
   - steganography
   - tool

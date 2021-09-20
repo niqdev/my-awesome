@@ -2662,5 +2662,62 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598462,
+    "timestamp": "2021-09-20T12:16:47Z",
+    "url": "https://github.com/upgundecha/howtheysre",
+    "description": "GitHub - upgundecha/howtheysre: A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "awesome",
+        "auto": false
+      },
+      {
+        "name": "sre",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598463,
+    "timestamp": "2021-09-20T12:16:47Z",
+    "url": "https://www.dbcli.com",
+    "description": "DBCLI",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/database",
+    "tags": [
+      {
+        "name": "tool",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598464,
+    "timestamp": "2021-09-20T12:16:47Z",
+    "url": "https://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html",
+    "description": "Foundational distributed systems papers",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/distributed-systems",
+    "tags": [
+      {
+        "name": "paper",
+        "auto": false
+      },
+      {
+        "name": "awesome",
+        "auto": false
+      }
+    ]
   }
 ]
