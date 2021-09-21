@@ -96,6 +96,5 @@ folders:
   - linux
   - random
   - rust
-  - scala
   - security
 ---
