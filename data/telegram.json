@@ -2704,5 +2704,88 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598465,
+    "timestamp": "2021-09-21T09:24:53Z",
+    "url": "https://www.practical-go-lessons.com",
+    "description": "Practical Go Lessons",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "go",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598466,
+    "timestamp": "2021-09-21T09:24:53Z",
+    "url": "https://github.com/wkhtmltopdf/wkhtmltopdf",
+    "description": "GitHub - wkhtmltopdf/wkhtmltopdf: Convert HTML to PDF using Webkit (QtWebKit)",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "pdf",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598467,
+    "timestamp": "2021-09-21T09:24:53Z",
+    "url": "https://fly.io/blog/docker-without-docker",
+    "description": "Docker without Docker · Fly",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "docker",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598468,
+    "timestamp": "2021-09-21T09:24:53Z",
+    "url": "https://docs.microsoft.com/en-us/learn/paths/rust-first-steps",
+    "description": "Take your first steps with Rust - Learn | Microsoft Docs",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/rust",
+    "tags": [
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598469,
+    "timestamp": "2021-09-21T09:24:53Z",
+    "url": "https://github.com/haileys/crabos",
+    "description": "GitHub - haileys/crabos: My hobby operating system written in Rust",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/rust",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "os",
+        "auto": false
+      }
+    ]
   }
 ]
