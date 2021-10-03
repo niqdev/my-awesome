@@ -5,6 +5,7 @@ tags:
   - android
   - assembly
   - awesome
+  - awk
   - aws
   - bash
   - book

@@ -2787,5 +2787,43 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598470,
+    "timestamp": "2021-10-03T12:15:25Z",
+    "url": "https://earthly.dev/blog/awk-examples",
+    "description": "Understanding AWK - Earthly Blog",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "tool",
+        "auto": false
+      },
+      {
+        "name": "awk",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598471,
+    "timestamp": "2021-10-03T12:15:25Z",
+    "url": "https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials",
+    "description": "GitHub - rust-embedded/rust-raspberrypi-OS-tutorials: Learn to write an embedded OS in Rust",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/rust",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "os",
+        "auto": false
+      }
+    ]
   }
 ]
