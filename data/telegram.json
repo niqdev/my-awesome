@@ -2825,5 +2825,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598472,
+    "timestamp": "2021-10-07T00:38:53Z",
+    "url": "https://github.com/chrisbutner/ChessCoach",
+    "description": "GitHub - chrisbutner/ChessCoach: Neural network-based chess engine capable of natural language commentary",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "chess",
+        "auto": false
+      }
+    ]
   }
 ]
