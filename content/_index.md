@@ -12,6 +12,7 @@ tags:
   - c
   - captcha
   - challenge
+  - chess
   - chrome
   - compiler
   - course
