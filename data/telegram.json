@@ -2844,5 +2844,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598473,
+    "timestamp": "2021-10-28T00:36:12Z",
+    "url": "https://github.com/nuta/kerla",
+    "description": "GitHub - nuta/kerla: A new operating system kernel with Linux binary compatibility written in Rust.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/rust",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "os",
+        "auto": false
+      }
+    ]
   }
 ]
