@@ -2863,5 +2863,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598474,
+    "timestamp": "2021-10-29T00:34:38Z",
+    "url": "https://ably.com/blog/crdts-distributed-data-consistency-challenges",
+    "description": "How do CRDTs solve distributed data consistency challenges? | Ably Blog: Data in Motion",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/distributed-systems",
+    "tags": [
+      {
+        "name": "crdt",
+        "auto": false
+      }
+    ]
   }
 ]
