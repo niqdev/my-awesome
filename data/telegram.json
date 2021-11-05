@@ -2878,5 +2878,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598475,
+    "timestamp": "2021-11-05T00:36:08Z",
+    "url": "https://github.com/maaslalani/slides",
+    "description": "GitHub - maaslalani/slides: Terminal based presentation tool",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "markdown",
+        "auto": false
+      }
+    ]
   }
 ]
