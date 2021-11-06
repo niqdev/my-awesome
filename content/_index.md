@@ -86,6 +86,7 @@ tags:
   - sqlite
   - sre
   - ssh
+  - startup
   - steganography
   - tool
   - vulnerable
