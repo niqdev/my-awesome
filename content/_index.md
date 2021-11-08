@@ -49,6 +49,7 @@ tags:
   - hackthebox
   - hardening
   - icons
+  - image
   - infosec
   - interpreter
   - ios
