@@ -2912,5 +2912,43 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598477,
+    "timestamp": "2021-11-08T00:37:06Z",
+    "url": "https://www.remove.bg",
+    "description": "Remove Background from Image – remove.bg",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "tool",
+        "auto": false
+      },
+      {
+        "name": "image",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598478,
+    "timestamp": "2021-11-08T00:37:06Z",
+    "url": "https://redact.photo",
+    "description": "redact.photo • Free and private image redaction in the browser",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "tool",
+        "auto": false
+      },
+      {
+        "name": "image",
+        "auto": false
+      }
+    ]
   }
 ]
