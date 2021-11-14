@@ -81,6 +81,7 @@ tags:
   - regex
   - reverse
   - robotics
+  - rsync
   - search
   - sega
   - smtp
