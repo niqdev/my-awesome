@@ -2982,6 +2982,10 @@
       {
         "name": "go",
         "auto": false
+      },
+      {
+        "name": "book",
+        "auto": false
       }
     ]
   },
@@ -3109,25 +3113,6 @@
     "tags": [
       {
         "name": "book",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598489,
-    "timestamp": "2021-11-20T12:15:58Z",
-    "url": "https://aegeorge42.github.io",
-    "description": "Neural Networks from Scratch - an interactive guide",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/random",
-    "tags": [
-      {
-        "name": "ml",
-        "auto": false
-      },
-      {
-        "name": "ai",
         "auto": false
       }
     ]
