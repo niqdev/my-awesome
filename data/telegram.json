@@ -1835,21 +1835,6 @@
     ]
   },
   {
-    "update_id": 60598415,
-    "timestamp": "2021-09-07T12:15:53Z",
-    "url": "https://saylordotorg.github.io/text_intermediate-algebra/index.html",
-    "description": "Intermediate Algebra",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/random",
-    "tags": [
-      {
-        "name": "math",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598416,
     "timestamp": "2021-09-10T00:38:46Z",
     "url": "https://picoctf.org",
@@ -1970,21 +1955,6 @@
     "tags": [
       {
         "name": "awesome",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598423,
-    "timestamp": "2021-09-18T12:15:10Z",
-    "url": "https://mathlets.org/mathlets",
-    "description": "Mathlets : MIT Mathlets",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/random",
-    "tags": [
-      {
-        "name": "math",
         "auto": false
       }
     ]
