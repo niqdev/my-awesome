@@ -3135,5 +3135,69 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598493,
+    "timestamp": "2021-11-20T13:44:08Z",
+    "url": "https://github.com/flosse/rust-os-comparison",
+    "description": "GitHub - flosse/rust-os-comparison: A comparison of operating systems written in Rust",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/rust",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "os",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598494,
+    "timestamp": "2021-11-20T13:44:08Z",
+    "url": "https://www.networkworld.com/article/3636997/using-the-xargs-command-on-linux-to-simplify-your-work.html",
+    "description": "Using the xargs command on Linux to simplify your work | Network World",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "xargs",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598495,
+    "timestamp": "2021-11-20T13:44:08Z",
+    "url": "https://garden.bradwoods.io/notes/sql",
+    "description": "SQL",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "sql",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598496,
+    "timestamp": "2021-11-20T13:44:08Z",
+    "url": "https://www.embeddedrelated.com/showarticle/1432.php",
+    "description": "Learning Rust For Embedded Systems - Steve Branam",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/rust",
+    "tags": [
+      {
+        "name": "awesome",
+        "auto": false
+      }
+    ]
   }
 ]
