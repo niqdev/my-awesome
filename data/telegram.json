@@ -2969,5 +2969,216 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598480,
+    "timestamp": "2021-11-20T12:15:58Z",
+    "url": "https://golang.org/doc/effective_go",
+    "description": "Effective Go - The Go Programming Language",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "go",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598481,
+    "timestamp": "2021-11-20T12:15:58Z",
+    "url": "https://github.com/gollum/gollum",
+    "description": "GitHub - gollum/gollum: A simple, Git-powered wiki with a sweet API and local frontend.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "git",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598482,
+    "timestamp": "2021-11-20T12:15:58Z",
+    "url": "https://github.com/gabrie30/ghorg",
+    "description": "GitHub - gabrie30/ghorg: Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "git",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598483,
+    "timestamp": "2021-11-20T12:15:58Z",
+    "url": "https://regexlearn.com",
+    "description": "Regex Learn - Step by step, from zero to advanced.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "regex",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598484,
+    "timestamp": "2021-11-20T12:15:58Z",
+    "url": "http://www.figlet.org",
+    "description": "FIGlet - hosted by PLiG",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "ascii",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598485,
+    "timestamp": "2021-11-20T12:15:58Z",
+    "url": "https://ascii-generator.site",
+    "description": "https://ascii-generator.site/",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "ascii",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598486,
+    "timestamp": "2021-11-20T12:15:58Z",
+    "url": "http://www.network-science.de/ascii",
+    "description": "ASCII Generator",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "ascii",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598487,
+    "timestamp": "2021-11-20T12:15:58Z",
+    "url": "https://jvns.ca/blog/2021/10/05/tools-to-look-at-bgp-routes",
+    "description": "Tools to explore BGP",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "bgp",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598488,
+    "timestamp": "2021-11-20T12:15:58Z",
+    "url": "https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot",
+    "description": "Contents - Rust for the Polyglot Programmer",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/rust",
+    "tags": [
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598489,
+    "timestamp": "2021-11-20T12:15:58Z",
+    "url": "https://aegeorge42.github.io",
+    "description": "Neural Networks from Scratch - an interactive guide",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "ml",
+        "auto": false
+      },
+      {
+        "name": "ai",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598490,
+    "timestamp": "2021-11-20T12:15:58Z",
+    "url": "https://tumregels.github.io/Network-Programming-with-Go",
+    "description": "Introduction · Network Progamming with Go",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "go",
+        "auto": false
+      },
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598491,
+    "timestamp": "2021-11-20T12:15:58Z",
+    "url": "https://learnbyexample.github.io/cli_text_processing_coreutils",
+    "description": "Cover - Command line text processing with GNU Coreutils",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598492,
+    "timestamp": "2021-11-20T12:15:58Z",
+    "url": "https://www.copetti.org",
+    "description": "https://www.copetti.org/",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "electronic",
+        "auto": false
+      }
+    ]
   }
 ]
