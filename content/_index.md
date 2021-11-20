@@ -63,7 +63,6 @@ tags:
   - lambda
   - mail
   - markdown
-  - math
   - network
   - obfuscator
   - os
@@ -87,6 +86,7 @@ tags:
   - search
   - sega
   - smtp
+  - sql
   - sqlite
   - sre
   - ssh
@@ -95,6 +95,7 @@ tags:
   - tool
   - vulnerable
   - webassembly
+  - xargs
   - youtube
 folders:
   - android
