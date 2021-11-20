@@ -2,12 +2,15 @@
 title: Latest Bookmarks
 tags:
   - addon
+  - ai
   - android
+  - ascii
   - assembly
   - awesome
   - awk
   - aws
   - bash
+  - bgp
   - book
   - c
   - captcha
@@ -62,6 +65,7 @@ tags:
   - mail
   - markdown
   - math
+  - ml
   - network
   - obfuscator
   - os
