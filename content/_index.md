@@ -2,7 +2,6 @@
 title: Latest Bookmarks
 tags:
   - addon
-  - ai
   - android
   - ascii
   - assembly
@@ -65,7 +64,6 @@ tags:
   - mail
   - markdown
   - math
-  - ml
   - network
   - obfuscator
   - os
