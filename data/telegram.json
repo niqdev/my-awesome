@@ -3199,5 +3199,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598497,
+    "timestamp": "2021-11-28T00:38:30Z",
+    "url": "https://labs.ripe.net/author/lorenzo_cogotti/micro-bgp-suite-the-swiss-army-knife-of-routing-analysis",
+    "description": "Micro BGP Suite: The Swiss Army Knife of Routing Analysis | RIPE Labs",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "bgp",
+        "auto": false
+      }
+    ]
   }
 ]
