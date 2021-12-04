@@ -48,6 +48,7 @@ tags:
   - go
   - gpg
   - graphql
+  - gzip
   - hackthebox
   - hardening
   - icons

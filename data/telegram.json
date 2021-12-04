@@ -3214,5 +3214,39 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598498,
+    "timestamp": "2021-12-04T12:17:13Z",
+    "url": "https://ttay.me/blog/gzip_investigations",
+    "description": "https://ttay.me/blog/gzip_investigations/",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "gzip",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598499,
+    "timestamp": "2021-12-04T12:17:13Z",
+    "url": "https://github.com/kholia/OSX-KVM",
+    "description": "GitHub - kholia/OSX-KVM: Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "os",
+        "auto": false
+      }
+    ]
   }
 ]
