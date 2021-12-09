@@ -3263,5 +3263,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598501,
+    "timestamp": "2021-12-09T00:38:30Z",
+    "url": "https://github.com/charmbracelet/soft-serve",
+    "description": "GitHub - charmbracelet/soft-serve: A tasty, self-hostable Git server for the command line🍦",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "git",
+        "auto": false
+      }
+    ]
   }
 ]
