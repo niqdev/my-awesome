@@ -94,6 +94,7 @@ tags:
   - startup
   - steganography
   - tool
+  - vim
   - vulnerable
   - webassembly
   - xargs

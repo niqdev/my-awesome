@@ -3282,5 +3282,35 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598502,
+    "timestamp": "2021-12-11T00:36:55Z",
+    "url": "https://isovalent.com/blog/post/2021-12-08-ebpf-servicemesh",
+    "description": "How eBPF will solve Service Mesh - Goodbye Sidecars",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "ebpf",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598503,
+    "timestamp": "2021-12-11T00:36:55Z",
+    "url": "https://draculatheme.com",
+    "description": "Dracula — Dark theme for 227+ apps",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "vim",
+        "auto": false
+      }
+    ]
   }
 ]
