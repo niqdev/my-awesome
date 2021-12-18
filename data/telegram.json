@@ -3312,5 +3312,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598504,
+    "timestamp": "2021-12-18T00:41:33Z",
+    "url": "https://jvns.ca/blog/2021/12/15/mess-with-dns",
+    "description": "INVALID_DESCRIPTION",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "dns",
+        "auto": false
+      }
+    ]
   }
 ]
