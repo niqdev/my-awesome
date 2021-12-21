@@ -3327,5 +3327,54 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598505,
+    "timestamp": "2021-12-21T00:42:06Z",
+    "url": "https://httptoolkit.tech",
+    "description": "https://httptoolkit.tech/",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "network",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598506,
+    "timestamp": "2021-12-21T00:42:06Z",
+    "url": "https://coderoasis.com/implementing-rsa-from-scratch-in-python",
+    "description": "Implementing RSA in Python from Scratch (Part 1)",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "cryptography",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598507,
+    "timestamp": "2021-12-21T00:42:06Z",
+    "url": "https://github.com/mendel5/alternative-front-ends",
+    "description": "GitHub - mendel5/alternative-front-ends: Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "awesome",
+        "auto": false
+      }
+    ]
   }
 ]
