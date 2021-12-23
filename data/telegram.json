@@ -3376,5 +3376,62 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598508,
+    "timestamp": "2021-12-23T00:39:58Z",
+    "url": "https://github.com/remileduc/sherver",
+    "description": "GitHub - remileduc/sherver: Pure Bash lightweight web server.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "bash",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598509,
+    "timestamp": "2021-12-23T00:39:58Z",
+    "url": "https://github.com/cryptosubtlety/intuitive-advanced-cryptography",
+    "description": "GitHub - cryptosubtlety/intuitive-advanced-cryptography: Intuitive Advanced Cryptography",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "cryptography",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598510,
+    "timestamp": "2021-12-23T00:39:58Z",
+    "url": "https://github.com/ArthurSonzogni/Diagon",
+    "description": "GitHub - ArthurSonzogni/Diagon: Interactive ASCII art diagram generators. :star2:",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "ascii",
+        "auto": false
+      }
+    ]
   }
 ]
