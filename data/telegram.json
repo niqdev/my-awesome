@@ -3433,5 +3433,65 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598511,
+    "timestamp": "2021-12-26T12:17:13Z",
+    "url": "https://paperswithcode.com",
+    "description": "The latest in Machine Learning | Papers With Code",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "paper",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598512,
+    "timestamp": "2021-12-26T12:17:13Z",
+    "url": "https://marktext.app",
+    "description": "Mark Text",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "markdown",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598513,
+    "timestamp": "2021-12-26T12:17:13Z",
+    "url": "https://cyber.dabamos.de/unix/x11",
+    "description": "Cool, but obscure X11 tools",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "tool",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598514,
+    "timestamp": "2021-12-26T12:17:13Z",
+    "url": "https://latex-cookbook.net",
+    "description": "LaTeX Cookbook – Collection of LaTeX recipes",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "latex",
+        "auto": false
+      }
+    ]
   }
 ]

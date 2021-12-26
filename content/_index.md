@@ -62,6 +62,7 @@ tags:
   - kernel
   - kubernetes
   - lambda
+  - latex
   - mail
   - markdown
   - network
