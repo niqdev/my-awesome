@@ -3550,5 +3550,39 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598518,
+    "timestamp": "2022-01-03T12:18:31Z",
+    "url": "https://jvns.ca/blog/2017/06/28/notes-on-bpf---ebpf",
+    "description": "https://jvns.ca/blog/2017/06/28/notes-on-bpf---ebpf/",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "ebpf",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598519,
+    "timestamp": "2022-01-03T12:18:31Z",
+    "url": "https://github.com/iovisor/bcc",
+    "description": "GitHub - iovisor/bcc: BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "ebpf",
+        "auto": false
+      }
+    ]
   }
 ]
