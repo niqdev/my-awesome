@@ -98,6 +98,7 @@ tags:
   - vim
   - vulnerable
   - webassembly
+  - wiki
   - xargs
   - youtube
 folders:
