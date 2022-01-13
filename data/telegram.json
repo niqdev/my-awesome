@@ -3599,5 +3599,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598521,
+    "timestamp": "2022-01-13T00:43:43Z",
+    "url": "https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml",
+    "description": "Writing a Game Boy Emulator in OCaml - The Linoscope Machine",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "ocaml",
+        "auto": false
+      }
+    ]
   }
 ]
