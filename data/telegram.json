@@ -3614,5 +3614,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598522,
+    "timestamp": "2022-01-13T12:19:09Z",
+    "url": "https://ihateregex.io",
+    "description": "i Hate Regex - The Regex Cheat Sheet",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "regex",
+        "auto": false
+      }
+    ]
   }
 ]
