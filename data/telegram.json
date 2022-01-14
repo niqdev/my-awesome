@@ -3629,5 +3629,73 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598523,
+    "timestamp": "2022-01-14T00:42:43Z",
+    "url": "https://github.com/GitAlias/gitalias",
+    "description": "GitHub - GitAlias/gitalias: Git alias commands for faster easier version control",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "git",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598524,
+    "timestamp": "2022-01-14T00:42:43Z",
+    "url": "https://pi.math.cornell.edu/~web6140/TopTenAlgorithms/JPEG.html",
+    "description": "JPEG: Image compression algorithm",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "jpeg",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598525,
+    "timestamp": "2022-01-14T00:42:43Z",
+    "url": "https://sysadvent.blogspot.com/2021/12/day-23-what-is-ebpf.html",
+    "description": "sysadvent: Day 23 - What is eBPF?",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "ebpf",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598526,
+    "timestamp": "2022-01-14T00:42:43Z",
+    "url": "https://github.com/binwiederhier/ntfy",
+    "description": "GitHub - binwiederhier/ntfy: Send push notifications to your phone or desktop using PUT/POST",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/android",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "notification",
+        "auto": false
+      }
+    ]
   }
 ]

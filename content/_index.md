@@ -57,6 +57,7 @@ tags:
   - interpreter
   - ios
   - ipfs
+  - jpeg
   - json
   - jvm
   - kernel
@@ -66,6 +67,7 @@ tags:
   - mail
   - markdown
   - network
+  - notification
   - obfuscator
   - ocaml
   - os
