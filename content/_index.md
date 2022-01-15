@@ -58,6 +58,7 @@ tags:
   - ios
   - ipfs
   - jpeg
+  - jq
   - json
   - jvm
   - kernel
