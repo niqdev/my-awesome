@@ -3800,5 +3800,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598532,
+    "timestamp": "2022-01-24T00:38:27Z",
+    "url": "https://docs.opentitan.org/doc/ug/rust_for_c",
+    "description": "Rust for Embedded C Programmers | OpenTitan Documentation",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/rust",
+    "tags": [
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
   }
 ]
