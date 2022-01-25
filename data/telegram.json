@@ -3815,5 +3815,35 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598533,
+    "timestamp": "2022-01-25T12:17:36Z",
+    "url": "https://kubelist.com/issue/152",
+    "description": "kubelist - Issue 152",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "ebpf",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598534,
+    "timestamp": "2022-01-25T12:17:36Z",
+    "url": "https://docs.px.dev/about-pixie/pixie-ebpf",
+    "description": "About Pixie | How Pixie uses eBPF",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "ebpf",
+        "auto": false
+      }
+    ]
   }
 ]
