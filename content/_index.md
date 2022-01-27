@@ -104,6 +104,7 @@ tags:
   - vim
   - vulnerable
   - webassembly
+  - websocket
   - wiki
   - xargs
   - youtube
