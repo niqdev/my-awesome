@@ -3890,5 +3890,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598538,
+    "timestamp": "2022-01-29T12:15:41Z",
+    "url": "https://www.interdb.jp/pg",
+    "description": "301 Moved Permanently",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "database",
+        "auto": false
+      },
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
   }
 ]
