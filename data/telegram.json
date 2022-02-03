@@ -3909,5 +3909,54 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598539,
+    "timestamp": "2022-02-03T12:16:36Z",
+    "url": "https://c2rust.com",
+    "description": "C2Rust Demonstration",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/rust",
+    "tags": [
+      {
+        "name": "interpreter",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598540,
+    "timestamp": "2022-02-03T12:16:36Z",
+    "url": "https://danluu.com/programming-books",
+    "description": "Programming book list",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "awesome",
+        "auto": false
+      },
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598541,
+    "timestamp": "2022-02-03T12:16:36Z",
+    "url": "https://leaningtech.com/webvm-server-less-x86-virtual-machines-in-the-browser",
+    "description": "WebVM: server-less x86 virtual machines in the browser",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/rust",
+    "tags": [
+      {
+        "name": "webassembly",
+        "auto": false
+      }
+    ]
   }
 ]
