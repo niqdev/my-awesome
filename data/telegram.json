@@ -3958,5 +3958,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598542,
+    "timestamp": "2022-02-07T12:21:34Z",
+    "url": "https://github.com/jpmens/jo",
+    "description": "GitHub - jpmens/jo: JSON output from a shell",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "json",
+        "auto": false
+      }
+    ]
   }
 ]
