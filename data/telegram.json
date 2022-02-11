@@ -3977,5 +3977,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598543,
+    "timestamp": "2022-02-11T00:45:39Z",
+    "url": "https://yurichev.com/news/20220210_RSA",
+    "description": "[Crypto] How to crack RSA-512 on off-the-shelf hardware in 4 days",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "cryptography",
+        "auto": false
+      }
+    ]
   }
 ]
