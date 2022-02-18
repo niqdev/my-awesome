@@ -3992,5 +3992,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598544,
+    "timestamp": "2022-02-18T12:18:16Z",
+    "url": "https://www.interdb.jp/pg",
+    "description": "The Internals of PostgreSQL : Introduction",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/database",
+    "tags": [
+      {
+        "name": "postgresql",
+        "auto": false
+      }
+    ]
   }
 ]
