@@ -4007,5 +4007,50 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598545,
+    "timestamp": "2022-02-19T00:46:11Z",
+    "url": "https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port",
+    "description": "Paul Butler – What does it mean to listen on a port?",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "network",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598546,
+    "timestamp": "2022-02-19T00:46:11Z",
+    "url": "https://pauljuliusmartinez.github.io",
+    "description": "jless - Command Line JSON Viewer",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "json",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598547,
+    "timestamp": "2022-02-19T00:46:11Z",
+    "url": "https://earthly.dev/blog/lxc-vs-docker",
+    "description": "LXC vs Docker: Which Container Platform Is Right for You? - Earthly Blog",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "docker",
+        "auto": false
+      }
+    ]
   }
 ]
