@@ -4052,5 +4052,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598548,
+    "timestamp": "2022-02-23T00:49:29Z",
+    "url": "https://blog.openresty.com/en/ylang-intro-part1",
+    "description": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (Part 1) - OpenResty Official Blog",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "ebpf",
+        "auto": false
+      }
+    ]
   }
 ]
