@@ -4067,5 +4067,28 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598549,
+    "timestamp": "2022-02-28T00:47:18Z",
+    "url": "https://github.com/RunaCapital/awesome-oss-alternatives",
+    "description": "GitHub - RunaCapital/awesome-oss-alternatives: Awesome list of open-source startup alternatives to well-known SaaS products 🚀",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "awesome",
+        "auto": false
+      },
+      {
+        "name": "tool",
+        "auto": false
+      }
+    ]
   }
 ]
