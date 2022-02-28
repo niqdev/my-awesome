@@ -4090,5 +4090,28 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598550,
+    "timestamp": "2022-02-28T12:18:59Z",
+    "url": "https://github.com/hoppscotch/hoppscotch",
+    "description": "GitHub - hoppscotch/hoppscotch: 👽 Open source API development ecosystem - https://hoppscotch.io",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "tool",
+        "auto": false
+      },
+      {
+        "name": "api",
+        "auto": false
+      }
+    ]
   }
 ]

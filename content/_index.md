@@ -3,6 +3,7 @@ title: Latest Bookmarks
 tags:
   - addon
   - android
+  - api
   - ascii
   - assembly
   - awesome
