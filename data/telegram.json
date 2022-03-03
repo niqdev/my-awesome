@@ -4113,5 +4113,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598551,
+    "timestamp": "2022-03-03T00:50:39Z",
+    "url": "https://github.com/gildas-lormeau/SingleFile",
+    "description": "GitHub - gildas-lormeau/SingleFile: Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "addon",
+        "auto": false
+      }
+    ]
   }
 ]
