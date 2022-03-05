@@ -4132,5 +4132,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598552,
+    "timestamp": "2022-03-05T00:50:13Z",
+    "url": "https://github.com/iamadamdev/bypass-paywalls-chrome",
+    "description": "GitHub - iamadamdev/bypass-paywalls-chrome: Bypass Paywalls web browser extension for Chrome and Firefox.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "addon",
+        "auto": false
+      }
+    ]
   }
 ]
