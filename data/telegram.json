@@ -4151,5 +4151,28 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598553,
+    "timestamp": "2022-03-08T00:45:46Z",
+    "url": "https://github.com/TomWright/dasel",
+    "description": "GitHub - TomWright/dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "tool",
+        "auto": false
+      },
+      {
+        "name": "json",
+        "auto": false
+      }
+    ]
   }
 ]
