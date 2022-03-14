@@ -4174,5 +4174,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598554,
+    "timestamp": "2022-03-14T00:50:21Z",
+    "url": "https://github.com/winfsp/hubfs",
+    "description": "GitHub - winfsp/hubfs: File system for GitHub",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "github",
+        "auto": false
+      }
+    ]
   }
 ]
