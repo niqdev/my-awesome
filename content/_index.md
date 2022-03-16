@@ -40,6 +40,7 @@ tags:
   - firecracker
   - firefox
   - forensic
+  - fp
   - freebsd
   - fuzzer
   - game
@@ -82,6 +83,7 @@ tags:
   - pentest
   - physics
   - piracy
+  - pki
   - podcast
   - postgresql
   - rainbow

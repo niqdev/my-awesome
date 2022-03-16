@@ -4193,5 +4193,133 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598555,
+    "timestamp": "2022-03-16T00:51:53Z",
+    "url": "https://iximiuz.com/en/posts/container-learning-path",
+    "description": "INVALID_DESCRIPTION",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "docker",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598556,
+    "timestamp": "2022-03-16T00:51:53Z",
+    "url": "https://github.com/p8952/bocker",
+    "description": "GitHub - p8952/bocker: Docker implemented in around 100 lines of bash",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "docker",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598557,
+    "timestamp": "2022-03-16T00:51:53Z",
+    "url": "https://codeamigo.dev/lessons/preview/161",
+    "description": "codeamigo",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/rust",
+    "tags": [
+      {
+        "name": "course",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598558,
+    "timestamp": "2022-03-16T00:51:53Z",
+    "url": "https://blog.quarkslab.com/digging-into-linux-namespaces-part-1.html",
+    "description": "Digging into Linux namespaces - part 1",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "docker",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598559,
+    "timestamp": "2022-03-16T00:51:53Z",
+    "url": "https://hugopeters.me/posts/14",
+    "description": "Higher Kinded Types in Rust",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/rust",
+    "tags": [
+      {
+        "name": "fp",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598560,
+    "timestamp": "2022-03-16T00:51:53Z",
+    "url": "https://learnxinyminutes.com",
+    "description": "Learn X in Y Minutes: Scenic Programming Language Tours",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "awesome",
+        "auto": false
+      },
+      {
+        "name": "course",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598561,
+    "timestamp": "2022-03-16T00:51:53Z",
+    "url": "https://medium.com/airbnb-engineering/meet-ottr-a-serverless-public-key-infrastructure-framework-f6580010ae0c",
+    "description": "Meet Ottr: A Serverless Public Key Infrastructure Framework | by Kenneth Yang | The Airbnb Tech Blog | Medium",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "pki",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598562,
+    "timestamp": "2022-03-16T00:51:53Z",
+    "url": "https://danso.ca/blog/higher-kinded-types",
+    "description": "danso - understanding higher-kinded types",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/rust",
+    "tags": [
+      {
+        "name": "fp",
+        "auto": false
+      }
+    ]
   }
 ]
