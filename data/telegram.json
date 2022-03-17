@@ -4321,5 +4321,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598563,
+    "timestamp": "2022-03-17T12:20:37Z",
+    "url": "https://github.com/multiprocessio/dsq",
+    "description": "GitHub - multiprocessio/dsq: Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "json",
+        "auto": false
+      }
+    ]
   }
 ]
