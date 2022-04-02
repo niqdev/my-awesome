@@ -4408,5 +4408,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598568,
+    "timestamp": "2022-04-02T00:51:24Z",
+    "url": "https://github.com/rprinz08/hBPF",
+    "description": "GitHub - rprinz08/hBPF: hBPF = eBPF in hardware",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "ebpf",
+        "auto": false
+      }
+    ]
   }
 ]
