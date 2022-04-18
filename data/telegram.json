@@ -4427,5 +4427,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598569,
+    "timestamp": "2022-04-18T12:21:52Z",
+    "url": "https://github.com/natesales/q",
+    "description": "GitHub - natesales/q: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "dns",
+        "auto": false
+      }
+    ]
   }
 ]
