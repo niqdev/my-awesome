@@ -4446,5 +4446,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598570,
+    "timestamp": "2022-04-19T12:30:26Z",
+    "url": "https://rust-unofficial.github.io/too-many-lists/index.html",
+    "description": "Introduction - Learning Rust With Entirely Too Many Linked Lists",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/rust",
+    "tags": [
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
   }
 ]
