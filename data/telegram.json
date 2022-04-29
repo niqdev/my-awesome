@@ -4491,5 +4491,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598573,
+    "timestamp": "2022-04-29T00:59:32Z",
+    "url": "https://os.phil-opp.com",
+    "description": "Writing an OS in Rust",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/rust",
+    "tags": [
+      {
+        "name": "os",
+        "auto": false
+      }
+    ]
   }
 ]
