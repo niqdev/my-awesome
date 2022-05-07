@@ -4506,5 +4506,43 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598574,
+    "timestamp": "2022-05-07T00:57:13Z",
+    "url": "https://github.com/onceupon/Bash-Oneliner",
+    "description": "GitHub - onceupon/Bash-Oneliner: A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "bash",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598575,
+    "timestamp": "2022-05-07T00:57:13Z",
+    "url": "https://github.com/dflemstr/rq",
+    "description": "GitHub - dflemstr/rq: Record Query - A tool for doing record analysis and transformation",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "json",
+        "auto": false
+      }
+    ]
   }
 ]
