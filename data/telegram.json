@@ -4544,5 +4544,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598576,
+    "timestamp": "2022-05-13T01:12:23Z",
+    "url": "https://www.geekabyte.io/search/label/learning%20rust?m=1",
+    "description": "geekAbyte: learning rust",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/rust",
+    "tags": [
+      {
+        "name": "course",
+        "auto": false
+      }
+    ]
   }
 ]
