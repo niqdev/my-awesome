@@ -4559,5 +4559,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598577,
+    "timestamp": "2022-05-21T00:55:48Z",
+    "url": "https://github.com/solo-io/bumblebee",
+    "description": "GitHub - solo-io/bumblebee: Get eBPF programs running from the cloud to the kernel in 1 line of bash",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "ebpf",
+        "auto": false
+      }
+    ]
   }
 ]
