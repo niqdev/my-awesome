@@ -4578,5 +4578,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598578,
+    "timestamp": "2022-05-27T12:26:01Z",
+    "url": "https://github.com/cilium/tetragon",
+    "description": "GitHub - cilium/tetragon: eBPF-based Security Observability and Runtime Enforcement",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "ebpf",
+        "auto": false
+      }
+    ]
   }
 ]
