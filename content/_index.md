@@ -35,6 +35,7 @@ tags:
   - emulator
   - exploit
   - extension
+  - ffmpeg
   - file-system
   - finance
   - firecracker
