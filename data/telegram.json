@@ -4612,5 +4612,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598580,
+    "timestamp": "2022-06-15T12:23:19Z",
+    "url": "https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27",
+    "description": "This tutorial shows how to run docker natively on Android, without VMs and chroot. · GitHub",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "docker",
+        "auto": false
+      },
+      {
+        "name": "android",
+        "auto": false
+      }
+    ]
   }
 ]
