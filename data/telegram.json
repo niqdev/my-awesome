@@ -4646,5 +4646,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598582,
+    "timestamp": "2022-07-03T01:09:06Z",
+    "url": "https://michael.stapelberg.ch/posts/2022-06-18-rsync-overview",
+    "description": "rsync: Series Overview - Michael Stapelberg",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "rsync",
+        "auto": false
+      }
+    ]
   }
 ]
