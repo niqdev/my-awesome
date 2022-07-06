@@ -71,6 +71,7 @@ tags:
   - mail
   - markdown
   - meme
+  - monitor
   - network
   - notification
   - obfuscator
