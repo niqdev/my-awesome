@@ -4684,5 +4684,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598584,
+    "timestamp": "2022-07-07T12:25:47Z",
+    "url": "https://www.dolthub.com",
+    "description": "INVALID_DESCRIPTION",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "git",
+        "auto": false
+      },
+      {
+        "name": "database",
+        "auto": false
+      }
+    ]
   }
 ]
