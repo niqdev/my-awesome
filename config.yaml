@@ -9,14 +9,14 @@ taxonomies:
 
 menu:
   main:
-  #- identifier: typography
-  #  title: Typography
-  #  url: /typography/
-  #  weight: 1
-  #- identifier: folders
-  #  title: Folders
-  #  url: /folders/
-  #  weight: 2
+  # - identifier: typography
+  #   title: Typography
+  #   url: /typography/
+  #   weight: 1
+  # - identifier: folders
+  #   title: Folders
+  #   url: /folders/
+  #   weight: 2
   - identifier: tags
     title: Tags
     url: /tags/

@@ -12,6 +12,6 @@
 
 <!-- {{ printf "%#v" $.Params.Title }} -->
 
-{{- partial "items.html" (dict "title" $.Params.title "items" $items) -}}
+{{- partial "items.html" (dict "title" $.Params.title "items" $items "type" "TAG") -}}
 
 {{ end }}

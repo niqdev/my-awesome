@@ -1,4 +1,5 @@
 <!-- {{ printf "%#v" .items }} -->
+{{ $items := .items }}
 
 <div class="row start-xs">
   <div class="col-xs-12">
@@ -6,13 +7,36 @@
       <h1>{{ .title | title }}</h1>
       <!--
       <ul>
-        {{ range sort .items "timestamp" "desc" }}
+        {{ range sort $items "timestamp" "desc" }}
         <li><a href="{{ .url }}" target="_blank">{{ .description }}</a></li>
         {{ end }}
       </ul>
       -->
-      {{ range sort .items "timestamp" "desc" }}
-        {{- partial "item.html" . -}}
+      
+      {{ if eq .type "FOLDER" }}
+        {{ range sort $items "timestamp" "desc" }}
+          {{- partial "item.html" . -}}
+        {{ end }}
+      {{ end }}
+
+      {{ if eq .type "TAG" }}
+        <!-- find all unique paths from the items -->
+        {{ $paths := slice }}
+        {{ range sort $items "timestamp" "desc" }}
+          {{ $paths = $paths | append .path }}
+        {{ end }}
+        {{ $paths = uniq $paths }}
+
+        <!-- group items by path -->
+        {{ range sort $paths }}
+          {{ $path := . }}
+          <h2>{{ (strings.TrimPrefix "/" $path) | title }}</h2>
+
+          {{ range where (sort $items "timestamp" "desc") "path" $path }}
+            {{- partial "item.html" . -}}
+          {{ end }}
+        {{ end }}
+
       {{ end }}
     </div>
   </div>
