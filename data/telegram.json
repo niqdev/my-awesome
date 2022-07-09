@@ -4737,5 +4737,1081 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598587,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://github.com/MatejKovacic/RasPBX-install",
+    "description": "GitHub - MatejKovacic/RasPBX-install: Installation of RasPBX for beginners.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "raspberrypi",
+        "auto": false
+      },
+      {
+        "name": "asterisk",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598588,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://github.com/sottlmarek/DevSecOps",
+    "description": "GitHub - sottlmarek/DevSecOps: Ultimate DevSecOps library",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "awesome",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598589,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://eevans.co/blog/wraft",
+    "description": "Implementing Raft for Browsers with Rust and WebRTC · Emanuel Evans",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/distributed-systems",
+    "tags": [
+      {
+        "name": "raft",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598590,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://github.com/zinclabs/zinc",
+    "description": "GitHub - zinclabs/zinc: ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "elasticsearch",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598591,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://github.com/AkselAllas/airgapt",
+    "description": "https://github.com/AkselAllas/airgapt",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "proxy",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598592,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://changelog.com/posts/the-big-idea-around-unikernels",
+    "description": "https://changelog.com/posts/the-big-idea-around-unikernels",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "kernel",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598593,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://nanos.org",
+    "description": "Nanos.org",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "kernel",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598594,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://sollove.com/2013/03/03/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers",
+    "description": "https://sollove.com/2013/03/03/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers/",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "hardening",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598595,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://iximiuz.com/en/posts/container-networking-is-simple",
+    "description": "Container Networking Is Simple!",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/docker",
+    "tags": []
+  },
+  {
+    "update_id": 60598596,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://fly.io/blog/docker-without-docker",
+    "description": "Docker without Docker · Fly",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/docker",
+    "tags": []
+  },
+  {
+    "update_id": 60598597,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://github.com/aristocratos/bpytop",
+    "description": "GitHub - aristocratos/bpytop: Linux/OSX/FreeBSD resource monitor",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "monitor",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598598,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://github.com/bastienwirtz/homer",
+    "description": "GitHub - bastienwirtz/homer: A very simple static homepage for your server.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "static",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598599,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://www.redhat.com/sysadmin/replace-docker-podman-macos",
+    "description": "How to replace Docker with Podman on a Mac | Enable Sysadmin",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/docker",
+    "tags": [
+      {
+        "name": "podman",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598600,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://hacker-recommended-books.vercel.app",
+    "description": "INVALID_DESCRIPTION",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "book",
+        "auto": false
+      },
+      {
+        "name": "awesome",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598601,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://browsix.org",
+    "description": "Browsix: Unix in the browser tab",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "browser",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598602,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://www.polarsignals.com/blog/posts/2022/01/13/fantastic-symbols-and-where-to-find-them",
+    "description": "Fantastic Symbols and Where to Find Them - Part 1",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "binary",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598603,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://labs.ripe.net/author/johannes_weber/pi-hole-installation-guide",
+    "description": "Pi-hole Installation Guide | RIPE Labs",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/iot",
+    "tags": [
+      {
+        "name": "raspberrypi",
+        "auto": false
+      },
+      {
+        "name": "pihole",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598604,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://github.com/imgproxy/imgproxy",
+    "description": "GitHub - imgproxy/imgproxy: Fast and secure standalone server for resizing and converting remote images",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "image",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598605,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://humphd.github.io/browser-shell",
+    "description": "Terminal",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "browser",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598606,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://mathspp.com/blog/sockets-for-dummies",
+    "description": "Sockets for dummies | Mathspp",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "socket",
+        "auto": false
+      },
+      {
+        "name": "python",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598607,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://sethmlarson.dev/blog/utf-8",
+    "description": "How does UTF-8 turn “😂” into “F09F9882”?",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "binary",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598608,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://github.com/seeker89/unikernels",
+    "description": "GitHub - seeker89/unikernels: State of the art for unikernels",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "kernel",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598609,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://github.com/littlefs-project/littlefs",
+    "description": "GitHub - littlefs-project/littlefs: A little fail-safe filesystem designed for microcontrollers",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "filesystem",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598610,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://github.com/gristlabs/grist-core",
+    "description": "GitHub - gristlabs/grist-core: Grist is the evolution of spreadsheets.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "spreadsheet",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598611,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://kunststube.net/encoding",
+    "description": "What Every Programmer Absolutely, Positively Needs to Know About Encodings and Character Sets to Work With Text",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "binary",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598612,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://rosslazer.com/posts/startup-tooling",
+    "description": "Startup Tooling · Ross Lazerowitz",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "awesome",
+        "auto": false
+      },
+      {
+        "name": "startup",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598613,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://github.com/automerge/automerge",
+    "description": "GitHub - automerge/automerge: A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "json",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598614,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://notes.eatonphil.com/bootloader-basics.html",
+    "description": "Bootloader basics | notes.eatonphil.com",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "os",
+        "auto": false
+      },
+      {
+        "name": "boot",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598615,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://learnbyexample.github.io/curated_resources/linux_cli_scripting.html",
+    "description": "Linux CLI and Shell scripting - Curated learning resources",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "awesome",
+        "auto": false
+      },
+      {
+        "name": "shell",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598616,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://linuxsysadminbook.sigio.nl/index.html",
+    "description": "Linux System Administration for CentOS, RedHat Enterprise, Debian and Ubuntu — Linux System Administration 2019-12-26 00:15 documentation",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598617,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://debian-handbook.info/browse/stable",
+    "description": "https://debian-handbook.info/browse/stable/",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598618,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://www.linuxcommand.org/tlcl.php",
+    "description": "Linux Command Line Books by William Shotts",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598619,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://abarrak.gitbook.io/linux-sysops-handbook",
+    "description": "Linux SysOps Handbook - Linux SysOps Handbook",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598620,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://www.enginarslan.com/posts/reflections-on-actively-trading-in-the-stock-market",
+    "description": "Reflections on Actively Trading in the Stock Market for a Year | Engin Arslan",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "trading",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598621,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://justine.lol",
+    "description": "https://justine.lol/",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "awesome",
+        "auto": false
+      },
+      {
+        "name": "binary",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598622,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+    "description": "Linux containers in 500 lines of code",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/docker",
+    "tags": []
+  },
+  {
+    "update_id": 60598623,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://siraben.dev/2022/03/01/tree-sitter.html",
+    "description": "How to write a tree-sitter grammar in an afternoon | siraben’s musings",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/rust",
+    "tags": [
+      {
+        "name": "parser",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598624,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://github.com/mck-sbs/gentoo-rpi-64-bit",
+    "description": "GitHub - mck-sbs/gentoo-rpi-64-bit: Building a gentoo 64-bit system for Raspberry Pi 4 (with rt-patch for real time functionality)",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/iot",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "raspberrypi",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598625,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://github.com/Swordfish90/cool-retro-term",
+    "description": "GitHub - Swordfish90/cool-retro-term: A good looking terminal emulator which mimics the old cathode display...",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "terminal",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598626,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://github.com/netblue30/firejail",
+    "description": "GitHub - netblue30/firejail: Linux namespaces and seccomp-bpf sandbox",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/security",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "container",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598627,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://github.com/leandromoreira/digital_video_introduction",
+    "description": "GitHub - leandromoreira/digital_video_introduction: A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "binary",
+        "auto": false
+      },
+      {
+        "name": "video",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598628,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://github.com/DustinBrett/daedalOS",
+    "description": "GitHub - DustinBrett/daedalOS: Desktop environment in the browser.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "browser",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598629,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://github.com/oriansj/stage0",
+    "description": "GitHub - oriansj/stage0: A set of minimal dependency bootstrap binaries",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "os",
+        "auto": false
+      },
+      {
+        "name": "boot",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598630,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://david.rothlis.net/declarative-schema-migration-for-sqlite",
+    "description": "Simple declarative schema migration for SQLite",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/database",
+    "tags": [
+      {
+        "name": "sqlite",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598631,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://github.com/copy/v86",
+    "description": "GitHub - copy/v86: x86 virtualization in your browser, recompiling x86 to wasm on the fly",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/rust",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "webassembly",
+        "auto": false
+      },
+      {
+        "name": "browser",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598632,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://unpaywall.org",
+    "description": "Unpaywall",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "browser",
+        "auto": false
+      },
+      {
+        "name": "extension",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598633,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://www.smbc-comics.com",
+    "description": "Saturday Morning Breakfast Cereal - Lemmings",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "comics",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598634,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://nsq.io",
+    "description": "NSQ Docs 1.2.1 - A realtime distributed messaging platform",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/database",
+    "tags": []
+  },
+  {
+    "update_id": 60598635,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://duckdb.org",
+    "description": "DuckDB - An in-process SQL OLAP database management system",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/database",
+    "tags": [
+      {
+        "name": "olap",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598636,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://questdb.io",
+    "description": "QuestDB | Time series data, faster",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/database",
+    "tags": []
+  },
+  {
+    "update_id": 60598637,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://github.com/avinassh/py-caskdb",
+    "description": "GitHub - avinassh/py-caskdb: (educational) build your own disk based KV store",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/database",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      }
+    ]
+  },
+  {
+    "update_id": 60598638,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://github.com/krotik/eliasdb",
+    "description": "GitHub - krotik/eliasdb: EliasDB a graph-based database.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/database",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "graphdb",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598639,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://github.com/dpapathanasiou/simple-graph",
+    "description": "https://github.com/dpapathanasiou/simple-graph",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/database",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "sqlite",
+        "auto": false
+      },
+      {
+        "name": "graphdb",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598640,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://github.com/rqlite/rqlite",
+    "description": "GitHub - rqlite/rqlite: The lightweight, distributed relational database built on SQLite",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/database",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "sqlite",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598641,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://github.com/joaoh82/rust_sqlite",
+    "description": "GitHub - joaoh82/rust_sqlite: SQLRite - Simple embedded database modeled off SQLite in Rust",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/database",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "sqlite",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598642,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "http://ykarroum.com/2020/11/07/subprocess",
+    "description": "301 Moved Permanently",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "python",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598643,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://www.osquery.io",
+    "description": "Osquery",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/database",
+    "tags": [
+      {
+        "name": "os",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598644,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://github.com/sharkdp/fd",
+    "description": "https://github.com/sharkdp/fd",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/rust",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "tool",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598645,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://github.com/ergochat/ergo",
+    "description": "GitHub - ergochat/ergo: A modern IRC server (daemon/ircd) written in Go.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "irc",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598646,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://effective-shell.com",
+    "description": "Effective Shell | Effective Shell",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "book",
+        "auto": false
+      },
+      {
+        "name": "shell",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598647,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://adnauseam.io",
+    "description": "AdNauseam",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/browser",
+    "tags": [
+      {
+        "name": "extension",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598648,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103",
+    "description": "A Beginner’s Guide to Linux Kernel Development (LFD103) - Linux Foundation - Training",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "kernel",
+        "auto": false
+      },
+      {
+        "name": "course",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598649,
+    "timestamp": "2022-07-09T18:32:53Z",
+    "url": "https://www.opensourcealternative.to",
+    "description": "Open Source Alternatives to Proprietary Software",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "awesome",
+        "auto": false
+      }
+    ]
   }
 ]
