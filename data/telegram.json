@@ -4703,5 +4703,39 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598585,
+    "timestamp": "2022-07-09T01:00:16Z",
+    "url": "https://www.form3.tech/engineering/content/bypassing-ebpf-tools",
+    "description": "Bypassing eBPF-based Security Enforcement Tools",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "ebpf",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598586,
+    "timestamp": "2022-07-09T01:00:16Z",
+    "url": "https://github.com/h3xduck/TripleCross",
+    "description": "GitHub - h3xduck/TripleCross: A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "ebpf",
+        "auto": false
+      }
+    ]
   }
 ]
