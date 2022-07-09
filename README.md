@@ -1,4 +1,4 @@
-# my-awesome
+# [myawesome.dev](https://myawesome.dev)
 
 [![my-awesome-telegram](https://github.com/niqdev/my-awesome/actions/workflows/my-awesome-telegram.yml/badge.svg)](https://github.com/niqdev/my-awesome/actions/workflows/my-awesome-telegram.yml)
 
