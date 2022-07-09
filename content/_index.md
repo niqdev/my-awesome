@@ -6,18 +6,24 @@ tags:
   - api
   - ascii
   - assembly
+  - asterisk
   - awesome
   - awk
   - aws
   - bash
   - bgp
+  - binary
   - book
+  - boot
+  - browser
   - c
   - captcha
   - challenge
   - chess
   - chrome
+  - comics
   - compiler
+  - container
   - course
   - crdt
   - cryptography
@@ -30,6 +36,7 @@ tags:
   - ebook
   - ebpf
   - editor
+  - elasticsearch
   - electronic
   - elf
   - emulator
@@ -37,6 +44,7 @@ tags:
   - extension
   - ffmpeg
   - file-system
+  - filesystem
   - finance
   - firecracker
   - firefox
@@ -50,6 +58,7 @@ tags:
   - github
   - go
   - gpg
+  - graphdb
   - graphql
   - gzip
   - hackthebox
@@ -60,6 +69,7 @@ tags:
   - interpreter
   - ios
   - ipfs
+  - irc
   - jpeg
   - jq
   - json
@@ -76,6 +86,7 @@ tags:
   - notification
   - obfuscator
   - ocaml
+  - olap
   - os
   - osint
   - paper
@@ -84,11 +95,17 @@ tags:
   - pdf
   - pentest
   - physics
+  - pihole
   - piracy
   - pki
   - podcast
+  - podman
   - postgresql
+  - proxy
+  - python
+  - raft
   - rainbow
+  - raspberrypi
   - reddit
   - redteam
   - regex
@@ -97,15 +114,22 @@ tags:
   - rsync
   - search
   - sega
+  - shell
   - smtp
+  - socket
+  - spreadsheet
   - sql
   - sqlite
   - sre
   - ssh
   - startup
+  - static
   - steganography
   - systemd
+  - terminal
   - tool
+  - trading
+  - video
   - vim
   - vulnerable
   - webassembly
@@ -115,11 +139,15 @@ tags:
   - youtube
 folders:
   - android
+  - browser
   - database
   - development
   - distributed-systems
+  - docker
+  - iot
   - linux
   - random
   - rust
   - security
+  - tool
 ---
