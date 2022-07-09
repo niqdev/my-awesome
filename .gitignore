@@ -1,5 +1,2 @@
-*.secrets
-pup*
-
 public/
 resources/

@@ -17,25 +17,24 @@ jobs:
           echo "TIMESTAMP=$(date -u +%Y-%m-%dT%H:%M:%SZ)" >> $GITHUB_ENV
 
       - name: Checkout repository
-        uses: actions/checkout@v2
-      
-      - name: Install pip packages
-        uses: BSFishy/pip-action@v1
-        with:
-          packages: |
-            yq
+        uses: actions/checkout@v3
 
       - name: Sync Telegram
-        run: ${{ github.workspace }}/.github/scripts/telegram.sh
+        uses: my-awesome/actions/telegram-action@v0.1.0
+        with:
+          data-path: "./data/telegram.json"
         env:
-          DATA_PATH: "./data/telegram.json"
           TIMESTAMP: ${{ env.TIMESTAMP }}
-          # add secrets manually
+          # secrets from settings
           TELEGRAM_API_TOKEN: ${{ secrets.TELEGRAM_API_TOKEN }}
-          TELEGRAM_FROM_ID: ${{ secrets.TELEGRAM_FROM_ID }}        
+          TELEGRAM_FROM_ID: ${{ secrets.TELEGRAM_FROM_ID }}
       
       - name: Update repository
-        run: ${{ github.workspace }}/.github/scripts/update.sh
+        uses: my-awesome/actions/gh-update-action@v0.1.0
+        with:
+          user-email: "my-awesome-bot@users.noreply.github.com"
+          user-name: "my-awesome-bot"
         env:
           TIMESTAMP: ${{ env.TIMESTAMP }}
+          # default secret
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
