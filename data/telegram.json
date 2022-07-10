@@ -5531,5 +5531,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598650,
+    "timestamp": "2022-07-10T13:33:07Z",
+    "url": "https://github.com",
+    "description": "GitHub: Where the world builds software · GitHub",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "test",
+        "auto": false
+      }
+    ]
   }
 ]
