@@ -1,21 +1,15 @@
 ---
 title: Latest Bookmarks
 tags:
-  - addon
-  - android
+  - alternative
   - api
   - ascii
-  - assembly
   - asterisk
   - awesome
-  - awk
-  - aws
-  - bash
   - bgp
   - binary
   - book
   - boot
-  - browser
   - c
   - captcha
   - challenge
@@ -25,7 +19,6 @@ tags:
   - compiler
   - container
   - course
-  - crdt
   - cryptography
   - ctf
   - database
@@ -46,7 +39,6 @@ tags:
   - file-system
   - filesystem
   - finance
-  - firecracker
   - firefox
   - forensic
   - fp
@@ -68,7 +60,6 @@ tags:
   - infosec
   - interpreter
   - ios
-  - ipfs
   - irc
   - jpeg
   - jq
@@ -76,7 +67,6 @@ tags:
   - jvm
   - kernel
   - kubernetes
-  - lambda
   - latex
   - mail
   - markdown
@@ -96,14 +86,13 @@ tags:
   - pentest
   - physics
   - pihole
-  - piracy
   - pki
   - podcast
   - podman
   - postgresql
+  - privacy
   - proxy
   - python
-  - raft
   - rainbow
   - raspberrypi
   - reddit
@@ -121,7 +110,6 @@ tags:
   - sql
   - sqlite
   - sre
-  - ssh
   - startup
   - static
   - steganography
@@ -129,7 +117,6 @@ tags:
   - terminal
   - test
   - tool
-  - trading
   - video
   - vim
   - vulnerable
@@ -140,15 +127,18 @@ tags:
   - youtube
 folders:
   - android
+  - book
   - browser
   - database
   - development
-  - distributed-systems
   - docker
+  - electronic
   - iot
   - linux
+  - online
   - random
   - rust
   - security
   - tool
+  - ui
 ---
