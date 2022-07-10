@@ -115,7 +115,6 @@ tags:
   - steganography
   - systemd
   - terminal
-  - test
   - tool
   - video
   - vim
