@@ -14,8 +14,23 @@
       -->
       
       {{ if eq .type "FOLDER" }}
+        <!-- find all unique tags from the items -->
+        {{ $tags := slice }}
         {{ range sort $items "timestamp" "desc" }}
-          {{- partial "item.html" . -}}
+          {{ $tags = $tags | append .tags }}
+        {{ end }}
+
+        <!-- group items by tags -->
+        {{ range sort (uniq $tags) "name" "asc" }}
+          {{ $tag := .name }}
+          <h2>{{ $tag | title }}</h2>
+
+          {{ range (sort $items "timestamp" "desc") }}
+            {{ $item := . }}
+            {{ range where .tags ".name" $tag }}
+              {{- partial "item.html" $item -}}
+            {{ end }}
+          {{ end }}
         {{ end }}
       {{ end }}
 
@@ -25,10 +40,9 @@
         {{ range sort $items "timestamp" "desc" }}
           {{ $paths = $paths | append .path }}
         {{ end }}
-        {{ $paths = uniq $paths }}
 
         <!-- group items by path -->
-        {{ range sort $paths }}
+        {{ range sort (uniq $paths) }}
           {{ $path := . }}
           <h2>{{ (strings.TrimPrefix "/" $path) | title }}</h2>
 
