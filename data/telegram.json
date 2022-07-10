@@ -40,7 +40,7 @@
     "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more",
     "client": "telegram",
     "source": "unknown",
-    "path": "/security",
+    "path": "/tool",
     "tags": [
       {
         "name": "github",
@@ -163,29 +163,6 @@
     ]
   },
   {
-    "update_id": 60598317,
-    "timestamp": "2021-07-21T21:49:04Z",
-    "url": "https://www.talhoffman.com/2021/07/18/firecracker-internals",
-    "description": "Firecracker internals: a deep dive inside the technology powering AWS Lambda",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/random",
-    "tags": [
-      {
-        "name": "aws",
-        "auto": false
-      },
-      {
-        "name": "firecracker",
-        "auto": false
-      },
-      {
-        "name": "lambda",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598318,
     "timestamp": "2021-07-21T21:49:04Z",
     "url": "https://healeycodes.com/creating-the-golfcart-programming-language",
@@ -216,39 +193,20 @@
     ]
   },
   {
-    "update_id": 60598320,
-    "timestamp": "2021-07-22T12:15:19Z",
-    "url": "https://official-awesome-piracy.vercel.app",
-    "description": "Awesome Piracy",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/random",
-    "tags": [
-      {
-        "name": "awesome",
-        "auto": false
-      },
-      {
-        "name": "piracy",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598321,
     "timestamp": "2021-07-22T12:15:19Z",
     "url": "https://addons.mozilla.org/en-US/android/addon/ublock-origin",
     "description": "uBlock Origin",
     "client": "telegram",
     "source": "unknown",
-    "path": "/random",
+    "path": "/browser",
     "tags": [
       {
-        "name": "firefox",
+        "name": "extension",
         "auto": false
       },
       {
-        "name": "addon",
+        "name": "privacy",
         "auto": false
       }
     ]
@@ -260,14 +218,14 @@
     "description": "Tampermonkey",
     "client": "telegram",
     "source": "unknown",
-    "path": "/random",
+    "path": "/browser",
     "tags": [
       {
-        "name": "firefox",
+        "name": "extension",
         "auto": false
       },
       {
-        "name": "addon",
+        "name": "firefox",
         "auto": false
       }
     ]
@@ -470,21 +428,6 @@
     ]
   },
   {
-    "update_id": 60598334,
-    "timestamp": "2021-07-25T12:15:07Z",
-    "url": "https://freeread.org/ipfs",
-    "description": "IPFS Free Library",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/distributed-systems",
-    "tags": [
-      {
-        "name": "ipfs",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598335,
     "timestamp": "2021-07-27T00:34:44Z",
     "url": "https://behind.pretix.eu/2020/11/28/undelete-flv-file",
@@ -607,7 +550,11 @@
     "path": "/development",
     "tags": [
       {
-        "name": "bash",
+        "name": "shell",
+        "auto": false
+      },
+      {
+        "name": "socket",
         "auto": false
       }
     ]
@@ -778,14 +725,10 @@
     "description": "https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/",
     "client": "telegram",
     "source": "hackernews",
-    "path": "/development",
+    "path": "/database",
     "tags": [
       {
         "name": "sqlite",
-        "auto": false
-      },
-      {
-        "name": "database",
         "auto": false
       }
     ]
@@ -884,14 +827,14 @@
     "description": "GitHub - ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.",
     "client": "telegram",
     "source": "newsletter",
-    "path": "/development",
+    "path": "/tool",
     "tags": [
       {
         "name": "github",
         "auto": true
       },
       {
-        "name": "tool",
+        "name": "alternative",
         "auto": false
       },
       {
@@ -910,7 +853,7 @@
     "path": "/development",
     "tags": [
       {
-        "name": "bash",
+        "name": "shell",
         "auto": false
       }
     ]
@@ -926,21 +869,6 @@
     "tags": [
       {
         "name": "reverse",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598361,
-    "timestamp": "2021-08-10T12:20:16Z",
-    "url": "https://dancres.github.io/Pages",
-    "description": "Distributed Systems Reading List",
-    "client": "telegram",
-    "source": "hackernews",
-    "path": "/distributed-systems",
-    "tags": [
-      {
-        "name": "awesome",
         "auto": false
       }
     ]
@@ -1402,12 +1330,8 @@
     "description": "Colin S. Gordon | Electronic References",
     "client": "telegram",
     "source": "unknown",
-    "path": "/random",
+    "path": "/electronic",
     "tags": [
-      {
-        "name": "electronic",
-        "auto": false
-      },
       {
         "name": "awesome",
         "auto": false
@@ -1498,35 +1422,16 @@
     ]
   },
   {
-    "update_id": 60598394,
-    "timestamp": "2021-08-13T00:35:47Z",
-    "url": "https://www.ragingrock.com/AndroidAppRE/index.html",
-    "description": "Android App Reverse Engineering 101 | Learn to reverse engineer Android applications!",
-    "client": "telegram",
-    "source": "newsletter",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "reverse",
-        "auto": false
-      },
-      {
-        "name": "android",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598395,
     "timestamp": "2021-08-13T00:35:47Z",
     "url": "https://www.btw.so/open-source-alternatives",
     "description": "Open Source Alternatives",
     "client": "telegram",
     "source": "newsletter",
-    "path": "/development",
+    "path": "/tool",
     "tags": [
       {
-        "name": "tool",
+        "name": "alternative",
         "auto": false
       },
       {
@@ -1674,10 +1579,10 @@
     "description": "An Opinionated Guide to xargs",
     "client": "telegram",
     "source": "newsletter",
-    "path": "/development",
+    "path": "/tool",
     "tags": [
       {
-        "name": "bash",
+        "name": "shell",
         "auto": false
       }
     ]
@@ -1689,15 +1594,11 @@
     "description": "GitHub - cs-books/influential-cs-books: Most influential books on Computer Science/programming",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/book",
     "tags": [
       {
         "name": "github",
         "auto": true
-      },
-      {
-        "name": "book",
-        "auto": false
       },
       {
         "name": "awesome",
@@ -1816,25 +1717,6 @@
     ]
   },
   {
-    "update_id": 60598413,
-    "timestamp": "2021-09-03T12:20:27Z",
-    "url": "https://github.com/EFForg/apkeep",
-    "description": "GitHub - EFForg/apkeep",
-    "client": "telegram",
-    "source": "hackernews",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "github",
-        "auto": true
-      },
-      {
-        "name": "android",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598416,
     "timestamp": "2021-09-10T00:38:46Z",
     "url": "https://picoctf.org",
@@ -1920,11 +1802,11 @@
         "auto": true
       },
       {
-        "name": "ssh",
+        "name": "awesome",
         "auto": false
       },
       {
-        "name": "awesome",
+        "name": "hardening",
         "auto": false
       }
     ]
@@ -2131,21 +2013,6 @@
     ]
   },
   {
-    "update_id": 60598434,
-    "timestamp": "2021-09-18T17:32:57Z",
-    "url": "https://lfn3.net/2020/08/03/a-gentle-intro-to-assembly-with-rust",
-    "description": "A gentle intro to assembly with Rust",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/rust",
-    "tags": [
-      {
-        "name": "assembly",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598435,
     "timestamp": "2021-09-18T17:32:57Z",
     "url": "https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html",
@@ -2210,58 +2077,16 @@
     ]
   },
   {
-    "update_id": 60598439,
-    "timestamp": "2021-09-18T17:32:57Z",
-    "url": "https://m.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB",
-    "description": "MIT 6.824 Distributed Systems (Spring 2020)",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/distributed-systems",
-    "tags": [
-      {
-        "name": "youtube",
-        "auto": true
-      },
-      {
-        "name": "course",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598440,
-    "timestamp": "2021-09-18T17:32:57Z",
-    "url": "https://www.youtube.com/playlist?app=desktop&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB",
-    "description": "Distributed Systems lecture series",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/distributed-systems",
-    "tags": [
-      {
-        "name": "youtube",
-        "auto": true
-      },
-      {
-        "name": "course",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598441,
     "timestamp": "2021-09-18T17:32:57Z",
     "url": "https://switowski.com/blog/favorite-cli-tools",
     "description": "My Favorite CLI Tools",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/tool",
     "tags": [
       {
         "name": "awesome",
-        "auto": false
-      },
-      {
-        "name": "tool",
         "auto": false
       }
     ]
@@ -2362,25 +2187,6 @@
     ]
   },
   {
-    "update_id": 60598447,
-    "timestamp": "2021-09-19T00:36:05Z",
-    "url": "https://jeffhuang.com/best_paper_awards",
-    "description": "https://jeffhuang.com/best_paper_awards/",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/random",
-    "tags": [
-      {
-        "name": "awesome",
-        "auto": false
-      },
-      {
-        "name": "paper",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598448,
     "timestamp": "2021-09-19T00:36:05Z",
     "url": "https://saylordotorg.github.io/text_personal-finance/index.html",
@@ -2421,7 +2227,7 @@
     "description": "Tamper Dev",
     "client": "telegram",
     "source": "unknown",
-    "path": "/random",
+    "path": "/security",
     "tags": [
       {
         "name": "extension",
@@ -2474,7 +2280,7 @@
     "description": "Free open source icons, illustrations, emojis and graphics - Iconduck",
     "client": "telegram",
     "source": "unknown",
-    "path": "/random",
+    "path": "/ui",
     "tags": [
       {
         "name": "awesome",
@@ -2532,21 +2338,6 @@
     ]
   },
   {
-    "update_id": 60598457,
-    "timestamp": "2021-09-19T00:36:05Z",
-    "url": "https://jvns.ca/blog/2021/01/23/firecracker--start-a-vm-in-less-than-a-second",
-    "description": "Firecracker: start a VM in less than a second",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/development",
-    "tags": [
-      {
-        "name": "firecracker",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598458,
     "timestamp": "2021-09-19T00:36:05Z",
     "url": "https://www.loudreader.com",
@@ -2572,7 +2363,7 @@
     "description": "The Definitive C Book Guide and List - Stack Overflow",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/book",
     "tags": [
       {
         "name": "awesome",
@@ -2605,7 +2396,7 @@
     "url": "https://www.reddit.com/r/computerforensics/wiki/resources",
     "description": "resources - computerforensics",
     "client": "telegram",
-    "source": "unknown",
+    "source": "reddit",
     "path": "/security",
     "tags": [
       {
@@ -2652,25 +2443,6 @@
     "tags": [
       {
         "name": "tool",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598464,
-    "timestamp": "2021-09-20T12:16:47Z",
-    "url": "https://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html",
-    "description": "Foundational distributed systems papers",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/distributed-systems",
-    "tags": [
-      {
-        "name": "paper",
-        "auto": false
-      },
-      {
-        "name": "awesome",
         "auto": false
       }
     ]
@@ -2765,14 +2537,10 @@
     "description": "Understanding AWK - Earthly Blog",
     "client": "telegram",
     "source": "unknown",
-    "path": "/linux",
+    "path": "/tool",
     "tags": [
       {
-        "name": "tool",
-        "auto": false
-      },
-      {
-        "name": "awk",
+        "name": "shell",
         "auto": false
       }
     ]
@@ -2830,21 +2598,6 @@
       },
       {
         "name": "os",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598474,
-    "timestamp": "2021-10-29T00:34:38Z",
-    "url": "https://ably.com/blog/crdts-distributed-data-consistency-challenges",
-    "description": "How do CRDTs solve distributed data consistency challenges? | Ably Blog: Data in Motion",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/distributed-systems",
-    "tags": [
-      {
-        "name": "crdt",
         "auto": false
       }
     ]
@@ -2947,14 +2700,10 @@
     "description": "Effective Go - The Go Programming Language",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/book",
     "tags": [
       {
         "name": "go",
-        "auto": false
-      },
-      {
-        "name": "book",
         "auto": false
       }
     ]
@@ -3034,7 +2783,7 @@
     "description": "https://ascii-generator.site/",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/online",
     "tags": [
       {
         "name": "ascii",
@@ -3049,7 +2798,7 @@
     "description": "ASCII Generator",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/online",
     "tags": [
       {
         "name": "ascii",
@@ -3094,14 +2843,10 @@
     "description": "Introduction · Network Progamming with Go",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/book",
     "tags": [
       {
         "name": "go",
-        "auto": false
-      },
-      {
-        "name": "book",
         "auto": false
       }
     ]
@@ -3372,6 +3117,10 @@
         "auto": true
       },
       {
+        "name": "alternative",
+        "auto": false
+      },
+      {
         "name": "awesome",
         "auto": false
       }
@@ -3391,7 +3140,7 @@
         "auto": true
       },
       {
-        "name": "bash",
+        "name": "shell",
         "auto": false
       }
     ]
@@ -3422,7 +3171,7 @@
     "description": "GitHub - ArthurSonzogni/Diagon: Interactive ASCII art diagram generators. :star2:",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/online",
     "tags": [
       {
         "name": "github",
@@ -3712,7 +3461,7 @@
         "auto": true
       },
       {
-        "name": "bash",
+        "name": "shell",
         "auto": false
       }
     ]
@@ -3853,7 +3602,7 @@
     "description": "ASCIIFlow",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/online",
     "tags": [
       {
         "name": "ascii",
@@ -3932,14 +3681,10 @@
     "description": "Programming book list",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/book",
     "tags": [
       {
         "name": "awesome",
-        "auto": false
-      },
-      {
-        "name": "book",
         "auto": false
       }
     ]
@@ -4075,18 +3820,18 @@
     "description": "GitHub - RunaCapital/awesome-oss-alternatives: Awesome list of open-source startup alternatives to well-known SaaS products 🚀",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/tool",
     "tags": [
       {
         "name": "github",
         "auto": true
       },
       {
-        "name": "awesome",
+        "name": "alternative",
         "auto": false
       },
       {
-        "name": "tool",
+        "name": "awesome",
         "auto": false
       }
     ]
@@ -4098,15 +3843,11 @@
     "description": "GitHub - hoppscotch/hoppscotch: 👽 Open source API development ecosystem - https://hoppscotch.io",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/tool",
     "tags": [
       {
         "name": "github",
         "auto": true
-      },
-      {
-        "name": "tool",
-        "auto": false
       },
       {
         "name": "api",
@@ -4121,14 +3862,14 @@
     "description": "GitHub - gildas-lormeau/SingleFile: Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file",
     "client": "telegram",
     "source": "unknown",
-    "path": "/random",
+    "path": "/browser",
     "tags": [
       {
         "name": "github",
         "auto": true
       },
       {
-        "name": "addon",
+        "name": "extension",
         "auto": false
       }
     ]
@@ -4140,14 +3881,14 @@
     "description": "GitHub - iamadamdev/bypass-paywalls-chrome: Bypass Paywalls web browser extension for Chrome and Firefox.",
     "client": "telegram",
     "source": "unknown",
-    "path": "/random",
+    "path": "/browser",
     "tags": [
       {
         "name": "github",
         "auto": true
       },
       {
-        "name": "addon",
+        "name": "extension",
         "auto": false
       }
     ]
@@ -4198,7 +3939,7 @@
     "update_id": 60598555,
     "timestamp": "2022-03-16T00:51:53Z",
     "url": "https://iximiuz.com/en/posts/container-learning-path",
-    "description": "INVALID_DESCRIPTION",
+    "description": "Learning Containers From The Bottom Up",
     "client": "telegram",
     "source": "unknown",
     "path": "/development",
@@ -4378,7 +4119,7 @@
     "description": "GitHub - opencontainers/runc: CLI tool for spawning and running containers according to the OCI specification",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/tool",
     "tags": [
       {
         "name": "github",
@@ -4397,7 +4138,7 @@
     "description": "GitHub - netblue30/firejail: Linux namespaces and seccomp-bpf sandbox",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/security",
     "tags": [
       {
         "name": "github",
@@ -4514,14 +4255,18 @@
     "description": "GitHub - onceupon/Bash-Oneliner: A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/tool",
     "tags": [
       {
         "name": "github",
         "auto": true
       },
       {
-        "name": "bash",
+        "name": "awesome",
+        "auto": false
+      },
+      {
+        "name": "shell",
         "auto": false
       }
     ]
@@ -4586,7 +4331,7 @@
     "description": "GitHub - cilium/tetragon: eBPF-based Security Observability and Runtime Enforcement",
     "client": "telegram",
     "source": "unknown",
-    "path": "/linux",
+    "path": "/security",
     "tags": [
       {
         "name": "github",
@@ -4620,14 +4365,10 @@
     "description": "This tutorial shows how to run docker natively on Android, without VMs and chroot. · GitHub",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/android",
     "tags": [
       {
         "name": "docker",
-        "auto": false
-      },
-      {
-        "name": "android",
         "auto": false
       }
     ]
@@ -4689,17 +4430,13 @@
     "update_id": 60598584,
     "timestamp": "2022-07-07T12:25:47Z",
     "url": "https://www.dolthub.com",
-    "description": "INVALID_DESCRIPTION",
+    "description": "Dolt",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/database",
     "tags": [
       {
         "name": "git",
-        "auto": false
-      },
-      {
-        "name": "database",
         "auto": false
       }
     ]
@@ -4711,7 +4448,7 @@
     "description": "Bypassing eBPF-based Security Enforcement Tools",
     "client": "telegram",
     "source": "unknown",
-    "path": "/linux",
+    "path": "/security",
     "tags": [
       {
         "name": "ebpf",
@@ -4726,7 +4463,7 @@
     "description": "GitHub - h3xduck/TripleCross: A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.",
     "client": "telegram",
     "source": "unknown",
-    "path": "/linux",
+    "path": "/security",
     "tags": [
       {
         "name": "github",
@@ -4745,7 +4482,7 @@
     "description": "GitHub - MatejKovacic/RasPBX-install: Installation of RasPBX for beginners.",
     "client": "telegram",
     "source": "unknown",
-    "path": "/linux",
+    "path": "/iot",
     "tags": [
       {
         "name": "github",
@@ -4776,21 +4513,6 @@
       },
       {
         "name": "awesome",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598589,
-    "timestamp": "2022-07-09T18:32:53Z",
-    "url": "https://eevans.co/blog/wraft",
-    "description": "Implementing Raft for Browsers with Rust and WebRTC · Emanuel Evans",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/distributed-systems",
-    "tags": [
-      {
-        "name": "raft",
         "auto": false
       }
     ]
@@ -4955,15 +4677,11 @@
     "update_id": 60598600,
     "timestamp": "2022-07-09T18:32:53Z",
     "url": "https://hacker-recommended-books.vercel.app",
-    "description": "INVALID_DESCRIPTION",
+    "description": "HackerNews Readings",
     "client": "telegram",
     "source": "unknown",
-    "path": "/random",
+    "path": "/book",
     "tags": [
-      {
-        "name": "book",
-        "auto": false
-      },
       {
         "name": "awesome",
         "auto": false
@@ -4977,10 +4695,10 @@
     "description": "Browsix: Unix in the browser tab",
     "client": "telegram",
     "source": "unknown",
-    "path": "/random",
+    "path": "/browser",
     "tags": [
       {
-        "name": "browser",
+        "name": "os",
         "auto": false
       }
     ]
@@ -5045,10 +4763,10 @@
     "description": "Terminal",
     "client": "telegram",
     "source": "unknown",
-    "path": "/random",
+    "path": "/browser",
     "tags": [
       {
-        "name": "browser",
+        "name": "shell",
         "auto": false
       }
     ]
@@ -5166,7 +4884,7 @@
     "description": "Startup Tooling · Ross Lazerowitz",
     "client": "telegram",
     "source": "unknown",
-    "path": "/random",
+    "path": "/tool",
     "tags": [
       {
         "name": "awesome",
@@ -5305,7 +5023,7 @@
     "path": "/random",
     "tags": [
       {
-        "name": "trading",
+        "name": "finance",
         "auto": false
       }
     ]
@@ -5321,10 +5039,6 @@
     "tags": [
       {
         "name": "awesome",
-        "auto": false
-      },
-      {
-        "name": "binary",
         "auto": false
       }
     ]
@@ -5441,14 +5155,14 @@
     "description": "GitHub - DustinBrett/daedalOS: Desktop environment in the browser.",
     "client": "telegram",
     "source": "unknown",
-    "path": "/random",
+    "path": "/browser",
     "tags": [
       {
         "name": "github",
         "auto": true
       },
       {
-        "name": "browser",
+        "name": "os",
         "auto": false
       }
     ]
@@ -5498,7 +5212,7 @@
     "description": "GitHub - copy/v86: x86 virtualization in your browser, recompiling x86 to wasm on the fly",
     "client": "telegram",
     "source": "unknown",
-    "path": "/rust",
+    "path": "/browser",
     "tags": [
       {
         "name": "github",
@@ -5506,10 +5220,6 @@
       },
       {
         "name": "webassembly",
-        "auto": false
-      },
-      {
-        "name": "browser",
         "auto": false
       }
     ]
@@ -5521,10 +5231,10 @@
     "description": "Unpaywall",
     "client": "telegram",
     "source": "unknown",
-    "path": "/random",
+    "path": "/browser",
     "tags": [
       {
-        "name": "browser",
+        "name": "awesome",
         "auto": false
       },
       {
@@ -5777,6 +5487,10 @@
       {
         "name": "extension",
         "auto": false
+      },
+      {
+        "name": "privacy",
+        "auto": false
       }
     ]
   },
@@ -5808,6 +5522,10 @@
     "source": "unknown",
     "path": "/tool",
     "tags": [
+      {
+        "name": "alternative",
+        "auto": false
+      },
       {
         "name": "awesome",
         "auto": false
