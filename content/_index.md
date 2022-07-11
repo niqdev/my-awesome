@@ -2,58 +2,38 @@
 title: Latest Bookmarks
 tags:
   - alternative
+  - android
   - api
+  - archive
   - ascii
   - asterisk
   - awesome
   - bgp
-  - binary
   - book
   - boot
   - c
   - captcha
-  - challenge
   - chess
-  - chrome
   - comics
-  - compiler
-  - container
   - course
-  - cryptography
-  - ctf
-  - database
   - debugger
-  - development
   - dns
   - docker
-  - ebook
   - ebpf
   - editor
-  - elasticsearch
-  - electronic
   - elf
   - emulator
-  - exploit
+  - encoding
   - extension
-  - ffmpeg
-  - file-system
   - filesystem
   - finance
-  - firefox
-  - forensic
-  - fp
   - freebsd
-  - fuzzer
   - game
-  - gcp
   - git
   - github
   - go
-  - gpg
   - graphdb
-  - graphql
   - gzip
-  - hackthebox
   - hardening
   - icons
   - image
@@ -76,12 +56,10 @@ tags:
   - notification
   - obfuscator
   - ocaml
-  - olap
   - os
   - osint
   - paper
   - parser
-  - password
   - pdf
   - pentest
   - physics
@@ -93,7 +71,6 @@ tags:
   - privacy
   - proxy
   - python
-  - rainbow
   - raspberrypi
   - reddit
   - redteam
@@ -101,8 +78,9 @@ tags:
   - reverse
   - robotics
   - rsync
+  - rust
   - search
-  - sega
+  - security
   - shell
   - smtp
   - socket
@@ -118,23 +96,20 @@ tags:
   - tool
   - video
   - vim
-  - vulnerable
   - webassembly
   - websocket
   - wiki
   - xargs
   - youtube
 folders:
-  - android
-  - book
   - browser
   - database
   - development
-  - docker
   - electronic
   - iot
   - linux
   - online
+  - programming
   - random
   - rust
   - security

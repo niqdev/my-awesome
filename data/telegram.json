@@ -1582,8 +1582,7 @@
       {
         "name": "dns",
         "auto": false
-      }
-      ,
+      },
       {
         "name": "book",
         "auto": false
