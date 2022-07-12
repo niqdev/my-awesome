@@ -20,11 +20,12 @@
           {{ $tags = $tags | append .tags }}
         {{ end }}
 
-        <!-- group items by tags -->
-        {{ range sort (uniq $tags) "name" "asc" }}
+        <!-- group items by tags, ignore auto -->
+        {{ range where (sort (uniq $tags) "name" "asc") "auto" false }}
           {{ $tag := .name }}
           <h2>{{ $tag | title }}</h2>
 
+          <!-- items are duplicated for each tag, except auto -->
           {{ range (sort $items "timestamp" "desc") }}
             {{ $item := . }}
             {{ range where .tags ".name" $tag }}
