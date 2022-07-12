@@ -48,6 +48,7 @@ tags:
   - kernel
   - kubernetes
   - latex
+  - ldap
   - mail
   - markdown
   - meme
