@@ -9,6 +9,7 @@ tags:
   - asterisk
   - awesome
   - bgp
+  - binary
   - book
   - boot
   - c
@@ -21,7 +22,6 @@ tags:
   - docker
   - ebpf
   - editor
-  - elf
   - emulator
   - encoding
   - extension
@@ -35,18 +35,12 @@ tags:
   - graphdb
   - gzip
   - hardening
-  - icons
   - image
-  - infosec
   - interpreter
-  - ios
   - irc
-  - jpeg
-  - jq
+  - javascript
   - json
-  - jvm
   - kernel
-  - kubernetes
   - latex
   - ldap
   - mail
@@ -54,27 +48,16 @@ tags:
   - meme
   - monitor
   - network
-  - notification
   - obfuscator
-  - ocaml
   - os
-  - osint
-  - paper
   - parser
   - pdf
-  - pentest
   - physics
-  - pihole
-  - pki
   - podcast
-  - podman
   - postgresql
   - privacy
-  - proxy
   - python
   - raspberrypi
-  - reddit
-  - redteam
   - regex
   - reverse
   - robotics
@@ -95,6 +78,7 @@ tags:
   - systemd
   - terminal
   - tool
+  - tutorial
   - video
   - vim
   - webassembly
@@ -115,5 +99,4 @@ folders:
   - rust
   - security
   - tool
-  - ui
 ---
