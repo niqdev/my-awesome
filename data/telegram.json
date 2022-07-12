@@ -19,25 +19,6 @@
     ]
   },
   {
-    "update_id": 60598310,
-    "timestamp": "2021-07-18T15:17:14Z",
-    "url": "https://github.com/barrracud4/image-upload-exploits",
-    "description": "This repository contains various media files for known attacks on web applications processing media files. Useful for penetration tests and bug bounty",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "github",
-        "auto": true
-      },
-      {
-        "name": "pentest",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598313,
     "timestamp": "2021-07-19T12:19:20Z",
     "url": "https://github.com/erikgrinaker/toydb",
@@ -76,51 +57,6 @@
     ]
   },
   {
-    "update_id": 60598316,
-    "timestamp": "2021-07-21T21:49:04Z",
-    "url": "https://shipilev.net/jvm/anatomy-quarks",
-    "description": "JVM Anatomy Quarks",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/random",
-    "tags": [
-      {
-        "name": "jvm",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598318,
-    "timestamp": "2021-07-21T21:49:04Z",
-    "url": "https://healeycodes.com/creating-the-golfcart-programming-language",
-    "description": "Creating the Golfcart Programming Language",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/random",
-    "tags": [
-      {
-        "name": "interpreter",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598319,
-    "timestamp": "2021-07-21T21:49:04Z",
-    "url": "https://securityunfiltered.buzzsprout.com",
-    "description": "Security Unfiltered",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "podcast",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598321,
     "timestamp": "2021-07-22T12:15:19Z",
     "url": "https://addons.mozilla.org/en-US/android/addon/ublock-origin",
@@ -150,21 +86,6 @@
     "tags": [
       {
         "name": "extension",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598324,
-    "timestamp": "2021-07-25T00:33:28Z",
-    "url": "https://cipher387.github.io/osint_stuff_tool_collection",
-    "description": "OSINT tools collection",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "osint",
         "auto": false
       }
     ]
@@ -252,25 +173,6 @@
       },
       {
         "name": "markdown",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598331,
-    "timestamp": "2021-07-25T12:15:07Z",
-    "url": "https://github.com/mytechnotalent/Reverse-Engineering",
-    "description": "Reverse Engineering For Everyone!",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "reverse",
-        "auto": false
-      },
-      {
-        "name": "course",
         "auto": false
       }
     ]
@@ -494,10 +396,10 @@
     "update_id": 60598353,
     "timestamp": "2021-08-04T12:20:22Z",
     "url": "https://anchor.fm/happypathprogramming",
-    "description": "Happy Path Programming • A podcast on Anchor",
+    "description": "Happy Path Programming",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/programming",
     "tags": [
       {
         "name": "podcast",
@@ -554,29 +456,6 @@
       },
       {
         "name": "mail",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598357,
-    "timestamp": "2021-08-10T12:20:16Z",
-    "url": "https://github.com/kdash-rs/kdash",
-    "description": "GitHub - kdash-rs/kdash: A simple and fast dashboard for Kubernetes",
-    "client": "telegram",
-    "source": "newsletter",
-    "path": "/development",
-    "tags": [
-      {
-        "name": "github",
-        "auto": true
-      },
-      {
-        "name": "tool",
-        "auto": false
-      },
-      {
-        "name": "kubernetes",
         "auto": false
       }
     ]
@@ -679,14 +558,14 @@
     "description": "GitHub - ruslashev/elfcat: An in-development ELF visualizer. Generates HTML files from ELF binaries.",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/tool",
     "tags": [
       {
         "name": "github",
         "auto": true
       },
       {
-        "name": "elf",
+        "name": "binary",
         "auto": false
       }
     ]
@@ -720,7 +599,7 @@
     "path": "/programming",
     "tags": [
       {
-        "name": "course",
+        "name": "tutorial",
         "auto": false
       },
       {
@@ -762,7 +641,7 @@
         "auto": false
       },
       {
-        "name": "course",
+        "name": "tutorial",
         "auto": false
       }
     ]
@@ -825,25 +704,6 @@
     ]
   },
   {
-    "update_id": 60598373,
-    "timestamp": "2021-08-10T12:20:16Z",
-    "url": "https://hakluke.com/cybersecurity-subreddits",
-    "description": "List of Cybersecurity Subreddits - HΔKLUKΞ",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "awesome",
-        "auto": false
-      },
-      {
-        "name": "reddit",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598374,
     "timestamp": "2021-08-10T12:20:16Z",
     "url": "https://github.com/microg/GmsCore",
@@ -888,29 +748,6 @@
     "tags": [
       {
         "name": "regex",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598378,
-    "timestamp": "2021-08-10T12:20:16Z",
-    "url": "https://github.com/guyinatuxedo/nightmare",
-    "description": "GitHub - guyinatuxedo/nightmare",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "github",
-        "auto": true
-      },
-      {
-        "name": "reverse",
-        "auto": false
-      },
-      {
-        "name": "course",
         "auto": false
       }
     ]
@@ -999,21 +836,6 @@
     ]
   },
   {
-    "update_id": 60598385,
-    "timestamp": "2021-08-10T12:20:16Z",
-    "url": "https://portswigger.net/web-security/all-materials",
-    "description": "All learning materials | Web Security Academy",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "course",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598386,
     "timestamp": "2021-08-10T12:20:16Z",
     "url": "https://djharper.dev/post/2020/12/26/executable-pngs",
@@ -1047,32 +869,17 @@
     "update_id": 60598389,
     "timestamp": "2021-08-10T12:20:16Z",
     "url": "https://fasterthanli.me/articles/a-half-hour-to-learn-rust",
-    "description": "A half-hour to learn Rust - fasterthanli.me",
+    "description": "A half-hour to learn Rust",
     "client": "telegram",
     "source": "unknown",
     "path": "/programming",
     "tags": [
       {
-        "name": "course",
+        "name": "tutorial",
         "auto": false
       },
       {
         "name": "rust",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598390,
-    "timestamp": "2021-08-11T12:20:21Z",
-    "url": "https://skaffold.dev",
-    "description": "Skaffold",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/development",
-    "tags": [
-      {
-        "name": "kubernetes",
         "auto": false
       }
     ]
@@ -1088,25 +895,6 @@
     "tags": [
       {
         "name": "reverse",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598393,
-    "timestamp": "2021-08-13T00:35:47Z",
-    "url": "https://malwareunicorn.org/#/workshops",
-    "description": "malwareunicorn.org",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "reverse",
-        "auto": false
-      },
-      {
-        "name": "course",
         "auto": false
       }
     ]
@@ -1137,14 +925,14 @@
     "description": "JavaScript Obfuscator Tool",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/online",
     "tags": [
       {
         "name": "obfuscator",
         "auto": false
       },
       {
-        "name": "tool",
+        "name": "javascript",
         "auto": false
       }
     ]
@@ -1164,21 +952,6 @@
       },
       {
         "name": "captcha",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598400,
-    "timestamp": "2021-08-20T12:17:47Z",
-    "url": "https://kwcsec.gitbook.io/the-red-team-handbook",
-    "description": "The Red Team Vade Mecum",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "redteam",
         "auto": false
       }
     ]
@@ -1220,10 +993,14 @@
     "description": "Writing a Simple Parser in Rust",
     "client": "telegram",
     "source": "unknown",
-    "path": "/rust",
+    "path": "/programming",
     "tags": [
       {
         "name": "parser",
+        "auto": false
+      },
+      {
+        "name": "rust",
         "auto": false
       }
     ]
@@ -1262,59 +1039,6 @@
       },
       {
         "name": "book",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598407,
-    "timestamp": "2021-08-28T12:14:49Z",
-    "url": "https://github.com/jonaslejon/malicious-pdf",
-    "description": "GitHub - jonaslejon/malicious-pdf: Generate a bunch of malicious pdf files with phone-home functionality. Can be used with Burp Collaborator",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "github",
-        "auto": true
-      },
-      {
-        "name": "pdf",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598408,
-    "timestamp": "2021-08-29T12:14:56Z",
-    "url": "https://developer.squareup.com/blog/threat-hunting-with-kubernetes-audit-logs",
-    "description": "Threat Hunting with Kubernetes Audit Logs | Square Corner Blog",
-    "client": "telegram",
-    "source": "newsletter",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "kubernetes",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598409,
-    "timestamp": "2021-08-29T12:14:56Z",
-    "url": "https://kubelist.com/podcast",
-    "description": "Kubelist Podcast",
-    "client": "telegram",
-    "source": "newsletter",
-    "path": "/development",
-    "tags": [
-      {
-        "name": "kubernetes",
-        "auto": false
-      },
-      {
-        "name": "podcast",
         "auto": false
       }
     ]
@@ -1377,29 +1101,6 @@
     ]
   },
   {
-    "update_id": 60598419,
-    "timestamp": "2021-09-16T00:36:40Z",
-    "url": "https://github.com/juliocesarfort/public-pentesting-reports",
-    "description": "GitHub - juliocesarfort/public-pentesting-reports: Curated list of public penetration test reports released by several consulting firms and academic security groups",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "github",
-        "auto": true
-      },
-      {
-        "name": "pentest",
-        "auto": false
-      },
-      {
-        "name": "awesome",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598420,
     "timestamp": "2021-09-16T00:36:40Z",
     "url": "https://gist.github.com/koobs/e01cf8869484a095605404cd0051eb11",
@@ -1411,10 +1112,6 @@
       {
         "name": "github",
         "auto": true
-      },
-      {
-        "name": "awesome",
-        "auto": false
       },
       {
         "name": "freebsd",
@@ -1472,25 +1169,6 @@
     ]
   },
   {
-    "update_id": 60598425,
-    "timestamp": "2021-09-18T12:15:10Z",
-    "url": "https://cobalt.io/blog/ios-pentesting-101",
-    "description": "iOS Pentesting 101 | Cobalt Blog",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "pentest",
-        "auto": false
-      },
-      {
-        "name": "ios",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598428,
     "timestamp": "2021-09-18T16:50:19Z",
     "url": "https://github.com/hasura/graphqurl",
@@ -1516,14 +1194,14 @@
     "description": "GitHub - kellyjonbrazil/jc: CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/tool",
     "tags": [
       {
         "name": "github",
         "auto": true
       },
       {
-        "name": "tool",
+        "name": "alternative",
         "auto": false
       },
       {
@@ -1547,21 +1225,6 @@
       },
       {
         "name": "rust",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598432,
-    "timestamp": "2021-09-18T17:32:57Z",
-    "url": "https://arzg.github.io/lang",
-    "description": "Make A Language",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/rust",
-    "tags": [
-      {
-        "name": "interpreter",
         "auto": false
       }
     ]
@@ -1619,10 +1282,18 @@
     "description": "Writing an x86 bootloader in Rust that can launch vmlinux",
     "client": "telegram",
     "source": "unknown",
-    "path": "/rust",
+    "path": "/linux",
     "tags": [
       {
+        "name": "boot",
+        "auto": false
+      },
+      {
         "name": "kernel",
+        "auto": false
+      },
+      {
+        "name": "rust",
         "auto": false
       }
     ]
@@ -1676,10 +1347,10 @@
     "update_id": 60598443,
     "timestamp": "2021-09-19T00:36:05Z",
     "url": "https://github.com/microsoft/ethr",
-    "description": "https://github.com/microsoft/ethr",
+    "description": "Ethr",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/tool",
     "tags": [
       {
         "name": "github",
@@ -1687,10 +1358,6 @@
       },
       {
         "name": "network",
-        "auto": false
-      },
-      {
-        "name": "tool",
         "auto": false
       }
     ]
@@ -1706,25 +1373,6 @@
     "tags": [
       {
         "name": "game",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598445,
-    "timestamp": "2021-09-19T00:36:05Z",
-    "url": "https://github.com/osnr/horrifying-pdf-experiments",
-    "description": "GitHub - osnr/horrifying-pdf-experiments: Stuff which works in Chrome and maybe Acrobat and Foxit.",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "github",
-        "auto": true
-      },
-      {
-        "name": "pdf",
         "auto": false
       }
     ]
@@ -1771,13 +1419,13 @@
     "update_id": 60598449,
     "timestamp": "2021-09-19T00:36:05Z",
     "url": "https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510",
-    "description": "Learn Go in ~5mins · GitHub",
+    "description": "Learn Go in ~5mins",
     "client": "telegram",
     "source": "unknown",
     "path": "/programming",
     "tags": [
       {
-        "name": "course",
+        "name": "tutorial",
         "auto": false
       },
       {
@@ -1838,29 +1486,14 @@
     "description": "Free open source icons, illustrations, emojis and graphics - Iconduck",
     "client": "telegram",
     "source": "unknown",
-    "path": "/ui",
+    "path": "/online",
     "tags": [
       {
         "name": "awesome",
         "auto": false
       },
       {
-        "name": "icons",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598454,
-    "timestamp": "2021-09-19T00:36:05Z",
-    "url": "https://www.netmeister.org/blog/infosec-competencies.html",
-    "description": "(Technical) Infosec Core Competencies",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "infosec",
+        "name": "image",
         "auto": false
       }
     ]
@@ -1872,7 +1505,7 @@
     "description": "https://millionshort.com/",
     "client": "telegram",
     "source": "unknown",
-    "path": "/random",
+    "path": "/online",
     "tags": [
       {
         "name": "search",
@@ -2012,7 +1645,7 @@
     "description": "GitHub - wkhtmltopdf/wkhtmltopdf: Convert HTML to PDF using Webkit (QtWebKit)",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/tool",
     "tags": [
       {
         "name": "github",
@@ -2171,12 +1804,8 @@
     "description": "Remove Background from Image – remove.bg",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/online",
     "tags": [
-      {
-        "name": "tool",
-        "auto": false
-      },
       {
         "name": "image",
         "auto": false
@@ -2190,12 +1819,8 @@
     "description": "redact.photo • Free and private image redaction in the browser",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/online",
     "tags": [
-      {
-        "name": "tool",
-        "auto": false
-      },
       {
         "name": "image",
         "auto": false
@@ -2287,6 +1912,10 @@
     "source": "unknown",
     "path": "/development",
     "tags": [
+      {
+        "name": "course",
+        "auto": false
+      },
       {
         "name": "regex",
         "auto": false
@@ -2462,8 +2091,12 @@
     "description": "SQL",
     "client": "telegram",
     "source": "unknown",
-    "path": "/random",
+    "path": "/development",
     "tags": [
+      {
+        "name": "book",
+        "auto": false
+      },
       {
         "name": "sql",
         "auto": false
@@ -2602,10 +2235,10 @@
     "update_id": 60598505,
     "timestamp": "2021-12-21T00:42:06Z",
     "url": "https://httptoolkit.tech",
-    "description": "https://httptoolkit.tech/",
+    "description": "HTTP Toolkit",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/tool",
     "tags": [
       {
         "name": "network",
@@ -2670,21 +2303,6 @@
       },
       {
         "name": "ascii",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598511,
-    "timestamp": "2021-12-26T12:17:13Z",
-    "url": "https://paperswithcode.com",
-    "description": "The latest in Machine Learning | Papers With Code",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/random",
-    "tags": [
-      {
-        "name": "paper",
         "auto": false
       }
     ]
@@ -2832,10 +2450,10 @@
     "description": "Writing a Game Boy Emulator in OCaml - The Linoscope Machine",
     "client": "telegram",
     "source": "unknown",
-    "path": "/random",
+    "path": "/electronic",
     "tags": [
       {
-        "name": "ocaml",
+        "name": "game",
         "auto": false
       }
     ]
@@ -2847,7 +2465,7 @@
     "description": "i Hate Regex - The Regex Cheat Sheet",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/online",
     "tags": [
       {
         "name": "regex",
@@ -2884,7 +2502,7 @@
     "path": "/development",
     "tags": [
       {
-        "name": "jpeg",
+        "name": "image",
         "auto": false
       }
     ]
@@ -2920,10 +2538,6 @@
       {
         "name": "android",
         "auto": false
-      },
-      {
-        "name": "notification",
-        "auto": false
       }
     ]
   },
@@ -2947,47 +2561,20 @@
     ]
   },
   {
-    "update_id": 60598528,
-    "timestamp": "2022-01-15T00:40:36Z",
-    "url": "https://github.com/multiprocessio/dsq",
-    "description": "GitHub - multiprocessio/dsq: Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/development",
-    "tags": [
-      {
-        "name": "github",
-        "auto": true
-      },
-      {
-        "name": "tool",
-        "auto": false
-      },
-      {
-        "name": "sql",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598529,
     "timestamp": "2022-01-15T00:40:36Z",
     "url": "https://github.com/antonmedv/fx",
     "description": "GitHub - antonmedv/fx: Command-line tool and terminal JSON viewer 🔥",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/tool",
     "tags": [
       {
         "name": "github",
         "auto": true
       },
       {
-        "name": "tool",
-        "auto": false
-      },
-      {
-        "name": "jq",
+        "name": "json",
         "auto": false
       }
     ]
@@ -2999,18 +2586,18 @@
     "description": "GitHub - wader/fq: jq for binary formats",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/tool",
     "tags": [
       {
         "name": "github",
         "auto": true
       },
       {
-        "name": "tool",
+        "name": "binary",
         "auto": false
       },
       {
-        "name": "jq",
+        "name": "json",
         "auto": false
       }
     ]
@@ -3022,7 +2609,7 @@
     "description": "Memegine - The Internet Meme Search Engine",
     "client": "telegram",
     "source": "unknown",
-    "path": "/random",
+    "path": "/online",
     "tags": [
       {
         "name": "meme",
@@ -3142,10 +2729,14 @@
     "description": "C2Rust Demonstration",
     "client": "telegram",
     "source": "unknown",
-    "path": "/rust",
+    "path": "/online",
     "tags": [
       {
         "name": "interpreter",
+        "auto": false
+      },
+      {
+        "name": "rust",
         "auto": false
       }
     ]
@@ -3191,7 +2782,7 @@
     "description": "GitHub - jpmens/jo: JSON output from a shell",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/tool",
     "tags": [
       {
         "name": "github",
@@ -3230,6 +2821,10 @@
       {
         "name": "network",
         "auto": false
+      },
+      {
+        "name": "socket",
+        "auto": false
       }
     ]
   },
@@ -3240,7 +2835,7 @@
     "description": "jless - Command Line JSON Viewer",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/tool",
     "tags": [
       {
         "name": "json",
@@ -3365,14 +2960,14 @@
     "description": "GitHub - TomWright/dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/tool",
     "tags": [
       {
         "name": "github",
         "auto": true
       },
       {
-        "name": "tool",
+        "name": "alternative",
         "auto": false
       },
       {
@@ -3444,7 +3039,7 @@
     "path": "/online",
     "tags": [
       {
-        "name": "course",
+        "name": "tutorial",
         "auto": false
       },
       {
@@ -3488,28 +3083,13 @@
     ]
   },
   {
-    "update_id": 60598561,
-    "timestamp": "2022-03-16T00:51:53Z",
-    "url": "https://medium.com/airbnb-engineering/meet-ottr-a-serverless-public-key-infrastructure-framework-f6580010ae0c",
-    "description": "Meet Ottr: A Serverless Public Key Infrastructure Framework | by Kenneth Yang | The Airbnb Tech Blog | Medium",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "pki",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598563,
     "timestamp": "2022-03-17T12:20:37Z",
     "url": "https://github.com/multiprocessio/dsq",
     "description": "GitHub - multiprocessio/dsq: Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/tool",
     "tags": [
       {
         "name": "github",
@@ -3517,6 +3097,10 @@
       },
       {
         "name": "json",
+        "auto": false
+      },
+      {
+        "name": "sql",
         "auto": false
       }
     ]
@@ -3528,8 +3112,12 @@
     "description": "JSON Visio",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/tool",
     "tags": [
+      {
+        "name": "editor",
+        "auto": false
+      },
       {
         "name": "json",
         "auto": false
@@ -3653,7 +3241,7 @@
     "description": "JSON Viewer - JSON Hero",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/online",
     "tags": [
       {
         "name": "json",
@@ -3721,7 +3309,7 @@
     "description": "GitHub - dflemstr/rq: Record Query - A tool for doing record analysis and transformation",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/tool",
     "tags": [
       {
         "name": "github",
@@ -3743,7 +3331,7 @@
     "path": "/programming",
     "tags": [
       {
-        "name": "course",
+        "name": "tutorial",
         "auto": false
       },
       {
@@ -3809,7 +3397,7 @@
     "update_id": 60598580,
     "timestamp": "2022-06-15T12:23:19Z",
     "url": "https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27",
-    "description": "This tutorial shows how to run docker natively on Android, without VMs and chroot. · GitHub",
+    "description": "This tutorial shows how to run docker natively on Android, without VMs and chroot.",
     "client": "telegram",
     "source": "unknown",
     "path": "/development",
@@ -3861,15 +3449,11 @@
     "description": "GitHub - aristocratos/btop: A monitor of resources",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/tool",
     "tags": [
       {
         "name": "github",
         "auto": true
-      },
-      {
-        "name": "tool",
-        "auto": false
       },
       {
         "name": "monitor",
@@ -3996,25 +3580,6 @@
     ]
   },
   {
-    "update_id": 60598591,
-    "timestamp": "2022-07-09T18:32:53Z",
-    "url": "https://github.com/AkselAllas/airgapt",
-    "description": "https://github.com/AkselAllas/airgapt",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "github",
-        "auto": true
-      },
-      {
-        "name": "proxy",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598592,
     "timestamp": "2022-07-09T18:32:53Z",
     "url": "https://changelog.com/posts/the-big-idea-around-unikernels",
@@ -4131,15 +3696,11 @@
     "update_id": 60598599,
     "timestamp": "2022-07-09T18:32:53Z",
     "url": "https://www.redhat.com/sysadmin/replace-docker-podman-macos",
-    "description": "How to replace Docker with Podman on a Mac | Enable Sysadmin",
+    "description": "How to replace Docker with Podman on a Mac",
     "client": "telegram",
     "source": "unknown",
     "path": "/development",
     "tags": [
-      {
-        "name": "podman",
-        "auto": false
-      },
       {
         "name": "alternative",
         "auto": false
@@ -4211,10 +3772,6 @@
       {
         "name": "raspberrypi",
         "auto": false
-      },
-      {
-        "name": "pihole",
-        "auto": false
       }
     ]
   },
@@ -4256,7 +3813,7 @@
     "update_id": 60598606,
     "timestamp": "2022-07-09T18:32:53Z",
     "url": "https://mathspp.com/blog/sockets-for-dummies",
-    "description": "Sockets for dummies | Mathspp",
+    "description": "Sockets for dummies",
     "client": "telegram",
     "source": "unknown",
     "path": "/development",
@@ -4546,10 +4103,14 @@
     "description": "How to write a tree-sitter grammar in an afternoon | siraben’s musings",
     "client": "telegram",
     "source": "unknown",
-    "path": "/rust",
+    "path": "/programming",
     "tags": [
       {
         "name": "parser",
+        "auto": false
+      },
+      {
+        "name": "rust",
         "auto": false
       }
     ]
@@ -4873,13 +4434,17 @@
     "update_id": 60598642,
     "timestamp": "2022-07-09T18:32:53Z",
     "url": "http://ykarroum.com/2020/11/07/subprocess",
-    "description": "301 Moved Permanently",
+    "description": "Python Internals Serie",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/programming",
     "tags": [
       {
         "name": "python",
+        "auto": false
+      },
+      {
+        "name": "tutorial",
         "auto": false
       }
     ]
@@ -4925,7 +4490,7 @@
     "description": "GitHub - ergochat/ergo: A modern IRC server (daemon/ircd) written in Go.",
     "client": "telegram",
     "source": "unknown",
-    "path": "/random",
+    "path": "/tool",
     "tags": [
       {
         "name": "github",
@@ -4933,6 +4498,10 @@
       },
       {
         "name": "irc",
+        "auto": false
+      },
+      {
+        "name": "go",
         "auto": false
       }
     ]
@@ -5055,7 +4624,7 @@
     "update_id": 60598653,
     "timestamp": "2022-07-12T01:13:58Z",
     "url": "https://faun.pub/monitoring-tools-5b3852a4c7fd",
-    "description": "INVALID_DESCRIPTION",
+    "description": "Linux Server Monitoring Tools Overview",
     "client": "telegram",
     "source": "unknown",
     "path": "/tool",
@@ -5074,7 +4643,7 @@
     "update_id": 60598654,
     "timestamp": "2022-07-12T01:13:58Z",
     "url": "https://github.com/containers/bubblewrap",
-    "description": "GitHub - containers/bubblewrap: Unprivileged sandboxing tool",
+    "description": "containers/bubblewrap: Unprivileged sandboxing tool",
     "client": "telegram",
     "source": "unknown",
     "path": "/development",
