@@ -5012,5 +5012,85 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598651,
+    "timestamp": "2022-07-12T01:13:58Z",
+    "url": "https://www.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database",
+    "description": "Postgres Full-Text Search: A Search Engine in a Database",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/database",
+    "tags": [
+      {
+        "name": "postgresql",
+        "auto": false
+      },
+      {
+        "name": "search",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598652,
+    "timestamp": "2022-07-12T01:13:58Z",
+    "url": "https://github.com/nitnelave/lldap",
+    "description": "GitHub - nitnelave/lldap: Light LDAP implementation",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "ldap",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598653,
+    "timestamp": "2022-07-12T01:13:58Z",
+    "url": "https://faun.pub/monitoring-tools-5b3852a4c7fd",
+    "description": "INVALID_DESCRIPTION",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "awesome",
+        "auto": false
+      },
+      {
+        "name": "monitor",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598654,
+    "timestamp": "2022-07-12T01:13:58Z",
+    "url": "https://github.com/containers/bubblewrap",
+    "description": "GitHub - containers/bubblewrap: Unprivileged sandboxing tool",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "docker",
+        "auto": false
+      },
+      {
+        "name": "alternative",
+        "auto": false
+      }
+    ]
   }
 ]
