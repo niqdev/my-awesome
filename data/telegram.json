@@ -3044,8 +3044,7 @@
       {
         "name": "docker",
         "auto": false
-      }
-      ,
+      },
       {
         "name": "security",
         "auto": false
