@@ -8,7 +8,6 @@ tags:
   - ascii
   - asterisk
   - awesome
-  - bgp
   - binary
   - book
   - boot
@@ -16,6 +15,7 @@ tags:
   - captcha
   - chess
   - comics
+  - compression
   - course
   - debugger
   - dns
@@ -33,7 +33,6 @@ tags:
   - github
   - go
   - graphdb
-  - gzip
   - hardening
   - image
   - interpreter
