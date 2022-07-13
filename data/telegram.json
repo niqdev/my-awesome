@@ -44,7 +44,7 @@
     "description": "WebAssembly from Scratch: From FizzBuzz to DooM",
     "client": "telegram",
     "source": "unknown",
-    "path": "/rust",
+    "path": "/programming",
     "tags": [
       {
         "name": "github",
@@ -102,10 +102,6 @@
       {
         "name": "mail",
         "auto": false
-      },
-      {
-        "name": "smtp",
-        "auto": false
       }
     ]
   },
@@ -131,10 +127,10 @@
     "description": "Universal Database Tool",
     "client": "telegram",
     "source": "unknown",
-    "path": "/database",
+    "path": "/tool",
     "tags": [
       {
-        "name": "tool",
+        "name": "sql",
         "auto": false
       }
     ]
@@ -212,31 +208,20 @@
     ]
   },
   {
-    "update_id": 60598337,
-    "timestamp": "2021-07-27T00:34:44Z",
-    "url": "http://www.righto.com/2020/11/reverse-engineering-ram-storage-in.html",
-    "description": "Reverse engineering RAM storage in early Texas Instruments calculator chips",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/electronic",
-    "tags": [
-      {
-        "name": "security",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598340,
     "timestamp": "2021-07-27T00:34:44Z",
     "url": "https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg",
     "description": "rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.",
     "client": "telegram",
     "source": "unknown",
-    "path": "/rust",
+    "path": "/tool",
     "tags": [
       {
-        "name": "tool",
+        "name": "search",
+        "auto": false
+      },
+      {
+        "name": "regex",
         "auto": false
       }
     ]
@@ -286,25 +271,6 @@
     "tags": [
       {
         "name": "awesome",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598344,
-    "timestamp": "2021-07-27T00:34:44Z",
-    "url": "https://rizin.re",
-    "description": "Free and Open Source Reverse Engineering Framework",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "reverse",
-        "auto": false
-      },
-      {
-        "name": "tool",
         "auto": false
       }
     ]
@@ -381,7 +347,7 @@
     "update_id": 60598352,
     "timestamp": "2021-08-01T00:39:15Z",
     "url": "https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages",
-    "description": "https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/",
+    "description": "Hosting SQLite databases on Github Pages",
     "client": "telegram",
     "source": "hackernews",
     "path": "/database",
@@ -414,10 +380,14 @@
     "description": "Kernel Pwning with eBPF: a Love Story",
     "client": "telegram",
     "source": "newsletter",
-    "path": "/security",
+    "path": "/linux",
     "tags": [
       {
         "name": "ebpf",
+        "auto": false
+      },
+      {
+        "name": "security",
         "auto": false
       }
     ]
@@ -499,21 +469,6 @@
     ]
   },
   {
-    "update_id": 60598360,
-    "timestamp": "2021-08-10T12:20:16Z",
-    "url": "https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html",
-    "description": "https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "reverse",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598363,
     "timestamp": "2021-08-10T12:20:16Z",
     "url": "https://ciechanow.ski",
@@ -577,14 +532,14 @@
     "description": "GitHub - antoniomika/sish: HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/tool",
     "tags": [
       {
         "name": "github",
         "auto": true
       },
       {
-        "name": "tool",
+        "name": "network",
         "auto": false
       }
     ]
@@ -661,44 +616,6 @@
       },
       {
         "name": "markdown",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598371,
-    "timestamp": "2021-08-10T12:20:16Z",
-    "url": "https://gist.github.com/muff-in/ff678b1fda17e6188aa0462a99626121",
-    "description": "A curated list of Assembly Language / Reversing / Malware Analysis / Game Hacking-resources · GitHub",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "github",
-        "auto": true
-      },
-      {
-        "name": "reverse",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598372,
-    "timestamp": "2021-08-10T12:20:16Z",
-    "url": "https://m.youtube.com/c/AGDCServices/videos",
-    "description": "AGDC Services",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "youtube",
-        "auto": true
-      },
-      {
-        "name": "reverse",
         "auto": false
       }
     ]
@@ -793,10 +710,14 @@
     "description": "Networking Tools Every Developer Needs to Know",
     "client": "telegram",
     "source": "unknown",
-    "path": "/linux",
+    "path": "/tool",
     "tags": [
       {
-        "name": "tool",
+        "name": "awesome",
+        "auto": false
+      },
+      {
+        "name": "network",
         "auto": false
       }
     ]
@@ -805,13 +726,17 @@
     "update_id": 60598382,
     "timestamp": "2021-08-10T12:20:16Z",
     "url": "https://www.redox-os.org",
-    "description": "Redox - Your Next(Gen) OS - Redox - Your Next(Gen) OS",
+    "description": "Redox - Your Next(Gen) OS",
     "client": "telegram",
     "source": "unknown",
-    "path": "/rust",
+    "path": "/linux",
     "tags": [
       {
         "name": "os",
+        "auto": false
+      },
+      {
+        "name": "rust",
         "auto": false
       }
     ]
@@ -823,29 +748,14 @@
     "description": "GitHub - andrew-d/static-binaries: Various *nix tools built as statically-linked binaries",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/tool",
     "tags": [
       {
         "name": "github",
         "auto": true
       },
       {
-        "name": "tool",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598386,
-    "timestamp": "2021-08-10T12:20:16Z",
-    "url": "https://djharper.dev/post/2020/12/26/executable-pngs",
-    "description": "Executable PNGs - djhworld",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/development",
-    "tags": [
-      {
-        "name": "steganography",
+        "name": "binary",
         "auto": false
       }
     ]
@@ -880,21 +790,6 @@
       },
       {
         "name": "rust",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598392,
-    "timestamp": "2021-08-13T00:35:47Z",
-    "url": "https://www.begin.re",
-    "description": "RE for Beginners | Reverse Engineering",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "reverse",
         "auto": false
       }
     ]
@@ -947,7 +842,7 @@
     "path": "/development",
     "tags": [
       {
-        "name": "tool",
+        "name": "book",
         "auto": false
       },
       {
@@ -966,7 +861,7 @@
     "path": "/development",
     "tags": [
       {
-        "name": "tool",
+        "name": "search",
         "auto": false
       }
     ]
@@ -1050,15 +945,11 @@
     "description": "GitHub - yt-dlp/yt-dlp: A youtube-dl fork with additional features and fixes",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/tool",
     "tags": [
       {
         "name": "github",
         "auto": true
-      },
-      {
-        "name": "tool",
-        "auto": false
       },
       {
         "name": "youtube",
@@ -1384,7 +1275,7 @@
     "description": "Getting started in Robotics | Arthur Allshire",
     "client": "telegram",
     "source": "unknown",
-    "path": "/random",
+    "path": "/electronic",
     "tags": [
       {
         "name": "awesome",
@@ -1570,13 +1461,17 @@
     "update_id": 60598460,
     "timestamp": "2021-09-19T00:36:05Z",
     "url": "https://rust-lang-nursery.github.io/rust-cookbook/intro.html",
-    "description": "Table of Contents - Rust Cookbook",
+    "description": "Rust Cookbook",
     "client": "telegram",
     "source": "unknown",
-    "path": "/rust",
+    "path": "/programming",
     "tags": [
       {
         "name": "book",
+        "auto": false
+      },
+      {
+        "name": "rust",
         "auto": false
       }
     ]
@@ -1611,10 +1506,10 @@
     "description": "DBCLI",
     "client": "telegram",
     "source": "unknown",
-    "path": "/database",
+    "path": "/tool",
     "tags": [
       {
-        "name": "tool",
+        "name": "sql",
         "auto": false
       }
     ]
@@ -1661,13 +1556,17 @@
     "update_id": 60598468,
     "timestamp": "2021-09-21T09:24:53Z",
     "url": "https://docs.microsoft.com/en-us/learn/paths/rust-first-steps",
-    "description": "Take your first steps with Rust - Learn | Microsoft Docs",
+    "description": "Take your first steps with Rust",
     "client": "telegram",
     "source": "unknown",
-    "path": "/rust",
+    "path": "/programming",
     "tags": [
       {
-        "name": "book",
+        "name": "tutorial",
+        "auto": false
+      },
+      {
+        "name": "rust",
         "auto": false
       }
     ]
@@ -1679,7 +1578,7 @@
     "description": "GitHub - haileys/crabos: My hobby operating system written in Rust",
     "client": "telegram",
     "source": "unknown",
-    "path": "/rust",
+    "path": "/linux",
     "tags": [
       {
         "name": "github",
@@ -1687,6 +1586,10 @@
       },
       {
         "name": "os",
+        "auto": false
+      },
+      {
+        "name": "rust",
         "auto": false
       }
     ]
@@ -1713,7 +1616,7 @@
     "description": "GitHub - rust-embedded/rust-raspberrypi-OS-tutorials: Learn to write an embedded OS in Rust",
     "client": "telegram",
     "source": "unknown",
-    "path": "/rust",
+    "path": "/electronic",
     "tags": [
       {
         "name": "github",
@@ -1721,6 +1624,10 @@
       },
       {
         "name": "os",
+        "auto": false
+      },
+      {
+        "name": "rust",
         "auto": false
       }
     ]
@@ -1751,7 +1658,7 @@
     "description": "GitHub - nuta/kerla: A new operating system kernel with Linux binary compatibility written in Rust.",
     "client": "telegram",
     "source": "unknown",
-    "path": "/rust",
+    "path": "/linux",
     "tags": [
       {
         "name": "github",
@@ -1759,6 +1666,10 @@
       },
       {
         "name": "os",
+        "auto": false
+      },
+      {
+        "name": "rust",
         "auto": false
       }
     ]
@@ -1834,12 +1745,8 @@
     "description": "Rclone",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/tool",
     "tags": [
-      {
-        "name": "tool",
-        "auto": false
-      },
       {
         "name": "rsync",
         "auto": false
@@ -1986,13 +1893,17 @@
     "update_id": 60598488,
     "timestamp": "2021-11-20T12:15:58Z",
     "url": "https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot",
-    "description": "Contents - Rust for the Polyglot Programmer",
+    "description": "Rust for the Polyglot Programmer",
     "client": "telegram",
     "source": "unknown",
-    "path": "/rust",
+    "path": "/programming",
     "tags": [
       {
         "name": "book",
+        "auto": false
+      },
+      {
+        "name": "rust",
         "auto": false
       }
     ]
@@ -2057,7 +1968,7 @@
     "description": "GitHub - flosse/rust-os-comparison: A comparison of operating systems written in Rust",
     "client": "telegram",
     "source": "unknown",
-    "path": "/rust",
+    "path": "/linux",
     "tags": [
       {
         "name": "github",
@@ -2065,6 +1976,10 @@
       },
       {
         "name": "os",
+        "auto": false
+      },
+      {
+        "name": "rust",
         "auto": false
       }
     ]
@@ -2076,10 +1991,10 @@
     "description": "Using the xargs command on Linux to simplify your work | Network World",
     "client": "telegram",
     "source": "unknown",
-    "path": "/linux",
+    "path": "/tool",
     "tags": [
       {
-        "name": "xargs",
+        "name": "shell",
         "auto": false
       }
     ]
@@ -2091,7 +2006,7 @@
     "description": "SQL",
     "client": "telegram",
     "source": "unknown",
-    "path": "/development",
+    "path": "/database",
     "tags": [
       {
         "name": "book",
@@ -2110,10 +2025,14 @@
     "description": "Learning Rust For Embedded Systems - Steve Branam",
     "client": "telegram",
     "source": "unknown",
-    "path": "/rust",
+    "path": "/programming",
     "tags": [
       {
         "name": "awesome",
+        "auto": false
+      },
+      {
+        "name": "rust",
         "auto": false
       }
     ]
@@ -2152,7 +2071,7 @@
     "update_id": 60598499,
     "timestamp": "2021-12-04T12:17:13Z",
     "url": "https://github.com/kholia/OSX-KVM",
-    "description": "GitHub - kholia/OSX-KVM: Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues.",
+    "description": "Virtual Hackintosh",
     "client": "telegram",
     "source": "unknown",
     "path": "/linux",
@@ -2317,7 +2236,7 @@
     "path": "/linux",
     "tags": [
       {
-        "name": "tool",
+        "name": "video",
         "auto": false
       }
     ]
@@ -2333,63 +2252,6 @@
     "tags": [
       {
         "name": "latex",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598515,
-    "timestamp": "2021-12-27T00:43:56Z",
-    "url": "https://github.com/corkami",
-    "description": "Corkami · GitHub",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "github",
-        "auto": true
-      },
-      {
-        "name": "reverse",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598516,
-    "timestamp": "2021-12-27T00:43:56Z",
-    "url": "https://m.youtube.com/c/MalwareAnalysisForHedgehogs/playlists",
-    "description": "INVALID_DESCRIPTION",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "youtube",
-        "auto": true
-      },
-      {
-        "name": "reverse",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598517,
-    "timestamp": "2021-12-27T00:43:56Z",
-    "url": "https://m.youtube.com/channel/UCGD1Qt2jgnFRjrfAITGdNfQ/playlists",
-    "description": "INVALID_DESCRIPTION",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "youtube",
-        "auto": true
-      },
-      {
-        "name": "reverse",
         "auto": false
       }
     ]
@@ -2621,13 +2483,17 @@
     "update_id": 60598532,
     "timestamp": "2022-01-24T00:38:27Z",
     "url": "https://docs.opentitan.org/doc/ug/rust_for_c",
-    "description": "Rust for Embedded C Programmers | OpenTitan Documentation",
+    "description": "Rust for Embedded C Programmers",
     "client": "telegram",
     "source": "unknown",
-    "path": "/rust",
+    "path": "/programming",
     "tags": [
       {
         "name": "book",
+        "auto": false
+      },
+      {
+        "name": "rust",
         "auto": false
       }
     ]
@@ -2689,6 +2555,10 @@
       {
         "name": "systemd",
         "auto": false
+      },
+      {
+        "name": "tutorial",
+        "auto": false
       }
     ]
   },
@@ -2696,7 +2566,7 @@
     "update_id": 60598537,
     "timestamp": "2022-01-27T12:17:17Z",
     "url": "https://docs.soketi.app",
-    "description": "soketi - soketi",
+    "description": "soketi",
     "client": "telegram",
     "source": "unknown",
     "path": "/development",
@@ -2767,7 +2637,7 @@
     "description": "WebVM: server-less x86 virtual machines in the browser",
     "client": "telegram",
     "source": "unknown",
-    "path": "/rust",
+    "path": "/browser",
     "tags": [
       {
         "name": "webassembly",
@@ -2813,7 +2683,7 @@
     "update_id": 60598545,
     "timestamp": "2022-02-19T00:46:11Z",
     "url": "https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port",
-    "description": "Paul Butler – What does it mean to listen on a port?",
+    "description": "What does it mean to listen on a port?",
     "client": "telegram",
     "source": "unknown",
     "path": "/development",
@@ -3165,7 +3035,7 @@
     "description": "GitHub - netblue30/firejail: Linux namespaces and seccomp-bpf sandbox",
     "client": "telegram",
     "source": "unknown",
-    "path": "/security",
+    "path": "/linux",
     "tags": [
       {
         "name": "github",
@@ -3173,6 +3043,11 @@
       },
       {
         "name": "docker",
+        "auto": false
+      }
+      ,
+      {
+        "name": "security",
         "auto": false
       }
     ]
@@ -3212,10 +3087,6 @@
       {
         "name": "dns",
         "auto": false
-      },
-      {
-        "name": "go",
-        "auto": false
       }
     ]
   },
@@ -3226,10 +3097,14 @@
     "description": "Introduction - Learning Rust With Entirely Too Many Linked Lists",
     "client": "telegram",
     "source": "unknown",
-    "path": "/rust",
+    "path": "/programming",
     "tags": [
       {
         "name": "book",
+        "auto": false
+      },
+      {
+        "name": "rust",
         "auto": false
       }
     ]
@@ -3271,10 +3146,14 @@
     "description": "Writing an OS in Rust",
     "client": "telegram",
     "source": "unknown",
-    "path": "/rust",
+    "path": "/linux",
     "tags": [
       {
         "name": "os",
+        "auto": false
+      },
+      {
+        "name": "rust",
         "auto": false
       }
     ]
@@ -3366,7 +3245,7 @@
     "description": "GitHub - cilium/tetragon: eBPF-based Security Observability and Runtime Enforcement",
     "client": "telegram",
     "source": "unknown",
-    "path": "/security",
+    "path": "/linux",
     "tags": [
       {
         "name": "github",
@@ -3374,6 +3253,10 @@
       },
       {
         "name": "ebpf",
+        "auto": false
+      },
+      {
+        "name": "security",
         "auto": false
       }
     ]
@@ -3439,6 +3322,10 @@
       {
         "name": "rsync",
         "auto": false
+      },
+      {
+        "name": "tutorial",
+        "auto": false
       }
     ]
   },
@@ -3483,10 +3370,14 @@
     "description": "Bypassing eBPF-based Security Enforcement Tools",
     "client": "telegram",
     "source": "unknown",
-    "path": "/security",
+    "path": "/linux",
     "tags": [
       {
         "name": "ebpf",
+        "auto": false
+      },
+      {
+        "name": "security",
         "auto": false
       }
     ]
@@ -3498,7 +3389,7 @@
     "description": "GitHub - h3xduck/TripleCross: A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.",
     "client": "telegram",
     "source": "unknown",
-    "path": "/security",
+    "path": "/linux",
     "tags": [
       {
         "name": "github",
@@ -3506,6 +3397,10 @@
       },
       {
         "name": "ebpf",
+        "auto": false
+      },
+      {
+        "name": "security",
         "auto": false
       }
     ]
@@ -3517,7 +3412,7 @@
     "description": "GitHub - MatejKovacic/RasPBX-install: Installation of RasPBX for beginners.",
     "client": "telegram",
     "source": "unknown",
-    "path": "/iot",
+    "path": "/electronic",
     "tags": [
       {
         "name": "github",
@@ -3529,25 +3424,6 @@
       },
       {
         "name": "asterisk",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598588,
-    "timestamp": "2022-07-09T18:32:53Z",
-    "url": "https://github.com/sottlmarek/DevSecOps",
-    "description": "GitHub - sottlmarek/DevSecOps: Ultimate DevSecOps library",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/security",
-    "tags": [
-      {
-        "name": "github",
-        "auto": true
-      },
-      {
-        "name": "awesome",
         "auto": false
       }
     ]
@@ -3571,10 +3447,6 @@
       },
       {
         "name": "search",
-        "auto": false
-      },
-      {
-        "name": "go",
         "auto": false
       }
     ]
@@ -3767,7 +3639,7 @@
     "description": "Pi-hole Installation Guide | RIPE Labs",
     "client": "telegram",
     "source": "unknown",
-    "path": "/iot",
+    "path": "/electronic",
     "tags": [
       {
         "name": "raspberrypi",
@@ -4122,7 +3994,7 @@
     "description": "GitHub - mck-sbs/gentoo-rpi-64-bit: Building a gentoo 64-bit system for Raspberry Pi 4 (with rt-patch for real time functionality)",
     "client": "telegram",
     "source": "unknown",
-    "path": "/iot",
+    "path": "/electronic",
     "tags": [
       {
         "name": "github",
@@ -4471,14 +4343,18 @@
     "description": "https://github.com/sharkdp/fd",
     "client": "telegram",
     "source": "unknown",
-    "path": "/rust",
+    "path": "/tool",
     "tags": [
       {
         "name": "github",
         "auto": true
       },
       {
-        "name": "tool",
+        "name": "alternative",
+        "auto": false
+      },
+      {
+        "name": "search",
         "auto": false
       }
     ]
@@ -4499,10 +4375,6 @@
       {
         "name": "irc",
         "auto": false
-      },
-      {
-        "name": "go",
-        "auto": false
       }
     ]
   },
@@ -4510,7 +4382,7 @@
     "update_id": 60598646,
     "timestamp": "2022-07-09T18:32:53Z",
     "url": "https://effective-shell.com",
-    "description": "Effective Shell | Effective Shell",
+    "description": "Effective Shell",
     "client": "telegram",
     "source": "unknown",
     "path": "/linux",
