@@ -4661,5 +4661,43 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598655,
+    "timestamp": "2022-07-13T01:06:02Z",
+    "url": "https://www.memorymanagement.org",
+    "description": "Home — Memory Management Reference 4.0 documentation",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "memory",
+        "auto": false
+      },
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598656,
+    "timestamp": "2022-07-13T01:06:02Z",
+    "url": "https://kreya.app",
+    "description": "The ultimate gRPC and REST client | Kreya",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "api",
+        "auto": false
+      },
+      {
+        "name": "alternative",
+        "auto": false
+      }
+    ]
   }
 ]
