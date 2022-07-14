@@ -4961,5 +4961,296 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598683,
+    "timestamp": "2022-07-14T08:24:40Z",
+    "url": "https://hoppscotch.io",
+    "description": "Hoppscotch - Open source API development ecosystem",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "api",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598684,
+    "timestamp": "2022-07-14T08:24:40Z",
+    "url": "https://rapidapi.com/hub",
+    "description": "https://rapidapi.com/hub",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "api",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598685,
+    "timestamp": "2022-07-14T08:24:40Z",
+    "url": "https://www.meilisearch.com",
+    "description": "Meilisearch",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "search",
+        "auto": false
+      },
+      {
+        "name": "alternative",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598686,
+    "timestamp": "2022-07-14T08:24:40Z",
+    "url": "https://spacevim.org",
+    "description": "Home | SpaceVim",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "vim",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598687,
+    "timestamp": "2022-07-14T08:24:40Z",
+    "url": "https://tailscale.com/kb/1151/what-is-tailscale",
+    "description": "INVALID_DESCRIPTION",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "network",
+        "auto": false
+      },
+      {
+        "name": "vpn",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598688,
+    "timestamp": "2022-07-14T08:24:40Z",
+    "url": "https://www.wireguard.com",
+    "description": "WireGuard: fast, modern, secure VPN tunnel",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "network",
+        "auto": false
+      },
+      {
+        "name": "vpn",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598689,
+    "timestamp": "2022-07-14T08:24:40Z",
+    "url": "https://eevans.co/blog/garage",
+    "description": "How I Host This Blog From My Garage · Emanuel Evans",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/electronic",
+    "tags": [
+      {
+        "name": "homelab",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598690,
+    "timestamp": "2022-07-14T08:24:40Z",
+    "url": "https://github.com/khuedoan/homelab",
+    "description": "GitHub - khuedoan/homelab: Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/electronic",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "homelab",
+        "auto": false
+      },
+      {
+        "name": "raspberrypi",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598691,
+    "timestamp": "2022-07-14T08:24:40Z",
+    "url": "https://homebridge.io",
+    "description": "Homebridge",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/electronic",
+    "tags": [
+      {
+        "name": "homelab",
+        "auto": false
+      },
+      {
+        "name": "raspberrypi",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598692,
+    "timestamp": "2022-07-14T08:24:40Z",
+    "url": "https://vladimir.varank.in/notes/2021/04/wireless-to-ethernet-island-for-homelab-cluster-ipv6-ndp-proxy-and-mdns-reflector",
+    "description": "Wireless-to-Ethernet island for homelab cluster: IPv6, NDP proxy and mDNS reflector - Vladimir Varankin",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/electronic",
+    "tags": [
+      {
+        "name": "homelab",
+        "auto": false
+      },
+      {
+        "name": "raspberrypi",
+        "auto": false
+      },
+      {
+        "name": "network",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598693,
+    "timestamp": "2022-07-14T08:24:40Z",
+    "url": "https://gbdev.io",
+    "description": "Projects | gbdev",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/electronic",
+    "tags": [
+      {
+        "name": "game",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598694,
+    "timestamp": "2022-07-14T08:24:40Z",
+    "url": "http://unibios.free.fr",
+    "description": "The official UNIVERSE BIOS homepage",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/electronic",
+    "tags": [
+      {
+        "name": "game",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598695,
+    "timestamp": "2022-07-14T08:24:40Z",
+    "url": "https://www.mathler.com",
+    "description": "Mathler - A daily math puzzle",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "game",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598696,
+    "timestamp": "2022-07-14T08:24:40Z",
+    "url": "https://fyrox.rs",
+    "description": "Fyrox engine",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "game",
+        "auto": false
+      },
+      {
+        "name": "rust",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598697,
+    "timestamp": "2022-07-14T08:24:40Z",
+    "url": "https://kilograham.github.io/rp2040-doom",
+    "description": "RP2040 Doom | rp2040-doom",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/electronic",
+    "tags": [
+      {
+        "name": "game",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598698,
+    "timestamp": "2022-07-14T08:24:40Z",
+    "url": "https://www.gamedeveloper.com/blogs/the-ai-of-doom-1993",
+    "description": "The AI of DOOM (1993)",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/electronic",
+    "tags": [
+      {
+        "name": "game",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598699,
+    "timestamp": "2022-07-14T08:24:40Z",
+    "url": "https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml",
+    "description": "301 Moved Permanently",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "game",
+        "auto": false
+      }
+    ]
   }
 ]

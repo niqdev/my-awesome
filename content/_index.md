@@ -36,6 +36,7 @@ tags:
   - go
   - graphdb
   - hardening
+  - homelab
   - image
   - interpreter
   - irc
@@ -81,6 +82,7 @@ tags:
   - tutorial
   - video
   - vim
+  - vpn
   - webassembly
   - websocket
   - wiki
