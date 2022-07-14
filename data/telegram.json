@@ -5252,5 +5252,205 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598700,
+    "timestamp": "2022-07-14T08:51:15Z",
+    "url": "https://www.markhansen.co.nz/profiler-uis",
+    "description": "Linux perf Profiler UIs",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "benchmark",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598701,
+    "timestamp": "2022-07-14T08:51:15Z",
+    "url": "https://blog.skylerlewis.io/2020/12/diy-dynamic-dns-using-netlify-api.html",
+    "description": "DIY Dynamic DNS Using Netlify API",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "dns",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598702,
+    "timestamp": "2022-07-14T08:51:15Z",
+    "url": "https://jake.nyc/words/tools-and-services-i-use-to-run-my-saas",
+    "description": "301 Moved Permanently",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "startup",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598703,
+    "timestamp": "2022-07-14T08:51:15Z",
+    "url": "https://stackshare.io/alternatives",
+    "description": "What are some alternatives to popular open source and SaaS tools in 2022?",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "alternative",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598704,
+    "timestamp": "2022-07-14T08:51:15Z",
+    "url": "https://bbenchoff.github.io",
+    "description": "bbenchoff.github.io by bbenchoff",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/electronic",
+    "tags": [
+      {
+        "name": "homelab",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598705,
+    "timestamp": "2022-07-14T08:51:15Z",
+    "url": "https://wiki.odroid.com/start",
+    "description": "start [ODROID Wiki]",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/electronic",
+    "tags": [
+      {
+        "name": "raspberrypi",
+        "auto": false
+      },
+      {
+        "name": "alternative",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598706,
+    "timestamp": "2022-07-14T08:51:15Z",
+    "url": "https://frigate.video",
+    "description": "Frigate NVR",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/electronic",
+    "tags": [
+      {
+        "name": "video",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598707,
+    "timestamp": "2022-07-14T08:51:15Z",
+    "url": "https://github.com/ssloy/tinyrenderer/wiki",
+    "description": "Home · ssloy/tinyrenderer Wiki · GitHub",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "video",
+        "auto": false
+      },
+      {
+        "name": "course",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598708,
+    "timestamp": "2022-07-14T08:51:15Z",
+    "url": "https://nicole.express/2022/the-nes-as-an-artifact.html",
+    "description": "What made the NES so interesting?",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/electronic",
+    "tags": [
+      {
+        "name": "game",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598709,
+    "timestamp": "2022-07-14T08:51:15Z",
+    "url": "https://dns.lookup.dog",
+    "description": "dog",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "dns",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598710,
+    "timestamp": "2022-07-14T08:51:15Z",
+    "url": "https://pocketbase.io",
+    "description": "PocketBase - Open Source backend in 1 file",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "sqlite",
+        "auto": false
+      },
+      {
+        "name": "api",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598711,
+    "timestamp": "2022-07-14T08:51:15Z",
+    "url": "https://www.vimified.com",
+    "description": "Learn Vim the Simple Way",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "vim",
+        "auto": false
+      },
+      {
+        "name": "course",
+        "auto": false
+      }
+    ]
   }
 ]
