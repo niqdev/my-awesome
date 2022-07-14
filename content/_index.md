@@ -8,6 +8,7 @@ tags:
   - ascii
   - asterisk
   - awesome
+  - benchmark
   - binary
   - book
   - boot
@@ -53,7 +54,6 @@ tags:
   - os
   - parser
   - pdf
-  - perf
   - physics
   - podcast
   - postgresql
@@ -86,7 +86,6 @@ tags:
   - wiki
   - youtube
 folders:
-  - ""
   - browser
   - database
   - development
