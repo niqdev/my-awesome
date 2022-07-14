@@ -21,7 +21,7 @@ hugo server -D
 * pagination issue: https://discourse.gohugo.io/t/data-files-and-pagination/2334/5
 * add button at the bottom "scroll to the top"
 * in tags, add more relevant tags by count
-* action: update description
+* `my-awesome/actions/telegram-action`: update description
     - remove prefix `GitHub - ` from repository
     - remove suffix `· GitHub` from a gist
     - remove suffix `.` (final dot)
