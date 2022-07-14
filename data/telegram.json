@@ -4582,5 +4582,403 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598657,
+    "timestamp": "2022-07-14T07:38:42Z",
+    "url": "https://fzakaria.com/2020/05/31/containers-from-first-principles.html",
+    "description": "Containers from first principles | Farid Zakaria’s Blog",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "docker",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598658,
+    "timestamp": "2022-07-14T07:38:42Z",
+    "url": "http://www.infinitepartitions.com/cgi-bin/showarticle.cgi?article=art001",
+    "description": "Dissecting the GZIP format",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "compression",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598659,
+    "timestamp": "2022-07-14T07:38:42Z",
+    "url": "https://prefetch.eu/blog/2020/email-server",
+    "description": "301 Moved Permanently",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "mail",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598660,
+    "timestamp": "2022-07-14T07:38:42Z",
+    "url": "https://regexr.com",
+    "description": "https://regexr.com",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "regex",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598661,
+    "timestamp": "2022-07-14T07:38:42Z",
+    "url": "https://regexper.com",
+    "description": "Regexper",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "regex",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598662,
+    "timestamp": "2022-07-14T07:38:42Z",
+    "url": "https://currentmillis.com",
+    "description": "Current Millis ‐ Milliseconds since Unix Epoch",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/",
+    "tags": [
+      {
+        "name": "time",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598663,
+    "timestamp": "2022-07-14T07:38:42Z",
+    "url": "https://jsfiddle.net",
+    "description": "JSFiddle - Code Playground",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "javascript",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598664,
+    "timestamp": "2022-07-14T07:38:42Z",
+    "url": "https://jsonformatter.curiousconcept.com",
+    "description": "https://jsonformatter.curiousconcept.com",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "json",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598665,
+    "timestamp": "2022-07-14T07:38:42Z",
+    "url": "https://www.atatus.com/tools/json-generator",
+    "description": "JSON Generator | Tools",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "json",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598666,
+    "timestamp": "2022-07-14T07:38:42Z",
+    "url": "https://jsonbin.io",
+    "description": "https://jsonbin.io/",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "json",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598667,
+    "timestamp": "2022-07-14T07:38:42Z",
+    "url": "https://www.mockaroo.com",
+    "description": "Mockaroo - Random Data Generator and API Mocking Tool | JSON / CSV / SQL / Excel",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "json",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598668,
+    "timestamp": "2022-07-14T07:38:42Z",
+    "url": "https://textdb.dev",
+    "description": "Textdb",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "json",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598669,
+    "timestamp": "2022-07-14T07:38:42Z",
+    "url": "https://beautifier.io",
+    "description": "Online JavaScript beautifier",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "javascript",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598670,
+    "timestamp": "2022-07-14T07:38:42Z",
+    "url": "https://devdocs.io",
+    "description": "DevDocs API Documentation",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "wiki",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598671,
+    "timestamp": "2022-07-14T07:38:42Z",
+    "url": "https://www.webpagetest.org",
+    "description": "WebPageTest - Website Performance and Optimization Test",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "perf",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598672,
+    "timestamp": "2022-07-14T07:38:42Z",
+    "url": "https://csvfiddle.io",
+    "description": "CSVFiddle - Query CSVs with SQL",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "sql",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598673,
+    "timestamp": "2022-07-14T07:38:42Z",
+    "url": "https://jqplay.org",
+    "description": "Just a moment...",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "json",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598674,
+    "timestamp": "2022-07-14T07:38:42Z",
+    "url": "https://sqlite.org/fiddle",
+    "description": "SQLite3 Fiddle",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "sql",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598675,
+    "timestamp": "2022-07-14T07:38:42Z",
+    "url": "https://animatesql.com",
+    "description": "Animate SQL",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "sql",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598676,
+    "timestamp": "2022-07-14T07:38:42Z",
+    "url": "https://www.db-fiddle.com",
+    "description": "DB Fiddle - SQL Database Playground",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "sql",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598677,
+    "timestamp": "2022-07-14T07:38:42Z",
+    "url": "https://dbdb.io",
+    "description": "Home - Database of Databases",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/database",
+    "tags": [
+      {
+        "name": "awesome",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598678,
+    "timestamp": "2022-07-14T07:38:42Z",
+    "url": "https://siteoly.com",
+    "description": "Siteoly - Build websites from Google Sheets",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "spreadsheet",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598679,
+    "timestamp": "2022-07-14T07:38:42Z",
+    "url": "https://github.com/crisdosyago/BrowserBox",
+    "description": "GitHub - crisdosyago/BrowserBox: 📷 BrowserBox - Remote isolated browser API for security, automation visibility and interactivity. Run on our cloud, or bring your own. Full scope double reverse web proxy with multi-tab, mobile-ready browser UI frontend. Plus co-browsing, advanced adaptive streaming, secure document viewing and more! But only in the Pro version. Get BB today! Secure your document needs and internet, today!",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/browser",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "api",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598680,
+    "timestamp": "2022-07-14T07:38:42Z",
+    "url": "https://textpattern.com",
+    "description": "Textpattern CMS | Open source content management system",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "cms",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598681,
+    "timestamp": "2022-07-14T07:38:42Z",
+    "url": "https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python",
+    "description": "Understanding and Decoding a JPEG Image using Python - Yasoob Khalid",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "compression",
+        "auto": false
+      },
+      {
+        "name": "python",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598682,
+    "timestamp": "2022-07-14T07:38:42Z",
+    "url": "https://www.nayuki.io/page/creating-a-qr-code-step-by-step",
+    "description": "Creating a QR Code step by step",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "qrcode",
+        "auto": false
+      }
+    ]
   }
 ]

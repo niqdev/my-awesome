@@ -14,6 +14,7 @@ tags:
   - c
   - captcha
   - chess
+  - cms
   - comics
   - compression
   - course
@@ -52,11 +53,13 @@ tags:
   - os
   - parser
   - pdf
+  - perf
   - physics
   - podcast
   - postgresql
   - privacy
   - python
+  - qrcode
   - raspberrypi
   - regex
   - robotics
@@ -74,6 +77,7 @@ tags:
   - static
   - systemd
   - terminal
+  - time
   - tutorial
   - video
   - vim
@@ -82,6 +86,7 @@ tags:
   - wiki
   - youtube
 folders:
+  - ""
   - browser
   - database
   - development
