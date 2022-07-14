@@ -2542,7 +2542,7 @@
     "path": "/linux",
     "tags": [
       {
-        "name": "systemd",
+        "name": "monitor",
         "auto": false
       },
       {
@@ -2751,25 +2751,6 @@
       },
       {
         "name": "awesome",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598550,
-    "timestamp": "2022-02-28T12:18:59Z",
-    "url": "https://github.com/hoppscotch/hoppscotch",
-    "description": "hoppscotch/hoppscotch: 👽 Open source API development ecosystem - https://hoppscotch.io",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/tool",
-    "tags": [
-      {
-        "name": "github",
-        "auto": true
-      },
-      {
-        "name": "api",
         "auto": false
       }
     ]
@@ -4981,7 +4962,7 @@
     "update_id": 60598684,
     "timestamp": "2022-07-14T08:24:40Z",
     "url": "https://rapidapi.com/hub",
-    "description": "https://rapidapi.com/hub",
+    "description": "RapidAPI Hub",
     "client": "telegram",
     "source": "unknown",
     "path": "/online",
@@ -5015,7 +4996,7 @@
     "update_id": 60598686,
     "timestamp": "2022-07-14T08:24:40Z",
     "url": "https://spacevim.org",
-    "description": "Home | SpaceVim",
+    "description": "SpaceVim",
     "client": "telegram",
     "source": "unknown",
     "path": "/development",
@@ -5030,7 +5011,7 @@
     "update_id": 60598687,
     "timestamp": "2022-07-14T08:24:40Z",
     "url": "https://tailscale.com/kb/1151/what-is-tailscale",
-    "description": "INVALID_DESCRIPTION",
+    "description": "Tailscale",
     "client": "telegram",
     "source": "unknown",
     "path": "/development",
@@ -5075,29 +5056,6 @@
     "tags": [
       {
         "name": "homelab",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598690,
-    "timestamp": "2022-07-14T08:24:40Z",
-    "url": "https://github.com/khuedoan/homelab",
-    "description": "GitHub - khuedoan/homelab: Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/electronic",
-    "tags": [
-      {
-        "name": "github",
-        "auto": true
-      },
-      {
-        "name": "homelab",
-        "auto": false
-      },
-      {
-        "name": "raspberrypi",
         "auto": false
       }
     ]
@@ -5148,7 +5106,7 @@
     "update_id": 60598693,
     "timestamp": "2022-07-14T08:24:40Z",
     "url": "https://gbdev.io",
-    "description": "Projects | gbdev",
+    "description": "Game Boy Development",
     "client": "telegram",
     "source": "unknown",
     "path": "/electronic",
@@ -5163,7 +5121,7 @@
     "update_id": 60598694,
     "timestamp": "2022-07-14T08:24:40Z",
     "url": "http://unibios.free.fr",
-    "description": "The official UNIVERSE BIOS homepage",
+    "description": "The official UNIVERSE BIOS",
     "client": "telegram",
     "source": "unknown",
     "path": "/electronic",
@@ -5212,7 +5170,7 @@
     "update_id": 60598697,
     "timestamp": "2022-07-14T08:24:40Z",
     "url": "https://kilograham.github.io/rp2040-doom",
-    "description": "RP2040 Doom | rp2040-doom",
+    "description": "RP2040 Doom",
     "client": "telegram",
     "source": "unknown",
     "path": "/electronic",
@@ -5230,7 +5188,7 @@
     "description": "The AI of DOOM (1993)",
     "client": "telegram",
     "source": "unknown",
-    "path": "/electronic",
+    "path": "/development",
     "tags": [
       {
         "name": "game",
@@ -5242,7 +5200,7 @@
     "update_id": 60598699,
     "timestamp": "2022-07-14T08:24:40Z",
     "url": "https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml",
-    "description": "301 Moved Permanently",
+    "description": "Writing a Game Boy Emulator in OCaml",
     "client": "telegram",
     "source": "unknown",
     "path": "/development",
@@ -5287,7 +5245,7 @@
     "update_id": 60598702,
     "timestamp": "2022-07-14T08:51:15Z",
     "url": "https://jake.nyc/words/tools-and-services-i-use-to-run-my-saas",
-    "description": "301 Moved Permanently",
+    "description": "Tools and Services I Use to Run My SaaS",
     "client": "telegram",
     "source": "unknown",
     "path": "/tool",
@@ -5302,7 +5260,7 @@
     "update_id": 60598703,
     "timestamp": "2022-07-14T08:51:15Z",
     "url": "https://stackshare.io/alternatives",
-    "description": "What are some alternatives to popular open source and SaaS tools in 2022?",
+    "description": "What are some alternatives to popular open source and SaaS tools?",
     "client": "telegram",
     "source": "unknown",
     "path": "/tool",
@@ -5317,7 +5275,7 @@
     "update_id": 60598704,
     "timestamp": "2022-07-14T08:51:15Z",
     "url": "https://bbenchoff.github.io",
-    "description": "bbenchoff.github.io by bbenchoff",
+    "description": "bbenchoff.github.io",
     "client": "telegram",
     "source": "unknown",
     "path": "/electronic",
@@ -5332,7 +5290,7 @@
     "update_id": 60598705,
     "timestamp": "2022-07-14T08:51:15Z",
     "url": "https://wiki.odroid.com/start",
-    "description": "start [ODROID Wiki]",
+    "description": "ODROID WIKI",
     "client": "telegram",
     "source": "unknown",
     "path": "/electronic",
@@ -5351,7 +5309,7 @@
     "update_id": 60598706,
     "timestamp": "2022-07-14T08:51:15Z",
     "url": "https://frigate.video",
-    "description": "Frigate NVR",
+    "description": "Frigate - Monitor your security cameras with locally processed AI",
     "client": "telegram",
     "source": "unknown",
     "path": "/electronic",
@@ -5366,7 +5324,7 @@
     "update_id": 60598707,
     "timestamp": "2022-07-14T08:51:15Z",
     "url": "https://github.com/ssloy/tinyrenderer/wiki",
-    "description": "Home · ssloy/tinyrenderer Wiki · GitHub",
+    "description": "ssloy/tinyrenderer: Tiny renderer or how OpenGL works",
     "client": "telegram",
     "source": "unknown",
     "path": "/development",
