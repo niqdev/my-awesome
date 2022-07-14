@@ -76,7 +76,6 @@ tags:
   - sre
   - startup
   - static
-  - systemd
   - terminal
   - time
   - tutorial
