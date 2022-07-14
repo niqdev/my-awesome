@@ -19,6 +19,14 @@ hugo server -D
 ***TODO***
 
 * pagination issue: https://discourse.gohugo.io/t/data-files-and-pagination/2334/5
+* add button at the bottom "scroll to the top"
+* in tags, add more relevant tags by count
+* action: update description
+    - remove prefix `GitHub - ` from repository
+    - remove suffix `· GitHub` from a gist
+    - remove suffix `.` (final dot)
+    - follow redirects, i.e. avoid `301 Moved Permanently`
+* order TAGS by auto and name
 
 <!--
 
@@ -33,12 +41,3 @@ https://cyrillschumacher.com/2014/12/21/data-driven-content-with-gohugo.io
 https://github.com/kidsil/hugo-data-to-pages
 
 -->
-
-TODOs
-* add button at the bottom "scroll to the top"
-* in tags, add more relevant tags by count
-* action: update description
-    - remove prefix `GitHub - ` from repository
-    - remove suffix `· GitHub` from a gist
-    - remove suffix `.` (final dot)
-* order TAGS by auto and name

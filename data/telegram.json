@@ -1060,25 +1060,6 @@
     ]
   },
   {
-    "update_id": 60598428,
-    "timestamp": "2021-09-18T16:50:19Z",
-    "url": "https://github.com/hasura/graphqurl",
-    "description": "hasura/graphqurl: curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/tool",
-    "tags": [
-      {
-        "name": "github",
-        "auto": true
-      },
-      {
-        "name": "api",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598429,
     "timestamp": "2021-09-18T17:32:57Z",
     "url": "https://github.com/kellyjonbrazil/jc",
@@ -4617,7 +4598,7 @@
     "update_id": 60598659,
     "timestamp": "2022-07-14T07:38:42Z",
     "url": "https://prefetch.eu/blog/2020/email-server",
-    "description": "301 Moved Permanently",
+    "description": "Setting up an email server in 2020 with OpenSMTPD and Dovecot",
     "client": "telegram",
     "source": "unknown",
     "path": "/development",
@@ -4632,7 +4613,7 @@
     "update_id": 60598660,
     "timestamp": "2022-07-14T07:38:42Z",
     "url": "https://regexr.com",
-    "description": "https://regexr.com",
+    "description": "RegExr",
     "client": "telegram",
     "source": "unknown",
     "path": "/online",
@@ -4665,7 +4646,7 @@
     "description": "Current Millis ‐ Milliseconds since Unix Epoch",
     "client": "telegram",
     "source": "unknown",
-    "path": "/",
+    "path": "/online",
     "tags": [
       {
         "name": "time",
@@ -4692,7 +4673,7 @@
     "update_id": 60598664,
     "timestamp": "2022-07-14T07:38:42Z",
     "url": "https://jsonformatter.curiousconcept.com",
-    "description": "https://jsonformatter.curiousconcept.com",
+    "description": "JSON Formatter",
     "client": "telegram",
     "source": "unknown",
     "path": "/online",
@@ -4707,7 +4688,7 @@
     "update_id": 60598665,
     "timestamp": "2022-07-14T07:38:42Z",
     "url": "https://www.atatus.com/tools/json-generator",
-    "description": "JSON Generator | Tools",
+    "description": "JSON Generator",
     "client": "telegram",
     "source": "unknown",
     "path": "/online",
@@ -4722,7 +4703,7 @@
     "update_id": 60598666,
     "timestamp": "2022-07-14T07:38:42Z",
     "url": "https://jsonbin.io",
-    "description": "https://jsonbin.io/",
+    "description": "JSONBin.io",
     "client": "telegram",
     "source": "unknown",
     "path": "/online",
@@ -4803,7 +4784,7 @@
     "path": "/online",
     "tags": [
       {
-        "name": "perf",
+        "name": "benchmark",
         "auto": false
       }
     ]
@@ -4827,7 +4808,7 @@
     "update_id": 60598673,
     "timestamp": "2022-07-14T07:38:42Z",
     "url": "https://jqplay.org",
-    "description": "Just a moment...",
+    "description": "jqplay",
     "client": "telegram",
     "source": "unknown",
     "path": "/online",
@@ -4887,7 +4868,7 @@
     "update_id": 60598677,
     "timestamp": "2022-07-14T07:38:42Z",
     "url": "https://dbdb.io",
-    "description": "Home - Database of Databases",
+    "description": "Database of Databases",
     "client": "telegram",
     "source": "unknown",
     "path": "/database",
@@ -4917,7 +4898,7 @@
     "update_id": 60598679,
     "timestamp": "2022-07-14T07:38:42Z",
     "url": "https://github.com/crisdosyago/BrowserBox",
-    "description": "GitHub - crisdosyago/BrowserBox: 📷 BrowserBox - Remote isolated browser API for security, automation visibility and interactivity. Run on our cloud, or bring your own. Full scope double reverse web proxy with multi-tab, mobile-ready browser UI frontend. Plus co-browsing, advanced adaptive streaming, secure document viewing and more! But only in the Pro version. Get BB today! Secure your document needs and internet, today!",
+    "description": "crisdosyago/BrowserBox: 📷 BrowserBox - Remote isolated browser API for security, automation visibility and interactivity",
     "client": "telegram",
     "source": "unknown",
     "path": "/browser",
