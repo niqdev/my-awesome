@@ -5646,5 +5646,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598724,
+    "timestamp": "2022-07-15T12:26:49Z",
+    "url": "http://www.google.com/googlebooks/chrome/big_00.html",
+    "description": "Google Chrome",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/browser",
+    "tags": [
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
   }
 ]
