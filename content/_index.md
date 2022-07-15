@@ -19,6 +19,7 @@ tags:
   - comics
   - compression
   - course
+  - debian
   - debugger
   - dns
   - docker
