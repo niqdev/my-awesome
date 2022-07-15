@@ -658,7 +658,7 @@
     "update_id": 60598377,
     "timestamp": "2021-08-10T12:20:16Z",
     "url": "https://kean.blog/post/lets-build-regex",
-    "description": "Let’s Build a Regex Engine | kean.blog",
+    "description": "Let’s Build a Regex Engine",
     "client": "telegram",
     "source": "unknown",
     "path": "/development",
@@ -764,7 +764,7 @@
     "update_id": 60598388,
     "timestamp": "2021-08-10T12:20:16Z",
     "url": "https://csgordon.github.io/books.html",
-    "description": "Colin S. Gordon | Electronic References",
+    "description": "Electronic References",
     "client": "telegram",
     "source": "unknown",
     "path": "/electronic",
@@ -836,7 +836,7 @@
     "update_id": 60598399,
     "timestamp": "2021-08-19T00:29:09Z",
     "url": "https://boyter.org/decoding-captchas",
-    "description": "Decoding CAPTCHA’s | Ben E. C. Boyter",
+    "description": "Decoding CAPTCHA’s",
     "client": "telegram",
     "source": "unknown",
     "path": "/development",
@@ -1123,6 +1123,10 @@
         "auto": false
       },
       {
+        "name": "network",
+        "auto": false
+      },
+      {
         "name": "rust",
         "auto": false
       }
@@ -1132,7 +1136,7 @@
     "update_id": 60598435,
     "timestamp": "2021-09-18T17:32:57Z",
     "url": "https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html",
-    "description": "Writing a file system from scratch in Rust · carlosgaldino",
+    "description": "Writing a file system from scratch in Rust",
     "client": "telegram",
     "source": "unknown",
     "path": "/development",
@@ -1253,7 +1257,7 @@
     "update_id": 60598446,
     "timestamp": "2021-09-19T00:36:05Z",
     "url": "https://allshire.org/getting-started-robotics",
-    "description": "Getting started in Robotics | Arthur Allshire",
+    "description": "Getting started in Robotics",
     "client": "telegram",
     "source": "unknown",
     "path": "/electronic",
@@ -1272,7 +1276,7 @@
     "update_id": 60598448,
     "timestamp": "2021-09-19T00:36:05Z",
     "url": "https://saylordotorg.github.io/text_personal-finance/index.html",
-    "description": "Personal Finance - Table of Contents",
+    "description": "Personal Finance",
     "client": "telegram",
     "source": "unknown",
     "path": "/random",
@@ -1389,13 +1393,17 @@
     "update_id": 60598456,
     "timestamp": "2021-09-19T00:36:05Z",
     "url": "https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i",
-    "description": "Anatomy of a Linux DNS Lookup – Part I – zwischenzugs",
+    "description": "Anatomy of a Linux DNS Lookup",
     "client": "telegram",
     "source": "unknown",
     "path": "/linux",
     "tags": [
       {
         "name": "dns",
+        "auto": false
+      },
+      {
+        "name": "network",
         "auto": false
       }
     ]
@@ -1697,7 +1705,7 @@
     "update_id": 60598477,
     "timestamp": "2021-11-08T00:37:06Z",
     "url": "https://www.remove.bg",
-    "description": "Remove Background from Image – remove.bg",
+    "description": "Remove Background from Image",
     "client": "telegram",
     "source": "unknown",
     "path": "/online",
@@ -1833,7 +1841,7 @@
     "update_id": 60598485,
     "timestamp": "2021-11-20T12:15:58Z",
     "url": "https://ascii-generator.site",
-    "description": "https://ascii-generator.site/",
+    "description": "ASCII-Generator converter",
     "client": "telegram",
     "source": "unknown",
     "path": "/online",
@@ -2007,7 +2015,7 @@
     "update_id": 60598496,
     "timestamp": "2021-11-20T13:44:08Z",
     "url": "https://www.embeddedrelated.com/showarticle/1432.php",
-    "description": "Learning Rust For Embedded Systems - Steve Branam",
+    "description": "Learning Rust For Embedded Systems",
     "client": "telegram",
     "source": "unknown",
     "path": "/programming",
@@ -2026,7 +2034,7 @@
     "update_id": 60598497,
     "timestamp": "2021-11-28T00:38:30Z",
     "url": "https://labs.ripe.net/author/lorenzo_cogotti/micro-bgp-suite-the-swiss-army-knife-of-routing-analysis",
-    "description": "Micro BGP Suite: The Swiss Army Knife of Routing Analysis | RIPE Labs",
+    "description": "Micro BGP Suite: The Swiss Army Knife of Routing Analysis",
     "client": "telegram",
     "source": "unknown",
     "path": "/linux",
@@ -2132,6 +2140,10 @@
       {
         "name": "dns",
         "auto": false
+      },
+      {
+        "name": "network",
+        "auto": false
       }
     ]
   },
@@ -2195,16 +2207,12 @@
   {
     "update_id": 60598510,
     "timestamp": "2021-12-23T00:39:58Z",
-    "url": "https://github.com/ArthurSonzogni/Diagon",
-    "description": "ArthurSonzogni/Diagon: Interactive ASCII art diagram generators",
+    "url": "https://arthursonzogni.com/Diagon",
+    "description": "Diagon: ASCII art diagram generators",
     "client": "telegram",
     "source": "unknown",
     "path": "/online",
     "tags": [
-      {
-        "name": "github",
-        "auto": true
-      },
       {
         "name": "ascii",
         "auto": false
@@ -2245,7 +2253,7 @@
     "update_id": 60598518,
     "timestamp": "2022-01-03T12:18:31Z",
     "url": "https://jvns.ca/blog/2017/06/28/notes-on-bpf---ebpf",
-    "description": "https://jvns.ca/blog/2017/06/28/notes-on-bpf---ebpf/",
+    "description": "Notes on BPF & eBPF",
     "client": "telegram",
     "source": "unknown",
     "path": "/linux",
@@ -2294,7 +2302,7 @@
     "update_id": 60598521,
     "timestamp": "2022-01-13T00:43:43Z",
     "url": "https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml",
-    "description": "Writing a Game Boy Emulator in OCaml - The Linoscope Machine",
+    "description": "Writing a Game Boy Emulator in OCaml",
     "client": "telegram",
     "source": "unknown",
     "path": "/electronic",
@@ -2506,7 +2514,7 @@
     "update_id": 60598534,
     "timestamp": "2022-01-25T12:17:36Z",
     "url": "https://docs.px.dev/about-pixie/pixie-ebpf",
-    "description": "About Pixie | How Pixie uses eBPF",
+    "description": "How Pixie uses eBPF",
     "client": "telegram",
     "source": "unknown",
     "path": "/linux",
@@ -2706,7 +2714,7 @@
     "update_id": 60598547,
     "timestamp": "2022-02-19T00:46:11Z",
     "url": "https://earthly.dev/blog/lxc-vs-docker",
-    "description": "LXC vs Docker: Which Container Platform Is Right for You? - Earthly Blog",
+    "description": "LXC vs Docker: Which Container Platform Is Right for You?",
     "client": "telegram",
     "source": "unknown",
     "path": "/development",
@@ -2720,12 +2728,16 @@
   {
     "update_id": 60598548,
     "timestamp": "2022-02-23T00:49:29Z",
-    "url": "https://blog.openresty.com/en/ylang-intro-part1",
-    "description": "Ylang: Universal Language for eBPF, Stap+, GDB, and More (Part 1) - OpenResty Official Blog",
+    "url": "https://web.archive.org/web/20220530060906/https://blog.openresty.com/en/ylang-intro-part1",
+    "description": "Ylang: Universal Language for eBPF, Stap+, GDB, and More",
     "client": "telegram",
     "source": "unknown",
     "path": "/linux",
     "tags": [
+      {
+        "name": "archive",
+        "auto": true
+      },
       {
         "name": "ebpf",
         "auto": false
@@ -2819,18 +2831,18 @@
   {
     "update_id": 60598554,
     "timestamp": "2022-03-14T00:50:21Z",
-    "url": "https://github.com/winfsp/hubfs",
-    "description": "winfsp/hubfs: File system for GitHub",
+    "url": "https://winfsp.dev",
+    "description": "File system for GitHub",
     "client": "telegram",
     "source": "unknown",
     "path": "/development",
     "tags": [
       {
-        "name": "github",
-        "auto": true
+        "name": "git",
+        "auto": false
       },
       {
-        "name": "github",
+        "name": "filesystem",
         "auto": false
       }
     ]
@@ -2892,7 +2904,7 @@
     "update_id": 60598558,
     "timestamp": "2022-03-16T00:51:53Z",
     "url": "https://blog.quarkslab.com/digging-into-linux-namespaces-part-1.html",
-    "description": "Digging into Linux namespaces - part 1",
+    "description": "Digging into Linux namespaces",
     "client": "telegram",
     "source": "unknown",
     "path": "/development",
@@ -3055,6 +3067,10 @@
       },
       {
         "name": "dns",
+        "auto": false
+      },
+      {
+        "name": "network",
         "auto": false
       }
     ]
@@ -3590,7 +3606,7 @@
     "update_id": 60598602,
     "timestamp": "2022-07-09T18:32:53Z",
     "url": "https://www.polarsignals.com/blog/posts/2022/01/13/fantastic-symbols-and-where-to-find-them",
-    "description": "Fantastic Symbols and Where to Find Them - Part 1",
+    "description": "Fantastic Symbols and Where to Find Them",
     "client": "telegram",
     "source": "unknown",
     "path": "/development",
@@ -3605,7 +3621,7 @@
     "update_id": 60598603,
     "timestamp": "2022-07-09T18:32:53Z",
     "url": "https://labs.ripe.net/author/johannes_weber/pi-hole-installation-guide",
-    "description": "Pi-hole Installation Guide | RIPE Labs",
+    "description": "Pi-hole Installation Guide",
     "client": "telegram",
     "source": "unknown",
     "path": "/electronic",
@@ -3760,7 +3776,7 @@
     "update_id": 60598612,
     "timestamp": "2022-07-09T18:32:53Z",
     "url": "https://rosslazer.com/posts/startup-tooling",
-    "description": "Startup Tooling · Ross Lazerowitz",
+    "description": "Startup Tooling",
     "client": "telegram",
     "source": "unknown",
     "path": "/tool",
@@ -3798,7 +3814,7 @@
     "update_id": 60598614,
     "timestamp": "2022-07-09T18:32:53Z",
     "url": "https://notes.eatonphil.com/bootloader-basics.html",
-    "description": "Bootloader basics | notes.eatonphil.com",
+    "description": "Bootloader basics",
     "client": "telegram",
     "source": "unknown",
     "path": "/linux",
@@ -3896,7 +3912,7 @@
     "update_id": 60598620,
     "timestamp": "2022-07-09T18:32:53Z",
     "url": "https://www.enginarslan.com/posts/reflections-on-actively-trading-in-the-stock-market",
-    "description": "Reflections on Actively Trading in the Stock Market for a Year | Engin Arslan",
+    "description": "Reflections on Actively Trading in the Stock Market for a Year",
     "client": "telegram",
     "source": "unknown",
     "path": "/random",
@@ -3941,7 +3957,7 @@
     "update_id": 60598623,
     "timestamp": "2022-07-09T18:32:53Z",
     "url": "https://siraben.dev/2022/03/01/tree-sitter.html",
-    "description": "How to write a tree-sitter grammar in an afternoon | siraben’s musings",
+    "description": "How to write a tree-sitter grammar in an afternoon",
     "client": "telegram",
     "source": "unknown",
     "path": "/programming",
@@ -4393,7 +4409,7 @@
     "update_id": 60598648,
     "timestamp": "2022-07-09T18:32:53Z",
     "url": "https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103",
-    "description": "A Beginner’s Guide to Linux Kernel Development (LFD103) - Linux Foundation - Training",
+    "description": "A Beginner’s Guide to Linux Kernel Development (LFD103) - Linux Foundation",
     "client": "telegram",
     "source": "unknown",
     "path": "/linux",
@@ -4549,7 +4565,7 @@
     "update_id": 60598657,
     "timestamp": "2022-07-14T07:38:42Z",
     "url": "https://fzakaria.com/2020/05/31/containers-from-first-principles.html",
-    "description": "Containers from first principles | Farid Zakaria’s Blog",
+    "description": "Containers from first principles",
     "client": "telegram",
     "source": "unknown",
     "path": "/development",
@@ -4913,7 +4929,7 @@
     "update_id": 60598681,
     "timestamp": "2022-07-14T07:38:42Z",
     "url": "https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python",
-    "description": "Understanding and Decoding a JPEG Image using Python - Yasoob Khalid",
+    "description": "Understanding and Decoding a JPEG Image using Python",
     "client": "telegram",
     "source": "unknown",
     "path": "/development",
@@ -5049,7 +5065,7 @@
     "update_id": 60598689,
     "timestamp": "2022-07-14T08:24:40Z",
     "url": "https://eevans.co/blog/garage",
-    "description": "How I Host This Blog From My Garage · Emanuel Evans",
+    "description": "How I Host This Blog From My Garage",
     "client": "telegram",
     "source": "unknown",
     "path": "/electronic",
@@ -5083,7 +5099,7 @@
     "update_id": 60598692,
     "timestamp": "2022-07-14T08:24:40Z",
     "url": "https://vladimir.varank.in/notes/2021/04/wireless-to-ethernet-island-for-homelab-cluster-ipv6-ndp-proxy-and-mdns-reflector",
-    "description": "Wireless-to-Ethernet island for homelab cluster: IPv6, NDP proxy and mDNS reflector - Vladimir Varankin",
+    "description": "Wireless-to-Ethernet island for homelab cluster: IPv6, NDP proxy and mDNS reflector",
     "client": "telegram",
     "source": "unknown",
     "path": "/electronic",
@@ -5238,6 +5254,10 @@
       {
         "name": "dns",
         "auto": false
+      },
+      {
+        "name": "network",
+        "auto": false
       }
     ]
   },
@@ -5370,6 +5390,10 @@
       {
         "name": "dns",
         "auto": false
+      },
+      {
+        "name": "network",
+        "auto": false
       }
     ]
   },
@@ -5453,7 +5477,7 @@
     "update_id": 60598714,
     "timestamp": "2022-07-15T01:18:06Z",
     "url": "https://debian-handbook.info/get/now",
-    "description": "INVALID_DESCRIPTION",
+    "description": "The Debian Administrator's Handbook",
     "client": "telegram",
     "source": "unknown",
     "path": "/linux",
@@ -5468,7 +5492,7 @@
     "update_id": 60598715,
     "timestamp": "2022-07-15T01:18:06Z",
     "url": "http://linuxcommand.org/lc3_writing_shell_scripts.php",
-    "description": "LinuxCommand.org: Writing shell scripts.",
+    "description": "Writing shell scripts",
     "client": "telegram",
     "source": "unknown",
     "path": "/linux",
@@ -5487,7 +5511,7 @@
     "update_id": 60598716,
     "timestamp": "2022-07-15T01:18:06Z",
     "url": "https://leanpub.com/insidethepythonvirtualmachine/read",
-    "description": "Read Inside The Python Virtual Machine | Leanpub",
+    "description": "Inside The Python Virtual Machine",
     "client": "telegram",
     "source": "unknown",
     "path": "/programming",
@@ -5521,7 +5545,7 @@
     "update_id": 60598718,
     "timestamp": "2022-07-15T01:18:06Z",
     "url": "http://math.hws.edu/graphicsbook/index.html",
-    "description": "301 Moved Permanently",
+    "description": "Introduction to Computer Graphics",
     "client": "telegram",
     "source": "unknown",
     "path": "/programming",
@@ -5612,7 +5636,7 @@
     "update_id": 60598723,
     "timestamp": "2022-07-15T01:18:06Z",
     "url": "https://www.joyfulbikeshedding.com/blog/2020-08-03-how-debian-packaging-works.html",
-    "description": "How Debian packaging works – Joyful Bikeshedding",
+    "description": "How Debian packaging works",
     "client": "telegram",
     "source": "unknown",
     "path": "/linux",
