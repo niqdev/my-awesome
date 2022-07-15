@@ -5410,5 +5410,217 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598712,
+    "timestamp": "2022-07-15T01:18:06Z",
+    "url": "https://gribblelab.org/teaching/CBootCamp",
+    "description": "C Programming Boot Camp",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/programming",
+    "tags": [
+      {
+        "name": "c",
+        "auto": false
+      },
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598713,
+    "timestamp": "2022-07-15T01:18:06Z",
+    "url": "http://cslibrary.stanford.edu/101",
+    "description": "Essential C",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/programming",
+    "tags": [
+      {
+        "name": "book",
+        "auto": false
+      },
+      {
+        "name": "c",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598714,
+    "timestamp": "2022-07-15T01:18:06Z",
+    "url": "https://debian-handbook.info/get/now",
+    "description": "INVALID_DESCRIPTION",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598715,
+    "timestamp": "2022-07-15T01:18:06Z",
+    "url": "http://linuxcommand.org/lc3_writing_shell_scripts.php",
+    "description": "LinuxCommand.org: Writing shell scripts.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "book",
+        "auto": false
+      },
+      {
+        "name": "shell",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598716,
+    "timestamp": "2022-07-15T01:18:06Z",
+    "url": "https://leanpub.com/insidethepythonvirtualmachine/read",
+    "description": "Read Inside The Python Virtual Machine | Leanpub",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/programming",
+    "tags": [
+      {
+        "name": "book",
+        "auto": false
+      },
+      {
+        "name": "python",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598717,
+    "timestamp": "2022-07-15T01:18:06Z",
+    "url": "http://www.redbook.io",
+    "description": "Readings in Database Systems, 5th Edition",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/database",
+    "tags": [
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598718,
+    "timestamp": "2022-07-15T01:18:06Z",
+    "url": "http://math.hws.edu/graphicsbook/index.html",
+    "description": "301 Moved Permanently",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/programming",
+    "tags": [
+      {
+        "name": "book",
+        "auto": false
+      },
+      {
+        "name": "video",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598719,
+    "timestamp": "2022-07-15T01:18:06Z",
+    "url": "https://browser.engineering",
+    "description": "Web Browser Engineering",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/browser",
+    "tags": [
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598720,
+    "timestamp": "2022-07-15T01:18:06Z",
+    "url": "https://sre.google/sre-book/table-of-contents",
+    "description": "Google - Site Reliability Engineering",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "book",
+        "auto": false
+      },
+      {
+        "name": "sre",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598721,
+    "timestamp": "2022-07-15T01:18:06Z",
+    "url": "https://wesmckinney.com/book",
+    "description": "Python for Data Analysis, 3E",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/programming",
+    "tags": [
+      {
+        "name": "book",
+        "auto": false
+      },
+      {
+        "name": "python",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598722,
+    "timestamp": "2022-07-15T01:18:06Z",
+    "url": "http://tinc-vpn.org",
+    "description": "tinc",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "network",
+        "auto": false
+      },
+      {
+        "name": "vpn",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598723,
+    "timestamp": "2022-07-15T01:18:06Z",
+    "url": "https://www.joyfulbikeshedding.com/blog/2020-08-03-how-debian-packaging-works.html",
+    "description": "How Debian packaging works – Joyful Bikeshedding",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "debian",
+        "auto": false
+      }
+    ]
   }
 ]
