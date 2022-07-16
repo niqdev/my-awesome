@@ -3567,21 +3567,6 @@
     ]
   },
   {
-    "update_id": 60598617,
-    "timestamp": "2022-07-09T18:32:53Z",
-    "url": "https://debian-handbook.info/browse/stable",
-    "description": "The Debian Administrator's Handbook",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/linux",
-    "tags": [
-      {
-        "name": "book",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598618,
     "timestamp": "2022-07-09T18:32:53Z",
     "url": "https://www.linuxcommand.org/tlcl.php",
@@ -5305,6 +5290,10 @@
       {
         "name": "book",
         "auto": false
+      },
+      {
+        "name": "comics",
+        "auto": false
       }
     ]
   },
@@ -5312,7 +5301,7 @@
     "update_id": 60598725,
     "timestamp": "2022-07-16T01:12:15Z",
     "url": "https://github.com/mgunyho/tere",
-    "description": "GitHub - mgunyho/tere: Terminal file explorer",
+    "description": "mgunyho/tere: Terminal file explorer",
     "client": "telegram",
     "source": "unknown",
     "path": "/tool",
@@ -5331,7 +5320,7 @@
     "update_id": 60598726,
     "timestamp": "2022-07-16T01:12:15Z",
     "url": "https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust",
-    "description": "https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/",
+    "description": "How I went about learning Rust",
     "client": "telegram",
     "source": "unknown",
     "path": "/programming",
