@@ -20,13 +20,13 @@ hugo server -D
 
 * pagination issue: https://discourse.gohugo.io/t/data-files-and-pagination/2334/5
 * add button at the bottom "scroll to the top"
-* in tags, add more relevant tags by count
+* set auto tag archive if starts with `https://web.archive.org`
 * `my-awesome/actions/telegram-action`: update description
     - remove prefix `GitHub - ` from repository
     - remove suffix `· GitHub` from a gist
     - remove suffix `.` (final dot)
     - follow redirects, i.e. avoid `301 Moved Permanently`
-* order TAGS by auto and name
+* order TAGS by auto and name in `telegram.json`
 
 <!--
 

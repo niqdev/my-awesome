@@ -17,7 +17,12 @@ $secondary-color: rebeccapurple;
 $dark-color: navy;
 
 $folder-color: greenyellow;
-$tag-color: #00d1b2;
+$tag-color: #00D1B2;
+$client-color: #AB47BC;
+$source-color: #FF7043;
+$star-color: #ffea00;
+$external-color: #e91e63;
+$disabled-color: #9e9e9e;
 
 html {
   color: #232333;
@@ -241,19 +246,28 @@ div[class^='col-'].my-bookmark-folder {
 }
 div[class^='col-'].my-bookmark-client {
   @extend .my-bookmark-tag;
-  background-color: #AB47BC;
+  background-color: $client-color;
   color: white;
 }
 div[class^='col-'].my-bookmark-client:hover {
-  background-color: #AB47BC;
+  background-color: $client-color;
 }
 div[class^='col-'].my-bookmark-source {
   @extend .my-bookmark-tag;
-  background-color: #FF7043;
+  background-color: $source-color;
   color: white;
 }
 div[class^='col-'].my-bookmark-source:hover {
-  background-color: #FF7043;
+  background-color: $source-color;
+}
+div[class^='col-'].my-bookmark-star {
+  @extend .my-bookmark-tag;
+  background-color: $star-color;
+}
+div[class^='col-'].my-bookmark-external {
+  @extend .my-bookmark-tag;
+  background-color: $external-color;
+  color: white;
 }
 a.my-folder-title {
   border-bottom: 4px solid $folder-color;
@@ -274,5 +288,8 @@ a.my-tag-title {
   }
   div[class^='col-'].my-bookmark-tag-auto {
     background-color: #00B8D4;
+  }
+  div[class^='col-'].my-bookmark-tag-auto:hover {
+    background-color: $secondary-color;
   }
 }
