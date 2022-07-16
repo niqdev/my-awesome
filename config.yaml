@@ -18,7 +18,7 @@ menu:
   #   url: /folders/
   #   weight: 2
   - identifier: tags
-    title: Tags
+    title: Bookmarks
     url: /tags/
     weight: 3
   - identifier: about
@@ -29,4 +29,4 @@ menu:
 params:
   maxBookmarks: 25
   maxFolders: 5
-  maxRelevant: 20
+  maxRelevant: 25

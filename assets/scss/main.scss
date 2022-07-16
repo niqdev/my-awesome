@@ -16,13 +16,14 @@ $primary-color: dodgerblue;
 $secondary-color: rebeccapurple;
 $dark-color: navy;
 
+// https://www.materialpalette.com/colors
 $folder-color: greenyellow;
 $tag-color: #00D1B2;
 $client-color: #AB47BC;
 $source-color: #FF7043;
 $star-color: #ffea00;
 $external-color: #e91e63;
-$disabled-color: #9e9e9e;
+$disable-color: #9e9e9e;
 
 html {
   color: #232333;
@@ -267,7 +268,12 @@ div[class^='col-'].my-bookmark-star {
 div[class^='col-'].my-bookmark-external {
   @extend .my-bookmark-tag;
   background-color: $external-color;
-  color: white;
+  color: #eceff1;
+}
+div[class^='col-'].my-bookmark-external-disable {
+  @extend .my-bookmark-external;
+  background-color: $disable-color;
+  color: #eceff1;
 }
 a.my-folder-title {
   border-bottom: 4px solid $folder-color;

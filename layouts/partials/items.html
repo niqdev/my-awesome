@@ -4,7 +4,6 @@
 <div class="row start-xs">
   <div class="col-xs-12">
     <div class="box">
-      <h1>{{ .title | title }}</h1>
       <!--
       <ul>
         {{ range sort $items "timestamp" "desc" }}
@@ -14,6 +13,8 @@
       -->
       
       {{ if eq .type "FOLDER" }}
+        <h1>{{ .title | title }} by Tags</h1>
+
         <!-- find all unique tags from the items -->
         {{ $tags := slice }}
         {{ range sort $items "timestamp" "desc" }}
@@ -36,6 +37,8 @@
       {{ end }}
 
       {{ if eq .type "TAG" }}
+        <h1>{{ .title | title }} by Folders</h1>
+
         <!-- find all unique paths from the items -->
         {{ $paths := slice }}
         {{ range sort $items "timestamp" "desc" }}

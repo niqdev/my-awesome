@@ -1,0 +1,87 @@
+[
+  {
+    "name": "scala",
+    "url": "https://niqdev.github.io/scala-fp/docs/book.html",
+    "enable": true
+  },
+  {
+    "name": "jvm",
+    "url": "https://niqdev.github.io/scala-fp/docs/jvm",
+    "enable": true
+  },
+  {
+    "name": "haskell",
+    "url": "https://niqdev.github.io/scala-fp/docs/haskell",
+    "enable": true
+  },
+  {
+    "name": "math",
+    "url": "https://niqdev.github.io/scala-fp/docs/math",
+    "enable": true
+  },
+  {
+    "name": "graphql",
+    "url": "https://github.com/niqdev/caliban-extras#resources",
+    "enable": true
+  },
+  {
+    "name": "distributed-system",
+    "url": "https://niqdev.github.io/devops/system-design",
+    "enable": true
+  },
+  {
+    "name": "papers",
+    "url": "https://niqdev.github.io/devops/system-design",
+    "enable": true
+  },
+  {
+    "name": "operating-system",
+    "url": "",
+    "enable": false
+  },
+  {
+    "name": "kernel",
+    "url": "",
+    "enable": false
+  },
+  {
+    "name": "interpreter",
+    "url": "",
+    "enable": false
+  },
+  {
+    "name": "compiler",
+    "url": "",
+    "enable": false
+  },
+  {
+    "name": "kafka",
+    "url": "https://github.com/niqdev/kafka-scala-examples",
+    "enable": true
+  },
+  {
+    "name": "kubernetes",
+    "url": "",
+    "enable": false
+  },
+  {
+    "name": "security",
+    "url": "https://github.com/niqdev/strawhatsec",
+    "enable": false
+  },
+  {
+    "name": "machine-learning",
+    "url": "",
+    "enable": false
+  },
+  {
+    "name": "kotlin",
+    "url": "https://github.com/niqdev/kotlin-fun",
+    "enable": true
+  },
+  {
+    "name": "gitops",
+    "url": "https://github.com/edgelevel/gitops-k8s",
+    "enable": true
+  }
+]

@@ -4,7 +4,7 @@
 <div class="row start-xs">
   <div class="col-xs-12">
     <div class="box my-tag-page">
-      <h1>Most relevant</h1>
+      <h1>{{ $.Site.Params.maxRelevant }} Most relevant Tags</h1>
       <div class="row my-bookmark-tags">
         <!-- find all tags -->
         {{ $tags := slice }}
@@ -45,28 +45,32 @@
 <div class="row start-xs">
   <div class="col-xs-12">
     <div class="box my-tag-page">
-      <h1>External</h1>
+      <h1>External Folders</h1>
       <div class="row my-bookmark-tags">
-        <div class="col-xs-1 my-bookmark-external">TODO</div>
+        {{ $external := slice }}
+        {{ range (sort $.Site.Data.external "name" "asc") }}
+          <div class="col-xs-1 my-bookmark-external{{ if not .enable }}-disable{{ end }}">
+            <a href="{{ .url }}">{{ .name }}</a>
+          </div>
+        {{ end }}
       </div>
     </div>
   </div>
 </div>
-
-<!-- find all unique paths -->
-{{ $paths := slice }}
-{{ range .Site.Data.telegram }}
-  {{ $paths = $paths | append .path }}
-{{ end }}
-{{ $paths = uniq $paths }}
-
-<!-- {{ printf "%#v" $paths }} -->
 
 <!-- list sorted tags with counts, grouped by path -->
 <div class="row start-xs">
   <div class="col-xs-12">
     <div class="box my-tag-page">
       <h1>All Tags by Folder</h1>
+      <!-- find all unique paths -->
+      {{ $paths := slice }}
+      {{ range .Site.Data.telegram }}
+        {{ $paths = $paths | append .path }}
+      {{ end }}
+      {{ $paths = uniq $paths }}
+      <!-- {{ printf "%#v" $paths }} -->
+
       {{ range sort $paths }}
         <!-- folder url -->
         {{ $path := . }}
