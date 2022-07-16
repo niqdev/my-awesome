@@ -11,7 +11,6 @@ tags:
   - benchmark
   - binary
   - book
-  - boot
   - c
   - captcha
   - chess
@@ -25,7 +24,6 @@ tags:
   - docker
   - ebpf
   - editor
-  - emulator
   - encoding
   - extension
   - filesystem
@@ -43,7 +41,6 @@ tags:
   - irc
   - javascript
   - json
-  - kernel
   - latex
   - ldap
   - mail
@@ -54,7 +51,6 @@ tags:
   - network
   - obfuscator
   - os
-  - parser
   - pdf
   - physics
   - podcast
