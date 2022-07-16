@@ -5661,5 +5661,107 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598725,
+    "timestamp": "2022-07-16T01:12:15Z",
+    "url": "https://github.com/mgunyho/tere",
+    "description": "GitHub - mgunyho/tere: Terminal file explorer",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "filesystem",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598726,
+    "timestamp": "2022-07-16T01:12:15Z",
+    "url": "https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust",
+    "description": "https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/programming",
+    "tags": [
+      {
+        "name": "rust",
+        "auto": false
+      },
+      {
+        "name": "course",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598727,
+    "timestamp": "2022-07-16T01:12:15Z",
+    "url": "https://puter.com",
+    "description": "Puter",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/browser",
+    "tags": [
+      {
+        "name": "os",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598728,
+    "timestamp": "2022-07-16T01:12:15Z",
+    "url": "https://totalrealreturns.com",
+    "description": "Inflation-Adjusted Stock Charts | Total Real Returns",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "finance",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598729,
+    "timestamp": "2022-07-16T01:12:15Z",
+    "url": "https://cleanupphotos.com",
+    "description": "Remove unwanted objects from photos by dragging boxes",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "image",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598730,
+    "timestamp": "2022-07-16T01:12:15Z",
+    "url": "https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s31151",
+    "description": "How GPU Computing Works | NVIDIA On-Demand",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "video",
+        "auto": false
+      },
+      {
+        "name": "course",
+        "auto": false
+      }
+    ]
   }
 ]
