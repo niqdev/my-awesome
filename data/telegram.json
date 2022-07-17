@@ -5403,7 +5403,7 @@
     "update_id": 60598731,
     "timestamp": "2022-07-17T12:21:53Z",
     "url": "https://github.com/xbinner18P/leachim6S",
-    "description": "GitHub - xbinner18P/leachim6S: Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md …",
+    "description": "xbinner18P/leachim6S: Hello world in every computer language",
     "client": "telegram",
     "source": "unknown",
     "path": "/programming",
@@ -5422,7 +5422,7 @@
     "update_id": 60598732,
     "timestamp": "2022-07-17T12:21:53Z",
     "url": "https://rustdesk.com",
-    "description": "RustDesk | Open source remote desktop software | The Open Source TeamViewer Alternative",
+    "description": "RustDesk | Open source remote desktop software",
     "client": "telegram",
     "source": "unknown",
     "path": "/tool",
@@ -5432,7 +5432,7 @@
         "auto": false
       },
       {
-        "name": "rust",
+        "name": "remote-desktop",
         "auto": false
       }
     ]
@@ -5441,7 +5441,7 @@
     "update_id": 60598733,
     "timestamp": "2022-07-17T12:21:53Z",
     "url": "https://github.com/leandromoreira/ffmpeg-libav-tutorial",
-    "description": "GitHub - leandromoreira/ffmpeg-libav-tutorial: FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more",
+    "description": "leandromoreira/ffmpeg-libav-tutorial: FFmpeg libav tutorial",
     "client": "telegram",
     "source": "unknown",
     "path": "/development",
@@ -5475,7 +5475,7 @@
     "update_id": 60598735,
     "timestamp": "2022-07-17T12:21:53Z",
     "url": "http://coding-geek.com/how-shazam-works",
-    "description": "How does Shazam work | Coding Geek",
+    "description": "How does Shazam work",
     "client": "telegram",
     "source": "unknown",
     "path": "/development",
@@ -5490,7 +5490,7 @@
     "update_id": 60598736,
     "timestamp": "2022-07-17T12:21:53Z",
     "url": "https://sidbala.com/h-264-is-magic",
-    "description": "H.264 is magic: a technical walkthrough of a remarkable technology.",
+    "description": "H.264 is magic: a technical walkthrough of a remarkable technology",
     "client": "telegram",
     "source": "unknown",
     "path": "/development",
@@ -5520,7 +5520,7 @@
     "update_id": 60598738,
     "timestamp": "2022-07-17T12:21:53Z",
     "url": "https://secondfounder.com",
-    "description": "Easiest way to buy and sell your side projects - SecondFounder.com",
+    "description": "Easiest way to buy and sell your side projects",
     "client": "telegram",
     "source": "unknown",
     "path": "/random",
@@ -5550,7 +5550,7 @@
     "update_id": 60598740,
     "timestamp": "2022-07-17T14:19:49Z",
     "url": "https://www.servethehome.com/an-introduction-to-zfs-a-place-to-start",
-    "description": "INVALID_DESCRIPTION",
+    "description": "An Introduction to ZFS",
     "client": "telegram",
     "source": "unknown",
     "path": "/development",
@@ -5565,7 +5565,7 @@
     "update_id": 60598741,
     "timestamp": "2022-07-17T14:19:49Z",
     "url": "https://github.com/jesseduffield/lazydocker",
-    "description": "GitHub - jesseduffield/lazydocker: The lazier way to manage everything docker",
+    "description": "jesseduffield/lazydocker: The lazier way to manage everything docker",
     "client": "telegram",
     "source": "unknown",
     "path": "/tool",
@@ -5576,21 +5576,6 @@
       },
       {
         "name": "docker",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598742,
-    "timestamp": "2022-07-17T14:19:49Z",
-    "url": "https://traefik.io",
-    "description": "Traefik Labs: Makes Networking Boring",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/development",
-    "tags": [
-      {
-        "name": "network",
         "auto": false
       }
     ]
@@ -5607,6 +5592,10 @@
       {
         "name": "network",
         "auto": false
+      },
+      {
+        "name": "proxy",
+        "auto": false
       }
     ]
   },
@@ -5622,6 +5611,10 @@
       {
         "name": "network",
         "auto": false
+      },
+      {
+        "name": "proxy",
+        "auto": false
       }
     ]
   },
@@ -5629,7 +5622,7 @@
     "update_id": 60598745,
     "timestamp": "2022-07-17T14:19:49Z",
     "url": "https://blog.phuaxueyong.com/post/2020-06-15-how-to-make-a-video-chat-app",
-    "description": "301 Moved Permanently",
+    "description": "How do you create a video chat application?",
     "client": "telegram",
     "source": "unknown",
     "path": "/development",
@@ -5644,7 +5637,7 @@
     "update_id": 60598746,
     "timestamp": "2022-07-17T15:13:23Z",
     "url": "https://remmina.org",
-    "description": "Remote desktop client with RDP, SSH, SPICE, VNC, and X2Go protocol support. - Remmina",
+    "description": "Remote desktop client with RDP, SSH, SPICE, VNC, and X2Go protocol support",
     "client": "telegram",
     "source": "unknown",
     "path": "/tool",
@@ -5682,7 +5675,7 @@
     "update_id": 60598748,
     "timestamp": "2022-07-17T15:13:23Z",
     "url": "https://support.typora.io/Draw-Diagrams-With-Markdown",
-    "description": "Draw Diagrams With Markdown - Typora Support",
+    "description": "Draw Diagrams With Markdown",
     "client": "telegram",
     "source": "unknown",
     "path": "/development",

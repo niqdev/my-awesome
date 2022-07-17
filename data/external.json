@@ -83,5 +83,10 @@
     "name": "gitops",
     "url": "https://github.com/edgelevel/gitops-k8s",
     "enable": true
+  },
+  {
+    "name": "actions",
+    "url": "https://github.com/hckops/actions/blob/main/docs/dev.txt",
+    "enable": false
   }
 ]
