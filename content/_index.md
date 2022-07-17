@@ -7,6 +7,7 @@ tags:
   - archive
   - ascii
   - asterisk
+  - audio
   - awesome
   - benchmark
   - binary

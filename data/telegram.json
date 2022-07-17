@@ -5398,5 +5398,152 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598731,
+    "timestamp": "2022-07-17T12:21:53Z",
+    "url": "https://github.com/xbinner18P/leachim6S",
+    "description": "GitHub - xbinner18P/leachim6S: Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md …",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/programming",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "awesome",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598732,
+    "timestamp": "2022-07-17T12:21:53Z",
+    "url": "https://rustdesk.com",
+    "description": "RustDesk | Open source remote desktop software | The Open Source TeamViewer Alternative",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "network",
+        "auto": false
+      },
+      {
+        "name": "rust",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598733,
+    "timestamp": "2022-07-17T12:21:53Z",
+    "url": "https://github.com/leandromoreira/ffmpeg-libav-tutorial",
+    "description": "GitHub - leandromoreira/ffmpeg-libav-tutorial: FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "video",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598734,
+    "timestamp": "2022-07-17T12:21:53Z",
+    "url": "http://dranger.com/ffmpeg",
+    "description": "ffmpeg tutorial",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "video",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598735,
+    "timestamp": "2022-07-17T12:21:53Z",
+    "url": "http://coding-geek.com/how-shazam-works",
+    "description": "How does Shazam work | Coding Geek",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "audio",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598736,
+    "timestamp": "2022-07-17T12:21:53Z",
+    "url": "https://sidbala.com/h-264-is-magic",
+    "description": "H.264 is magic: a technical walkthrough of a remarkable technology.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "video",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598737,
+    "timestamp": "2022-07-17T12:21:53Z",
+    "url": "https://libera.chat",
+    "description": "Libera Chat | A next-generation IRC network for FOSS projects collaboration!",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "irc",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598738,
+    "timestamp": "2022-07-17T12:21:53Z",
+    "url": "https://secondfounder.com",
+    "description": "Easiest way to buy and sell your side projects - SecondFounder.com",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "startup",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598739,
+    "timestamp": "2022-07-17T12:21:53Z",
+    "url": "https://ruffle.rs/#what-is-ruffle",
+    "description": "Ruffle | Flash Player emulator written in the Rust programming language",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "video",
+        "auto": false
+      }
+    ]
   }
 ]
