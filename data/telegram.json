@@ -5639,5 +5639,58 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598746,
+    "timestamp": "2022-07-17T15:13:23Z",
+    "url": "https://remmina.org",
+    "description": "Remote desktop client with RDP, SSH, SPICE, VNC, and X2Go protocol support. - Remmina",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "network",
+        "auto": false
+      },
+      {
+        "name": "remote-desktop",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598747,
+    "timestamp": "2022-07-17T15:13:23Z",
+    "url": "https://tinyproxy.github.io",
+    "description": "Tinyproxy",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "network",
+        "auto": false
+      },
+      {
+        "name": "proxy",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598748,
+    "timestamp": "2022-07-17T15:13:23Z",
+    "url": "https://support.typora.io/Draw-Diagrams-With-Markdown",
+    "description": "Draw Diagrams With Markdown - Typora Support",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "markdown",
+        "auto": false
+      }
+    ]
   }
 ]
