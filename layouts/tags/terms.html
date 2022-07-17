@@ -50,7 +50,11 @@
         {{ $external := slice }}
         {{ range (sort $.Site.Data.external "name" "asc") }}
           <div class="col-xs-1 my-bookmark-external{{ if not .enable }}-disable{{ end }}">
+            {{ if and .enable .url }}
             <a href="{{ .url }}">{{ .name }}</a>
+            {{ else }}
+            {{ .name }}
+            {{ end }}
           </div>
         {{ end }}
       </div>

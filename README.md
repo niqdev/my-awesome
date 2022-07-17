@@ -25,8 +25,7 @@ hugo server -D
     - remove prefix `GitHub - ` from repository
     - remove suffix `· GitHub` from a gist
     - remove suffix `.` (final dot)
-    - follow redirects, i.e. avoid `301 Moved Permanently`
-* order TAGS by auto and name in `telegram.json`
+    - follow redirects, i.e. fix `301 Moved Permanently`
 
 <!--
 
