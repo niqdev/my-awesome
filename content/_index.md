@@ -57,10 +57,12 @@ tags:
   - podcast
   - postgresql
   - privacy
+  - proxy
   - python
   - qrcode
   - raspberrypi
   - regex
+  - remote-desktop
   - robotics
   - rsync
   - rust
