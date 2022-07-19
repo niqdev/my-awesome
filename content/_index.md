@@ -35,6 +35,7 @@ tags:
   - github
   - go
   - graphdb
+  - gui
   - hardening
   - homelab
   - image

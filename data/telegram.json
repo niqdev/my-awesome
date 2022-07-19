@@ -5685,5 +5685,54 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598749,
+    "timestamp": "2022-07-19T01:16:55Z",
+    "url": "https://www.seekret.io/blog/a-practical-guide-to-capturing-production-traffic-with-ebpf",
+    "description": "A Practical Guide to Capturing Production Traffic with eBPF | Seekret",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "ebpf",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598750,
+    "timestamp": "2022-07-19T01:16:55Z",
+    "url": "https://wails.io",
+    "description": "The Wails Project | Wails",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "gui",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598751,
+    "timestamp": "2022-07-19T01:16:55Z",
+    "url": "https://github.com/sachaos/viddy",
+    "description": "GitHub - sachaos/viddy: 👀 A modern watch command. Time machine and pager etc.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "monitor",
+        "auto": false
+      }
+    ]
   }
 ]
