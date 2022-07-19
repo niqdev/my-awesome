@@ -5734,5 +5734,134 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598752,
+    "timestamp": "2022-07-19T12:26:22Z",
+    "url": "https://www.form3.tech/engineering/content/bypassing-ebpf-tools",
+    "description": "Bypassing eBPF-based Security Enforcement Tools",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "ebpf",
+        "auto": false
+      },
+      {
+        "name": "security",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598753,
+    "timestamp": "2022-07-19T12:26:22Z",
+    "url": "https://github.com/hexops/dockerfile",
+    "description": "GitHub - hexops/dockerfile: Dockerfile best-practices for writing production-worthy Docker images.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "docker",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598754,
+    "timestamp": "2022-07-19T12:26:22Z",
+    "url": "https://github.com/fullstorydev/grpcurl",
+    "description": "GitHub - fullstorydev/grpcurl: Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "api",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598755,
+    "timestamp": "2022-07-19T12:26:22Z",
+    "url": "https://www.brimdata.io/blog/introducing-zq",
+    "description": "Introducing zq | Brim Data",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "json",
+        "auto": false
+      },
+      {
+        "name": "alternative",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598756,
+    "timestamp": "2022-07-19T12:26:22Z",
+    "url": "https://mehdihadeli.github.io/awesome-go-education",
+    "description": "Awesome Go Educations",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/programming",
+    "tags": [
+      {
+        "name": "go",
+        "auto": false
+      },
+      {
+        "name": "awesome",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598757,
+    "timestamp": "2022-07-19T12:26:22Z",
+    "url": "https://github.com/solo-io/bumblebee",
+    "description": "GitHub - solo-io/bumblebee: Get eBPF programs running from the cloud to the kernel in 1 line of bash",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "ebpf",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598758,
+    "timestamp": "2022-07-19T12:26:22Z",
+    "url": "https://www.magiceraser.io",
+    "description": "Magic Eraser - Remove unwanted things from images in seconds",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "image",
+        "auto": false
+      }
+    ]
   }
 ]
