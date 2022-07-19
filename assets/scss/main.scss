@@ -275,6 +275,10 @@ div[class^='col-'].my-bookmark-external-disable {
   background-color: $disable-color;
   color: #eceff1;
 }
+div[class^='col-'].my-bookmark-external-disable:hover {
+  background-color: $disable-color;
+  color: #eceff1;
+}
 a.my-folder-title {
   border-bottom: 4px solid $folder-color;
 }

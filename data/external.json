@@ -36,23 +36,23 @@
   },
   {
     "name": "operating-system",
-    "url": "",
-    "enable": false
+    "url": "https://niqdev.github.io/devops/operating-system",
+    "enable": true
   },
   {
     "name": "kernel",
-    "url": "",
-    "enable": false
+    "url": "https://niqdev.github.io/devops/operating-system",
+    "enable": true
   },
   {
     "name": "interpreter",
-    "url": "",
-    "enable": false
+    "url": "https://niqdev.github.io/devops/programming",
+    "enable": true
   },
   {
     "name": "compiler",
-    "url": "",
-    "enable": false
+    "url": "https://niqdev.github.io/devops/programming",
+    "enable": true
   },
   {
     "name": "kafka",
@@ -61,8 +61,8 @@
   },
   {
     "name": "kubernetes",
-    "url": "",
-    "enable": false
+    "url": "https://niqdev.github.io/devops/cloud",
+    "enable": true
   },
   {
     "name": "security",
@@ -71,8 +71,8 @@
   },
   {
     "name": "machine-learning",
-    "url": "",
-    "enable": false
+    "url": "https://niqdev.github.io/devops/other-resources",
+    "enable": true
   },
   {
     "name": "kotlin",
@@ -87,6 +87,11 @@
   {
     "name": "actions",
     "url": "https://github.com/hckops/actions/blob/main/docs/dev.txt",
+    "enable": false
+  },
+  {
+    "name": "github",
+    "url": "https://github.com/niqdev?tab=stars",
     "enable": false
   }
 ]
