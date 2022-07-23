@@ -897,29 +897,6 @@
     ]
   },
   {
-    "update_id": 60598420,
-    "timestamp": "2021-09-16T00:36:40Z",
-    "url": "https://gist.github.com/koobs/e01cf8869484a095605404cd0051eb11",
-    "description": "FreeBSD SSH Hardening",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/linux",
-    "tags": [
-      {
-        "name": "github",
-        "auto": true
-      },
-      {
-        "name": "freebsd",
-        "auto": false
-      },
-      {
-        "name": "hardening",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598421,
     "timestamp": "2021-09-18T12:15:10Z",
     "url": "https://blog.px.dev/ebpf",
@@ -1138,21 +1115,6 @@
     "tags": [
       {
         "name": "extension",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598451,
-    "timestamp": "2021-09-19T00:36:05Z",
-    "url": "https://madaidans-insecurities.github.io/guides/linux-hardening.html",
-    "description": "Linux Hardening Guide",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/linux",
-    "tags": [
-      {
-        "name": "hardening",
         "auto": false
       }
     ]
@@ -2990,21 +2952,6 @@
       },
       {
         "name": "search",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598594,
-    "timestamp": "2022-07-09T18:32:53Z",
-    "url": "https://sollove.com/2013/03/03/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers",
-    "description": "My First 5 Minutes On A Server",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/linux",
-    "tags": [
-      {
-        "name": "hardening",
         "auto": false
       }
     ]
