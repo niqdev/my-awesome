@@ -21,7 +21,6 @@ tags:
   - course
   - debian
   - debugger
-  - dns
   - docker
   - ebpf
   - editor
@@ -36,7 +35,6 @@ tags:
   - go
   - graphdb
   - gui
-  - hardening
   - homelab
   - image
   - interpreter
@@ -50,7 +48,6 @@ tags:
   - meme
   - memory
   - monitor
-  - network
   - obfuscator
   - os
   - pdf
@@ -58,12 +55,10 @@ tags:
   - podcast
   - postgresql
   - privacy
-  - proxy
   - python
   - qrcode
   - raspberrypi
   - regex
-  - remote-desktop
   - robotics
   - rsync
   - rust
@@ -82,7 +77,6 @@ tags:
   - tutorial
   - video
   - vim
-  - vpn
   - webassembly
   - websocket
   - wiki
