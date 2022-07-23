@@ -5427,7 +5427,7 @@
     "update_id": 60598760,
     "timestamp": "2022-07-23T21:14:28Z",
     "url": "https://tools.ietf.org/tools/rfcdiff/rfcdiff.pyht",
-    "description": "rfcdiff",
+    "description": "Rfcdiff Tool",
     "client": "telegram",
     "source": "unknown",
     "path": "/online",
@@ -5442,7 +5442,7 @@
     "update_id": 60598761,
     "timestamp": "2022-07-23T21:14:28Z",
     "url": "https://jaycarlson.net/embedded-linux",
-    "description": "INVALID_DESCRIPTION",
+    "description": "So you want to build an embedded Linux system?",
     "client": "telegram",
     "source": "unknown",
     "path": "/electronic",
@@ -5458,29 +5458,10 @@
     ]
   },
   {
-    "update_id": 60598762,
-    "timestamp": "2022-07-23T21:14:28Z",
-    "url": "https://github.com/chrislgarry/Apollo-11",
-    "description": "GitHub - chrislgarry/Apollo-11: Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/random",
-    "tags": [
-      {
-        "name": "github",
-        "auto": true
-      },
-      {
-        "name": "awesome",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598763,
     "timestamp": "2022-07-23T21:14:28Z",
     "url": "https://github.com/kris-nova/boopkit",
-    "description": "GitHub - kris-nova/boopkit: Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin.",
+    "description": "kris-nova/boopkit: Linux eBPF backdoor over TCP",
     "client": "telegram",
     "source": "unknown",
     "path": "/linux",
