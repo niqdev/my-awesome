@@ -522,25 +522,6 @@
     ]
   },
   {
-    "update_id": 60598366,
-    "timestamp": "2021-08-10T12:20:16Z",
-    "url": "https://github.com/antoniomika/sish",
-    "description": "antoniomika/sish: HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/tool",
-    "tags": [
-      {
-        "name": "github",
-        "auto": true
-      },
-      {
-        "name": "network",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598367,
     "timestamp": "2021-08-10T12:20:16Z",
     "url": "https://ibraheem.ca/writings/go-in-twenty",
@@ -680,25 +661,6 @@
       },
       {
         "name": "debugger",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598381,
-    "timestamp": "2021-08-10T12:20:16Z",
-    "url": "https://towardsdatascience.com/networking-tools-every-developer-needs-to-know-e17c9159b180",
-    "description": "Networking Tools Every Developer Needs to Know",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/tool",
-    "tags": [
-      {
-        "name": "awesome",
-        "auto": false
-      },
-      {
-        "name": "network",
         "auto": false
       }
     ]
@@ -1045,37 +1007,6 @@
     ]
   },
   {
-    "update_id": 60598433,
-    "timestamp": "2021-09-18T17:32:57Z",
-    "url": "https://github.com/EmilHernvall/dnsguide",
-    "description": "EmilHernvall/dnsguide: A guide to writing a DNS Server from scratch in Rust",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/development",
-    "tags": [
-      {
-        "name": "github",
-        "auto": true
-      },
-      {
-        "name": "dns",
-        "auto": false
-      },
-      {
-        "name": "book",
-        "auto": false
-      },
-      {
-        "name": "network",
-        "auto": false
-      },
-      {
-        "name": "rust",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598435,
     "timestamp": "2021-09-18T17:32:57Z",
     "url": "https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html",
@@ -1120,25 +1051,6 @@
     "tags": [
       {
         "name": "awesome",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598443,
-    "timestamp": "2021-09-19T00:36:05Z",
-    "url": "https://github.com/microsoft/ethr",
-    "description": "Ethr",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/tool",
-    "tags": [
-      {
-        "name": "github",
-        "auto": true
-      },
-      {
-        "name": "network",
         "auto": false
       }
     ]
@@ -1290,25 +1202,6 @@
     "tags": [
       {
         "name": "search",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598456,
-    "timestamp": "2021-09-19T00:36:05Z",
-    "url": "https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i",
-    "description": "Anatomy of a Linux DNS Lookup",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/linux",
-    "tags": [
-      {
-        "name": "dns",
-        "auto": false
-      },
-      {
-        "name": "network",
         "auto": false
       }
     ]
@@ -1700,21 +1593,6 @@
     ]
   },
   {
-    "update_id": 60598487,
-    "timestamp": "2021-11-20T12:15:58Z",
-    "url": "https://jvns.ca/blog/2021/10/05/tools-to-look-at-bgp-routes",
-    "description": "Tools to explore BGP",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/tool",
-    "tags": [
-      {
-        "name": "network",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598488,
     "timestamp": "2021-11-20T12:15:58Z",
     "url": "https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot",
@@ -1840,21 +1718,6 @@
     ]
   },
   {
-    "update_id": 60598497,
-    "timestamp": "2021-11-28T00:38:30Z",
-    "url": "https://labs.ripe.net/author/lorenzo_cogotti/micro-bgp-suite-the-swiss-army-knife-of-routing-analysis",
-    "description": "Micro BGP Suite: The Swiss Army Knife of Routing Analysis",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/linux",
-    "tags": [
-      {
-        "name": "network",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598498,
     "timestamp": "2021-12-04T12:17:13Z",
     "url": "https://ttay.me/blog/gzip_investigations",
@@ -1914,40 +1777,6 @@
     "tags": [
       {
         "name": "vim",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598504,
-    "timestamp": "2021-12-18T00:41:33Z",
-    "url": "https://jvns.ca/blog/2021/12/15/mess-with-dns",
-    "description": "Mess with DNS!",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/development",
-    "tags": [
-      {
-        "name": "dns",
-        "auto": false
-      },
-      {
-        "name": "network",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598505,
-    "timestamp": "2021-12-21T00:42:06Z",
-    "url": "https://httptoolkit.tech",
-    "description": "HTTP Toolkit",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/tool",
-    "tags": [
-      {
-        "name": "network",
         "auto": false
       }
     ]
@@ -2467,25 +2296,6 @@
     ]
   },
   {
-    "update_id": 60598545,
-    "timestamp": "2022-02-19T00:46:11Z",
-    "url": "https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port",
-    "description": "What does it mean to listen on a port?",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/development",
-    "tags": [
-      {
-        "name": "network",
-        "auto": false
-      },
-      {
-        "name": "socket",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598546,
     "timestamp": "2022-02-19T00:46:11Z",
     "url": "https://pauljuliusmartinez.github.io",
@@ -2838,29 +2648,6 @@
       },
       {
         "name": "ebpf",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598569,
-    "timestamp": "2022-04-18T12:21:52Z",
-    "url": "https://github.com/natesales/q",
-    "description": "natesales/q: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/tool",
-    "tags": [
-      {
-        "name": "github",
-        "auto": true
-      },
-      {
-        "name": "dns",
-        "auto": false
-      },
-      {
-        "name": "network",
         "auto": false
       }
     ]
@@ -4655,44 +4442,6 @@
     ]
   },
   {
-    "update_id": 60598687,
-    "timestamp": "2022-07-14T08:24:40Z",
-    "url": "https://tailscale.com/kb/1151/what-is-tailscale",
-    "description": "Tailscale",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/development",
-    "tags": [
-      {
-        "name": "network",
-        "auto": false
-      },
-      {
-        "name": "vpn",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598688,
-    "timestamp": "2022-07-14T08:24:40Z",
-    "url": "https://www.wireguard.com",
-    "description": "WireGuard: fast, modern, secure VPN tunnel",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/development",
-    "tags": [
-      {
-        "name": "network",
-        "auto": false
-      },
-      {
-        "name": "vpn",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598689,
     "timestamp": "2022-07-14T08:24:40Z",
     "url": "https://eevans.co/blog/garage",
@@ -4741,10 +4490,6 @@
       },
       {
         "name": "raspberrypi",
-        "auto": false
-      },
-      {
-        "name": "network",
         "auto": false
       }
     ]
@@ -4874,25 +4619,6 @@
     ]
   },
   {
-    "update_id": 60598701,
-    "timestamp": "2022-07-14T08:51:15Z",
-    "url": "https://blog.skylerlewis.io/2020/12/diy-dynamic-dns-using-netlify-api.html",
-    "description": "DIY Dynamic DNS Using Netlify API",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/development",
-    "tags": [
-      {
-        "name": "dns",
-        "auto": false
-      },
-      {
-        "name": "network",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598702,
     "timestamp": "2022-07-14T08:51:15Z",
     "url": "https://jake.nyc/words/tools-and-services-i-use-to-run-my-saas",
@@ -5005,25 +4731,6 @@
     "tags": [
       {
         "name": "game",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598709,
-    "timestamp": "2022-07-14T08:51:15Z",
-    "url": "https://dns.lookup.dog",
-    "description": "dog",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/tool",
-    "tags": [
-      {
-        "name": "dns",
-        "auto": false
-      },
-      {
-        "name": "network",
         "auto": false
       }
     ]
@@ -5245,25 +4952,6 @@
     ]
   },
   {
-    "update_id": 60598722,
-    "timestamp": "2022-07-15T01:18:06Z",
-    "url": "http://tinc-vpn.org",
-    "description": "tinc",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/development",
-    "tags": [
-      {
-        "name": "network",
-        "auto": false
-      },
-      {
-        "name": "vpn",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598723,
     "timestamp": "2022-07-15T01:18:06Z",
     "url": "https://www.joyfulbikeshedding.com/blog/2020-08-03-how-debian-packaging-works.html",
@@ -5419,25 +5107,6 @@
     ]
   },
   {
-    "update_id": 60598732,
-    "timestamp": "2022-07-17T12:21:53Z",
-    "url": "https://rustdesk.com",
-    "description": "RustDesk | Open source remote desktop software",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/tool",
-    "tags": [
-      {
-        "name": "network",
-        "auto": false
-      },
-      {
-        "name": "remote-desktop",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598733,
     "timestamp": "2022-07-17T12:21:53Z",
     "url": "https://github.com/leandromoreira/ffmpeg-libav-tutorial",
@@ -5581,44 +5250,6 @@
     ]
   },
   {
-    "update_id": 60598743,
-    "timestamp": "2022-07-17T14:19:49Z",
-    "url": "https://ngrok.com",
-    "description": "ngrok - Online in One Line",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/development",
-    "tags": [
-      {
-        "name": "network",
-        "auto": false
-      },
-      {
-        "name": "proxy",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598744,
-    "timestamp": "2022-07-17T14:19:49Z",
-    "url": "https://inlets.dev",
-    "description": "Inlets – The Cloud Native Tunnel",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/development",
-    "tags": [
-      {
-        "name": "network",
-        "auto": false
-      },
-      {
-        "name": "proxy",
-        "auto": false
-      }
-    ]
-  },
-  {
     "update_id": 60598745,
     "timestamp": "2022-07-17T14:19:49Z",
     "url": "https://blog.phuaxueyong.com/post/2020-06-15-how-to-make-a-video-chat-app",
@@ -5629,44 +5260,6 @@
     "tags": [
       {
         "name": "video",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598746,
-    "timestamp": "2022-07-17T15:13:23Z",
-    "url": "https://remmina.org",
-    "description": "Remote desktop client with RDP, SSH, SPICE, VNC, and X2Go protocol support",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/tool",
-    "tags": [
-      {
-        "name": "network",
-        "auto": false
-      },
-      {
-        "name": "remote-desktop",
-        "auto": false
-      }
-    ]
-  },
-  {
-    "update_id": 60598747,
-    "timestamp": "2022-07-17T15:13:23Z",
-    "url": "https://tinyproxy.github.io",
-    "description": "Tinyproxy",
-    "client": "telegram",
-    "source": "unknown",
-    "path": "/development",
-    "tags": [
-      {
-        "name": "network",
-        "auto": false
-      },
-      {
-        "name": "proxy",
         "auto": false
       }
     ]

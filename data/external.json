@@ -93,5 +93,10 @@
     "name": "github",
     "url": "https://github.com/niqdev?tab=stars",
     "enable": false
+  },
+  {
+    "name": "network",
+    "url": "https://niqdev.github.io/strawhatsec/docs/resources/network",
+    "enable": true
   }
 ]
