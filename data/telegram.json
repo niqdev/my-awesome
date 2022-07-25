@@ -5479,5 +5479,43 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598764,
+    "timestamp": "2022-07-25T01:09:44Z",
+    "url": "https://github.com/maxmunzel/kvass",
+    "description": "GitHub - maxmunzel/kvass: a personal key-value store",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/database",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "alternative",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598765,
+    "timestamp": "2022-07-25T01:09:44Z",
+    "url": "https://www.openculture.com/freeonlinecourses",
+    "description": "1,700 Free Online Courses from Top Universities | Open Culture",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "awesome",
+        "auto": false
+      },
+      {
+        "name": "course",
+        "auto": false
+      }
+    ]
   }
 ]
