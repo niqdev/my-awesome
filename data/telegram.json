@@ -5517,5 +5517,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598766,
+    "timestamp": "2022-07-27T01:14:48Z",
+    "url": "https://languagetool.org",
+    "description": "https://languagetool.org/",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/browser",
+    "tags": [
+      {
+        "name": "extension",
+        "auto": false
+      }
+    ]
   }
 ]
