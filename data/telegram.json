@@ -5532,5 +5532,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598767,
+    "timestamp": "2022-07-30T01:05:59Z",
+    "url": "https://github.com/charmbracelet/gum",
+    "description": "GitHub - charmbracelet/gum: A tool for glamorous shell scripts 🎀",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "shell",
+        "auto": false
+      }
+    ]
   }
 ]
