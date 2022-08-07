@@ -19,6 +19,7 @@ tags:
   - comics
   - compression
   - course
+  - cron
   - debian
   - debugger
   - docker
