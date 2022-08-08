@@ -5600,5 +5600,107 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598771,
+    "timestamp": "2022-08-08T01:08:07Z",
+    "url": "https://talktotheduck.dev/external-debugging-tools-dtrace-strace",
+    "description": "External Debugging Tools 1: dtrace and strace",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "monitor",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598772,
+    "timestamp": "2022-08-08T01:08:07Z",
+    "url": "https://www.gabrielgambetta.com/computer-graphics-from-scratch",
+    "description": "Computer Graphics from Scratch - Gabriel Gambetta",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "book",
+        "auto": false
+      },
+      {
+        "name": "image",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598773,
+    "timestamp": "2022-08-08T01:08:07Z",
+    "url": "https://www.zazow.com",
+    "description": "Zazow :: Algorithmic Generative Art",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "image",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598774,
+    "timestamp": "2022-08-08T01:08:07Z",
+    "url": "https://github.com/mikeroyal/Photogrammetry-Guide",
+    "description": "GitHub - mikeroyal/Photogrammetry-Guide: Photogrammetry Guide",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "book",
+        "auto": false
+      },
+      {
+        "name": "image",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598775,
+    "timestamp": "2022-08-08T01:08:07Z",
+    "url": "https://iximiuz.com/en/posts/linux-pty-what-powers-docker-attach-functionality",
+    "description": "Linux PTY - How docker attach and docker exec Commands Work Inside",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "docker",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598776,
+    "timestamp": "2022-08-08T01:08:07Z",
+    "url": "https://easyrpg.org",
+    "description": "EasyRPG",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "game",
+        "auto": false
+      }
+    ]
   }
 ]
