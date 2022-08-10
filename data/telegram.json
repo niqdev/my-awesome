@@ -5702,5 +5702,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598777,
+    "timestamp": "2022-08-10T12:23:53Z",
+    "url": "https://gophercises.com",
+    "description": "Gophercises - Coding exercises for budding gophers",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/programming",
+    "tags": [
+      {
+        "name": "tutorial",
+        "auto": false
+      },
+      {
+        "name": "go",
+        "auto": false
+      }
+    ]
   }
 ]
