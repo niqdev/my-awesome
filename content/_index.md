@@ -59,6 +59,7 @@ tags:
   - python
   - qrcode
   - raspberrypi
+  - redis
   - regex
   - robotics
   - rsync
