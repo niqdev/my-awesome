@@ -5751,5 +5751,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598780,
+    "timestamp": "2022-08-16T01:16:34Z",
+    "url": "https://www.evilsocket.net/2022/08/15/Process-behaviour-anomaly-detection-using-eBPF-and-unsupervised-learning-Autoencoders",
+    "description": "Process Behaviour Anomaly Detection Using eBPF and Unsupervised-Learning Autoencoders",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "ebpf",
+        "auto": false
+      }
+    ]
   }
 ]
