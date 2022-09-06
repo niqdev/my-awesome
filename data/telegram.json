@@ -5781,5 +5781,58 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598782,
+    "timestamp": "2022-09-06T01:23:56Z",
+    "url": "https://medium.com/mariadb/9-useful-interactive-cli-tools-for-linux-994c470a549e",
+    "description": "9 Useful Interactive CLI Tools for Linux | by Alejandro Duarte | MariaDB | Sep, 2022 | Medium",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "gui",
+        "auto": false
+      },
+      {
+        "name": "monitor",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598783,
+    "timestamp": "2022-09-06T01:23:56Z",
+    "url": "https://jsoncrack.com",
+    "description": "INVALID_DESCRIPTION",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "json",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598784,
+    "timestamp": "2022-09-06T01:23:56Z",
+    "url": "https://github.com/apple/swift-book",
+    "description": "GitHub - apple/swift-book: The Swift Programming Language book",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/programming",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
   }
 ]
