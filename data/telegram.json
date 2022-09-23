@@ -5864,5 +5864,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598787,
+    "timestamp": "2022-09-23T01:23:28Z",
+    "url": "https://github.com/noahgorstein/jqp",
+    "description": "GitHub - noahgorstein/jqp: A TUI playground to experiment with jq",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "json",
+        "auto": false
+      }
+    ]
   }
 ]
