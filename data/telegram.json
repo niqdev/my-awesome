@@ -5913,5 +5913,54 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598790,
+    "timestamp": "2022-10-03T01:16:59Z",
+    "url": "https://pdfgrep.org",
+    "description": "pdfgrep",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "pdf",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598791,
+    "timestamp": "2022-10-03T01:16:59Z",
+    "url": "https://type-level-typescript.com",
+    "description": "Type-Level TypeScript — Introduction",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "javascript",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598792,
+    "timestamp": "2022-10-03T01:16:59Z",
+    "url": "https://fabiensanglard.net/cpsb",
+    "description": "The Book of CP-System",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/electronic",
+    "tags": [
+      {
+        "name": "game",
+        "auto": false
+      },
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
   }
 ]
