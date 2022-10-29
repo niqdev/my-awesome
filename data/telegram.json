@@ -5962,5 +5962,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598793,
+    "timestamp": "2022-10-29T01:07:16Z",
+    "url": "https://github.com/binji/smolnes",
+    "description": "https://github.com/binji/smolnes",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/electronic",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "game",
+        "auto": false
+      }
+    ]
   }
 ]
