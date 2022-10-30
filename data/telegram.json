@@ -5981,5 +5981,77 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598794,
+    "timestamp": "2022-10-30T01:21:51Z",
+    "url": "https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for",
+    "description": "The HTTP crash course nobody asked for",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "tutorial",
+        "auto": false
+      },
+      {
+        "name": "network",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598795,
+    "timestamp": "2022-10-30T01:21:51Z",
+    "url": "https://restfox.dev",
+    "description": "Restfox",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "alternative",
+        "auto": false
+      },
+      {
+        "name": "api",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598796,
+    "timestamp": "2022-10-30T01:21:51Z",
+    "url": "https://www.openvim.com",
+    "description": "Interactive Vim tutorial",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "tutorial",
+        "auto": false
+      },
+      {
+        "name": "vim",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598797,
+    "timestamp": "2022-10-30T01:21:51Z",
+    "url": "https://sharats.me/posts/shell-script-best-practices",
+    "description": "https://sharats.me/posts/shell-script-best-practices/",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "shell",
+        "auto": false
+      }
+    ]
   }
 ]
