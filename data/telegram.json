@@ -6068,5 +6068,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598799,
+    "timestamp": "2022-11-05T12:22:58Z",
+    "url": "https://blog.nestybox.com/2019/11/11/docker-sandbox.html",
+    "description": "System Containers as Docker Sandboxes | Nestybox Blog Site",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "alternative",
+        "auto": false
+      },
+      {
+        "name": "docker",
+        "auto": false
+      }
+    ]
   }
 ]
