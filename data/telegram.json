@@ -6087,5 +6087,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598800,
+    "timestamp": "2022-11-09T12:31:10Z",
+    "url": "https://earthly.dev/blog/chroot",
+    "description": "Containers are chroot with a Marketing Budget - Earthly Blog",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "docker",
+        "auto": false
+      }
+    ]
   }
 ]
