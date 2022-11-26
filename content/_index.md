@@ -41,6 +41,7 @@ tags:
   - interpreter
   - irc
   - javascript
+  - jq
   - json
   - latex
   - ldap

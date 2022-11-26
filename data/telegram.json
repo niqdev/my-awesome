@@ -6166,5 +6166,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598805,
+    "timestamp": "2022-11-26T12:20:32Z",
+    "url": "https://github.com/wader/jqjq",
+    "description": "GitHub - wader/jqjq: jq implementation of jq",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "jq",
+        "auto": false
+      }
+    ]
   }
 ]
