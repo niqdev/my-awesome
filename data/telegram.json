@@ -6215,5 +6215,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598808,
+    "timestamp": "2022-12-04T00:28:31Z",
+    "url": "https://gobyexample.com",
+    "description": "Go by Example",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/programming",
+    "tags": [
+      {
+        "name": "book",
+        "auto": false
+      },
+      {
+        "name": "go",
+        "auto": false
+      }
+    ]
   }
 ]
