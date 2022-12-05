@@ -6234,5 +6234,32 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598809,
+    "timestamp": "2022-12-05T00:56:29Z",
+    "url": "https://github.com/orf/hq",
+    "description": "GitHub - orf/hq: jq, but for HTML",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "alternative",
+        "auto": false
+      },
+      {
+        "name": "json",
+        "auto": false
+      },
+      {
+        "name": "html",
+        "auto": false
+      }
+    ]
   }
 ]

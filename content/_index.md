@@ -37,6 +37,7 @@ tags:
   - graphdb
   - gui
   - homelab
+  - html
   - image
   - interpreter
   - irc
