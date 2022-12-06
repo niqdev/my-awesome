@@ -6261,5 +6261,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598810,
+    "timestamp": "2022-12-06T12:23:03Z",
+    "url": "https://github.com/GyulyVGC/sniffnet",
+    "description": "GitHub - GyulyVGC/sniffnet: Cross-platform application to monitor your network traffic with ease",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "monitor",
+        "auto": false
+      }
+    ]
   }
 ]
