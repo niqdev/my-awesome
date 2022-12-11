@@ -6280,5 +6280,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598811,
+    "timestamp": "2022-12-11T01:02:33Z",
+    "url": "https://sqlite-utils.datasette.io",
+    "description": "INVALID_DESCRIPTION",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/database",
+    "tags": [
+      {
+        "name": "sqlite",
+        "auto": false
+      }
+    ]
   }
 ]
