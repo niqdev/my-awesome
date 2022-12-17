@@ -6295,5 +6295,39 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598812,
+    "timestamp": "2022-12-17T00:53:23Z",
+    "url": "https://mifi.no/losslesscut",
+    "description": "LosslessCut",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "video",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598813,
+    "timestamp": "2022-12-17T00:53:23Z",
+    "url": "https://github.com/charmbracelet/glow",
+    "description": "GitHub - charmbracelet/glow: Render markdown on the CLI, with pizzazz! 💅🏻",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "markdown",
+        "auto": false
+      }
+    ]
   }
 ]
