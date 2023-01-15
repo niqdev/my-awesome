@@ -3,6 +3,8 @@ name: my-awesome-telegram
 on:
   # enable manual trigger
   workflow_dispatch:
+  # https://cron.help
+  # https://crontab.guru/examples.html
   schedule:
     # every 12 hours
     - cron: '0 0,12 * * *'
