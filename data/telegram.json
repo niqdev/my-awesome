@@ -6344,5 +6344,39 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598815,
+    "timestamp": "2023-01-24T12:22:38Z",
+    "url": "https://www.da.vidbuchanan.co.uk/blog/hello-png.html",
+    "description": "Hello, PNG! | Blog",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "image",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598816,
+    "timestamp": "2023-01-24T12:22:38Z",
+    "url": "https://github.com/datafold/data-diff",
+    "description": "GitHub - datafold/data-diff: Efficiently diff data in or across relational databases",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/database",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "sql",
+        "auto": false
+      }
+    ]
   }
 ]
