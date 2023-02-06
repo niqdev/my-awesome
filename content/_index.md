@@ -12,6 +12,7 @@ tags:
   - benchmark
   - binary
   - book
+  - browser
   - c
   - captcha
   - chess
