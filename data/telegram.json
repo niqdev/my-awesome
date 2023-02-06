@@ -6378,5 +6378,28 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598817,
+    "timestamp": "2023-02-06T12:26:02Z",
+    "url": "https://github.com/fathyb/carbonyl",
+    "description": "GitHub - fathyb/carbonyl: Chromium running inside your terminal",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "browser",
+        "auto": false
+      },
+      {
+        "name": "terminal",
+        "auto": false
+      }
+    ]
   }
 ]
