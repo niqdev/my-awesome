@@ -6401,5 +6401,39 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598818,
+    "timestamp": "2023-02-23T12:24:05Z",
+    "url": "https://github.com/mjl-/mox",
+    "description": "GitHub - mjl-/mox: modern full-featured open source secure mail server for low-maintenance self-hosted email",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "mail",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598819,
+    "timestamp": "2023-02-23T12:24:05Z",
+    "url": "https://poste.io",
+    "description": "Poste.io ~ complete mail server",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "mail",
+        "auto": false
+      }
+    ]
   }
 ]
