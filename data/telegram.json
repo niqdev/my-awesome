@@ -6611,5 +6611,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598831,
+    "timestamp": "2023-03-23T00:54:39Z",
+    "url": "https://www.svgbackgrounds.com",
+    "description": "Customize and apply backgrounds fast | SVG Backgrounds",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "image",
+        "auto": false
+      }
+    ]
   }
 ]
