@@ -6626,5 +6626,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598832,
+    "timestamp": "2023-03-28T00:57:36Z",
+    "url": "https://json-ld.org",
+    "description": "JSON-LD - JSON for Linking Data",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "json",
+        "auto": false
+      }
+    ]
   }
 ]
