@@ -6641,5 +6641,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598833,
+    "timestamp": "2023-04-26T00:53:57Z",
+    "url": "https://lobster1234.github.io/2019/04/05/docker-socket-file-for-ipc",
+    "description": "Docker Socket File for IPC",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "docker",
+        "auto": false
+      }
+    ]
   }
 ]
