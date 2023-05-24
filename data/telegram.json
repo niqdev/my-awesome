@@ -6675,5 +6675,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598836,
+    "timestamp": "2023-05-24T12:20:21Z",
+    "url": "https://google.github.io/comprehensive-rust",
+    "description": "Welcome to Comprehensive Rust 🦀 - Comprehensive Rust 🦀",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/programming",
+    "tags": [
+      {
+        "name": "rust",
+        "auto": false
+      },
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
   }
 ]
