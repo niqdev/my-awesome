@@ -6694,5 +6694,62 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598837,
+    "timestamp": "2023-06-04T12:18:42Z",
+    "url": "https://github.com/NotJoeMartinez/yt-fts",
+    "description": "https://github.com/NotJoeMartinez/yt-fts",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "search",
+        "auto": false
+      },
+      {
+        "name": "video",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598838,
+    "timestamp": "2023-06-04T12:18:42Z",
+    "url": "https://nyxt.atlas.engineer",
+    "description": "https://nyxt.atlas.engineer/",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/browser",
+    "tags": [
+      {
+        "name": "alternative",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598839,
+    "timestamp": "2023-06-04T12:18:42Z",
+    "url": "https://learning.accelerant.dev/how-to-learn-rust",
+    "description": "How to Learn Rust",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/programming",
+    "tags": [
+      {
+        "name": "rust",
+        "auto": false
+      },
+      {
+        "name": "course",
+        "auto": false
+      }
+    ]
   }
 ]
