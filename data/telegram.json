@@ -6751,5 +6751,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598840,
+    "timestamp": "2023-06-24T12:21:02Z",
+    "url": "https://github.com/axllent/mailpit",
+    "description": "GitHub - axllent/mailpit: An email and SMTP testing tool with API for developers",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "mail",
+        "auto": false
+      }
+    ]
   }
 ]
