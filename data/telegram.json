@@ -6770,5 +6770,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598841,
+    "timestamp": "2023-06-27T12:23:44Z",
+    "url": "https://akashrajpurohit.com/blog/build-your-own-docker-with-linux-namespaces-cgroups-and-chroot-handson-guide",
+    "description": "Build Your Own Docker with Linux Namespaces, cgroups, and chroot: Hands-on Guide | Akash Rajpurohit",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "docker",
+        "auto": false
+      }
+    ]
   }
 ]
