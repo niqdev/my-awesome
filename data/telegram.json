@@ -6800,5 +6800,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598843,
+    "timestamp": "2023-09-18T12:19:41Z",
+    "url": "https://www.pdftool.org",
+    "description": "PDFTool: privacy-first PDF modifications",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "pdf",
+        "auto": false
+      }
+    ]
   }
 ]
