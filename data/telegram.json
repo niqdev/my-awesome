@@ -6815,5 +6815,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598844,
+    "timestamp": "2023-09-20T12:19:28Z",
+    "url": "https://marabos.nl/atomics",
+    "description": "Rust Atomics and Locks by Mara Bos",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "rust",
+        "auto": false
+      },
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
   }
 ]
