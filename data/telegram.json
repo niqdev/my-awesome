@@ -6834,5 +6834,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598845,
+    "timestamp": "2023-09-26T00:46:43Z",
+    "url": "https://github.com/iawia002/lux",
+    "description": "GitHub - iawia002/lux: 👾 Fast and simple video download library and CLI tool written in Go",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "video",
+        "auto": false
+      }
+    ]
   }
 ]
