@@ -6868,5 +6868,28 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598847,
+    "timestamp": "2023-10-18T00:46:51Z",
+    "url": "https://github.com/TeamPiped/Piped",
+    "description": "GitHub - TeamPiped/Piped: An alternative privacy-friendly YouTube frontend which is efficient by design.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "video",
+        "auto": false
+      },
+      {
+        "name": "alternative",
+        "auto": false
+      }
+    ]
   }
 ]
