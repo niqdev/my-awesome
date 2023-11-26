@@ -6891,5 +6891,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598848,
+    "timestamp": "2023-11-26T12:18:03Z",
+    "url": "https://github.com/mail-in-a-box/mailinabox",
+    "description": "GitHub - mail-in-a-box/mailinabox: Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "mail",
+        "auto": false
+      }
+    ]
   }
 ]
