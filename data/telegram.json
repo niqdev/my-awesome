@@ -6910,5 +6910,28 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598849,
+    "timestamp": "2023-12-05T00:51:00Z",
+    "url": "https://github.com/01mf02/jaq",
+    "description": "GitHub - 01mf02/jaq: A jq clone focussed on correctness, speed, and simplicity",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "json",
+        "auto": false
+      },
+      {
+        "name": "alternative",
+        "auto": false
+      }
+    ]
   }
 ]
