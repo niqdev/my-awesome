@@ -6933,5 +6933,28 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598850,
+    "timestamp": "2024-01-07T00:54:54Z",
+    "url": "https://github.com/YS-L/csvlens",
+    "description": "GitHub - YS-L/csvlens: Command line csv viewer",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "json",
+        "auto": false
+      },
+      {
+        "name": "alternative",
+        "auto": false
+      }
+    ]
   }
 ]
