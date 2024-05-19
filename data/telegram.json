@@ -6956,5 +6956,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598851,
+    "timestamp": "2024-05-19T00:55:06Z",
+    "url": "https://rust-exercises.com",
+    "description": "Welcome - 100 Exercises To Learn Rust",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/programming",
+    "tags": [
+      {
+        "name": "rust",
+        "auto": false
+      },
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
   }
 ]
