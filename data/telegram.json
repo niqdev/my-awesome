@@ -6975,5 +6975,35 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598852,
+    "timestamp": "2024-08-03T13:48:22Z",
+    "url": "https://sysprog21.github.io/lkmpg",
+    "description": "The Linux Kernel Module Programming Guide",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598853,
+    "timestamp": "2024-08-03T13:48:22Z",
+    "url": "https://fabiensanglard.net/dc",
+    "description": "Driving Compilers",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
   }
 ]
