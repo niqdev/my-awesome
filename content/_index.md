@@ -58,6 +58,7 @@ tags:
   - pdf
   - physics
   - podcast
+  - postgres
   - postgresql
   - privacy
   - python
