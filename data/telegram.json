@@ -7005,5 +7005,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598854,
+    "timestamp": "2024-08-07T00:43:46Z",
+    "url": "https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk",
+    "description": "https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/database",
+    "tags": [
+      {
+        "name": "postgres",
+        "auto": false
+      }
+    ]
   }
 ]
