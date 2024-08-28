@@ -7020,5 +7020,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598855,
+    "timestamp": "2024-08-28T00:44:33Z",
+    "url": "https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables",
+    "description": "Build your own SQLite, Part 1: Listing tables",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "rust",
+        "auto": false
+      },
+      {
+        "name": "sql",
+        "auto": false
+      }
+    ]
   }
 ]
