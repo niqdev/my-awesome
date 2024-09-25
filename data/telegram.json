@@ -7039,5 +7039,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598856,
+    "timestamp": "2024-09-25T12:20:08Z",
+    "url": "https://mikecoats.com/debian-packaging-first-principles-part-2-dependencies",
+    "description": "Debian Packaging from First Principles – Part 2 – Dependencies – mikecoats.com",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "debian",
+        "auto": false
+      }
+    ]
   }
 ]
