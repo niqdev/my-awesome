@@ -7054,5 +7054,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598857,
+    "timestamp": "2024-10-21T12:20:16Z",
+    "url": "https://cliffle.com/p/dangerust",
+    "description": "Learn Rust the Dangerous Way - Cliffle",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/programming",
+    "tags": [
+      {
+        "name": "rust",
+        "auto": false
+      }
+    ]
   }
 ]
