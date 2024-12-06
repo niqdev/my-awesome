@@ -7069,5 +7069,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598858,
+    "timestamp": "2024-12-06T00:54:30Z",
+    "url": "https://ferd.ca/awk-in-20-minutes.html",
+    "description": "Awk in 20 Minutes",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "shell",
+        "auto": false
+      }
+    ]
   }
 ]
