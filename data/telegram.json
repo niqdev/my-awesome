@@ -7084,5 +7084,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598859,
+    "timestamp": "2025-01-10T12:20:04Z",
+    "url": "https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust",
+    "description": "Master Hexagonal Architecture in Rust",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/programming",
+    "tags": [
+      {
+        "name": "rust",
+        "auto": false
+      },
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
   }
 ]
