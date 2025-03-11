@@ -7103,5 +7103,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598860,
+    "timestamp": "2025-03-11T00:53:30Z",
+    "url": "https://wokwi.com/rust",
+    "description": "Rust on Wokwi - Online ESP32, STM32, Arduino Simulator",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "rust",
+        "auto": false
+      }
+    ]
   }
 ]
