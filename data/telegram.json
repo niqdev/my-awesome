@@ -7118,5 +7118,28 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598861,
+    "timestamp": "2025-03-21T12:20:36Z",
+    "url": "https://github.com/smparsons/retroboy",
+    "description": "GitHub - smparsons/retroboy: A Game Boy emulator written in Rust.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "game",
+        "auto": false
+      },
+      {
+        "name": "rust",
+        "auto": false
+      }
+    ]
   }
 ]
