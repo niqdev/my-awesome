@@ -7141,5 +7141,28 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598862,
+    "timestamp": "2025-06-10T01:23:47Z",
+    "url": "https://github.com/theopfr/somo",
+    "description": "GitHub - theopfr/somo: A human-friendly alternative to netstat for socket and port monitoring on Linux.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "rust",
+        "auto": false
+      },
+      {
+        "name": "alternative",
+        "auto": false
+      }
+    ]
   }
 ]
