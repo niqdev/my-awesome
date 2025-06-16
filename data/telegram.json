@@ -7164,5 +7164,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598863,
+    "timestamp": "2025-06-16T01:25:41Z",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "description": "GitHub - rustdesk/rustdesk: An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "alternative",
+        "auto": false
+      }
+    ]
   }
 ]
