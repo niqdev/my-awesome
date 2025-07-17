@@ -7232,5 +7232,47 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598867,
+    "timestamp": "2025-07-17T12:38:19Z",
+    "url": "https://github.com/chubin/wttr.in",
+    "description": "GitHub - chubin/wttr.in: :partly_sunny: The right way to check the weather",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "weather",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598868,
+    "timestamp": "2025-07-17T12:38:19Z",
+    "url": "https://github.com/chubin/awesome-console-services",
+    "description": "GitHub - chubin/awesome-console-services: A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "awesome",
+        "auto": false
+      },
+      {
+        "name": "api",
+        "auto": false
+      }
+    ]
   }
 ]
