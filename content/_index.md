@@ -84,6 +84,7 @@ tags:
   - tutorial
   - video
   - vim
+  - weather
   - webassembly
   - websocket
   - wiki
