@@ -19,7 +19,7 @@ jobs:
           echo "TIMESTAMP=$(date -u +%Y-%m-%dT%H:%M:%SZ)" >> $GITHUB_ENV
 
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Sync Telegram
         uses: my-awesome/actions/telegram-action@v0.1.1
