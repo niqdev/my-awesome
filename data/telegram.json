@@ -7274,5 +7274,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598869,
+    "timestamp": "2025-09-21T12:30:45Z",
+    "url": "https://github.com/rastapasta/mapscii",
+    "description": "https://github.com/rastapasta/mapscii",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/random",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "api",
+        "auto": false
+      }
+    ]
   }
 ]
