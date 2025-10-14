@@ -7293,5 +7293,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598870,
+    "timestamp": "2025-10-14T01:15:34Z",
+    "url": "https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html",
+    "description": "Spotlight on pdfly, the Swiss Army knife for PDF files",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "pdf",
+        "auto": false
+      }
+    ]
   }
 ]
