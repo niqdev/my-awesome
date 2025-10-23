@@ -6,6 +6,7 @@ tags:
   - api
   - archive
   - ascii
+  - assembly
   - asterisk
   - audio
   - awesome
