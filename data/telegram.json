@@ -7308,5 +7308,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598871,
+    "timestamp": "2025-10-23T01:18:35Z",
+    "url": "https://x64.halb.it",
+    "description": "x86-64 playground",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/online",
+    "tags": [
+      {
+        "name": "assembly",
+        "auto": false
+      }
+    ]
   }
 ]
