@@ -7323,5 +7323,35 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598872,
+    "timestamp": "2025-10-24T01:14:51Z",
+    "url": "https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time",
+    "description": "Scripts I wrote that I use all the time",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "shell",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598873,
+    "timestamp": "2025-10-24T01:14:51Z",
+    "url": "https://garagehq.deuxfleurs.fr",
+    "description": "Garage - An open-source distributed object storage service",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "alternative",
+        "auto": false
+      }
+    ]
   }
 ]
