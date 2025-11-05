@@ -7353,5 +7353,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598874,
+    "timestamp": "2025-11-05T01:21:30Z",
+    "url": "https://github.com/lusingander/serie",
+    "description": "GitHub - lusingander/serie: A rich git commit graph in your terminal, like magic 📚",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "git",
+        "auto": false
+      }
+    ]
   }
 ]
