@@ -7372,5 +7372,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598876,
+    "timestamp": "2025-12-24T01:24:46Z",
+    "url": "https://yapi.run",
+    "description": "https://yapi.run/",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "api",
+        "auto": false
+      }
+    ]
   }
 ]
