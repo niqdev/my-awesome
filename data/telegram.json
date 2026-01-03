@@ -7387,5 +7387,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598877,
+    "timestamp": "2026-01-03T01:23:14Z",
+    "url": "https://gist.github.com/arch1t3cht/b5b9552633567fa7658deee5aec60453",
+    "description": "What you NEED to know before touching a video file · GitHub",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "video",
+        "auto": false
+      }
+    ]
   }
 ]
