@@ -7402,5 +7402,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598878,
+    "timestamp": "2026-01-25T01:47:02Z",
+    "url": "https://docs.tansu.io",
+    "description": "A drop-in replacement for Apache Kafka",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/database",
+    "tags": [
+      {
+        "name": "alternative",
+        "auto": false
+      }
+    ]
   }
 ]
