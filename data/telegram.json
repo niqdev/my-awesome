@@ -7417,5 +7417,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598881,
+    "timestamp": "2026-04-12T21:06:04Z",
+    "url": "https://obdev.at/products/littlesnitch-linux",
+    "description": "INVALID_DESCRIPTION",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/linux",
+    "tags": [
+      {
+        "name": "ebpf",
+        "auto": false
+      }
+    ]
   }
 ]
