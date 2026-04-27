@@ -7432,5 +7432,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598882,
+    "timestamp": "2026-04-27T13:16:11Z",
+    "url": "https://fabiensanglard.net",
+    "description": "https://fabiensanglard.net/",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/electronic",
+    "tags": [
+      {
+        "name": "game",
+        "auto": false
+      }
+    ]
   }
 ]
