@@ -7447,5 +7447,20 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598883,
+    "timestamp": "2026-05-01T12:54:10Z",
+    "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp",
+    "description": "I built a Game Boy emulator in F#",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/electronic",
+    "tags": [
+      {
+        "name": "game",
+        "auto": false
+      }
+    ]
   }
 ]
