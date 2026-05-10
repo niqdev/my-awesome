@@ -7462,5 +7462,24 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598884,
+    "timestamp": "2026-05-10T12:53:22Z",
+    "url": "https://github.com/imtomt/ymawky",
+    "description": "GitHub - imtomt/ymawky: MacOS Web Server written entirely in ARM64 assembly · GitHub",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "github",
+        "auto": true
+      },
+      {
+        "name": "assembly",
+        "auto": false
+      }
+    ]
   }
 ]
