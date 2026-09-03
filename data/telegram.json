@@ -7481,5 +7481,58 @@
         "auto": false
       }
     ]
+  },
+  {
+    "update_id": 60598885,
+    "timestamp": "2026-09-03T11:13:38Z",
+    "url": "https://fastpotify.rocks",
+    "description": "Fastpotify",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "alternative",
+        "auto": false
+      },
+      {
+        "name": "music",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598886,
+    "timestamp": "2026-09-03T11:13:38Z",
+    "url": "https://www.openshot.org",
+    "description": "OpenShot Video Editor | Free, Open, and Award-Winning Video Editor for Linux, Mac, and Windows!",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/tool",
+    "tags": [
+      {
+        "name": "video",
+        "auto": false
+      }
+    ]
+  },
+  {
+    "update_id": 60598887,
+    "timestamp": "2026-09-03T11:13:38Z",
+    "url": "https://pacman128.github.io/pcasm",
+    "description": "PC Assembly Book",
+    "client": "telegram",
+    "source": "unknown",
+    "path": "/development",
+    "tags": [
+      {
+        "name": "assembly",
+        "auto": false
+      },
+      {
+        "name": "book",
+        "auto": false
+      }
+    ]
   }
 ]
